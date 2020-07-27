@@ -1,0 +1,11 @@
+sample_scripts/*
+organized_clinical_datasheet_raw.xlsx
+sub-*/**/*CT.nii*
+*proc-robustfov*
+*space-RAS*
+
+# output of acpc detect
+*.txt
+*.ppm
+*.png
+*.mat
