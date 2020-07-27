@@ -1,0 +1,4 @@
+filename	acq_time	original_filename
+ieeg/sub-umf002_ses-presurgery_task-ictal_acq-ecog_run-01_ieeg.vhdr	1903-05-01T06:44:19	Seizure.edf
+ieeg/sub-umf002_ses-presurgery_task-interictal_acq-ecog_run-01_ieeg.vhdr	1913-10-27T00:16:48	Interictal_ASLEEP.edf
+ieeg/sub-umf002_ses-presurgery_task-interictal_acq-ecog_run-02_ieeg.vhdr	1919-08-02T00:16:48	Interictal_AWAKE.edf

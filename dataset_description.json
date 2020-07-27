@@ -1,0 +1,7 @@
+{
+    "Name": "iEEG Fragility Epileptogenic Zone",
+    "BIDSVersion": "1.4.0",
+    "Authors": [
+        "Adam Li"
+    ]
+}
