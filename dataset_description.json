@@ -2,7 +2,10 @@
     "Name": "iEEG Fragility Epileptogenic Zone",
     "BIDSVersion": "1.4.0",
     "Authors": [
-        "Adam Li"
+        "Adam Li",
+        "Sridevi Sarma",
+        "Kareem Zaghloul",
+        "Sara Inati"
     ],
     "DatasetDOI": "10.18112/openneuro.ds003029.v1.0.0",
     "License": "CC0"
