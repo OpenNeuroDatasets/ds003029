@@ -1,7 +1,5 @@
 Fragility Multi-Center Retrospective Study
-------------------------------------------
-
-<!-- MarkdownTOC -->
+---------------------------------------------------------
 
 - Data Availability
 - Sourcedata
@@ -10,9 +8,6 @@ Fragility Multi-Center Retrospective Study
 - Imaging Data
 - Seizure Electrographic and Clinical Onset Annotations
 - Seizure Onset Zone Annotations
-
-<!-- /MarkdownTOC -->
-
 
 iEEG and EEG data from 5 centers is organized here, with a total of 100 subjects. Sessions consist of 'seizures', and 'interictal' data. Acquisitions include ECoG and SEEG. Each run specifies a different snapshot of EEG data from that specific subject's session. For seizure sessions, this means that each run is a EEG snapshot around a different seizure event.
 
