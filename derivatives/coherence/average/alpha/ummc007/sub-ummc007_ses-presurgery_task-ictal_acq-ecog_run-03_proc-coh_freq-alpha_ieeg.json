@@ -1,0 +1,71 @@
+{
+    "band": "alpha",
+    "ch_names": [
+        "LANT1",
+        "LANT2",
+        "LANT3",
+        "LANT4",
+        "LANT5",
+        "LANT6",
+        "LMES1",
+        "LMES2",
+        "LMES3",
+        "LMES4",
+        "LPT3",
+        "LPT4",
+        "LPT5",
+        "LPT6",
+        "RANT1",
+        "RANT2",
+        "RANT3",
+        "RANT4",
+        "RANT5",
+        "RANT6",
+        "RMES1",
+        "RMES2",
+        "RMES3",
+        "RMES4",
+        "RPT1",
+        "RPT2",
+        "RPT3",
+        "RPT4",
+        "RPT5",
+        "RPT6"
+    ],
+    "clin_onset_event_id": null,
+    "events": [
+        [
+            115,
+            0,
+            2
+        ],
+        [
+            571,
+            0,
+            1
+        ]
+    ],
+    "events_id": {
+        "sz offset": 1,
+        "sz onset": 2
+    },
+    "fmax": 13,
+    "fmin": 8,
+    "length_recording": 349146,
+    "model_params": {
+        "stepsize": 500,
+        "winsize": 2500
+    },
+    "n_wins": 694,
+    "output_fname": "sub-ummc007_ses-presurgery_task-ictal_acq-ecog_run-03_proc-coh_freq-alpha_ieeg.npz",
+    "output_fpath": "/home/adam2392/hdd/derivatives/coherence/average/ummc007/sub-ummc007_ses-presurgery_task-ictal_acq-ecog_run-03_proc-coh_freq-alpha_ieeg.npz",
+    "reference": "average",
+    "sfreq": 1000.0,
+    "spectral_connectivity_matrix_shape": [
+        30,
+        30,
+        694
+    ],
+    "sz_offset_event_id": 1,
+    "sz_onset_event_id": 2
+}

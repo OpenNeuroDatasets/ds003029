@@ -1,0 +1,184 @@
+{
+    "band": "delta",
+    "ch_names": [
+        "G1",
+        "G2",
+        "G3",
+        "G4",
+        "G7",
+        "G8",
+        "G9",
+        "G10",
+        "G13",
+        "G14",
+        "G15",
+        "G16",
+        "G18",
+        "G19",
+        "G20",
+        "G21",
+        "G22",
+        "G23",
+        "G11",
+        "G12",
+        "G24",
+        "G26",
+        "G27",
+        "G28",
+        "G29",
+        "G30",
+        "G31",
+        "G32",
+        "TT1",
+        "TT2",
+        "TT3",
+        "TT4",
+        "TT5",
+        "TT6",
+        "AST3",
+        "AST4",
+        "MST1",
+        "MST2",
+        "MST3",
+        "MST4",
+        "PST1",
+        "PST2",
+        "PST3",
+        "PST4",
+        "OF1",
+        "OF2",
+        "OF3",
+        "OF4",
+        "LF1",
+        "LF2",
+        "LF3",
+        "LF4",
+        "LF5",
+        "LF6",
+        "AST1",
+        "AST2",
+        "LP1",
+        "LP2",
+        "LP3",
+        "LP4",
+        "LP5",
+        "LP6"
+    ],
+    "clin_onset_event_id": null,
+    "clin_onset_win": null,
+    "events": [
+        [
+            0,
+            0,
+            2
+        ],
+        [
+            0,
+            0,
+            12
+        ],
+        [
+            0,
+            0,
+            11
+        ],
+        [
+            265,
+            0,
+            3
+        ],
+        [
+            265,
+            0,
+            9
+        ],
+        [
+            275,
+            0,
+            4
+        ],
+        [
+            275,
+            0,
+            14
+        ],
+        [
+            317,
+            0,
+            5
+        ],
+        [
+            317,
+            0,
+            10
+        ],
+        [
+            319,
+            0,
+            6
+        ],
+        [
+            319,
+            0,
+            1
+        ],
+        [
+            371,
+            0,
+            7
+        ],
+        [
+            371,
+            0,
+            13
+        ],
+        [
+            1469,
+            0,
+            8
+        ],
+        [
+            1469,
+            0,
+            15
+        ]
+    ],
+    "events_id": {
+        "(based on EMG)": 1,
+        "+0.000000": 2,
+        "+135.000000": 3,
+        "+140.000000": 4,
+        "+161.000000": 5,
+        "+162.000000": 6,
+        "+188.000000": 7,
+        "+737.000000": 8,
+        "1st change": 9,
+        "?onset of facial aut": 10,
+        "A1+A2 OFF": 11,
+        "Segment: REC START Prater EEG": 12,
+        "arousal": 13,
+        "definite onset": 14,
+        "offset with attenuat": 15
+    },
+    "fmax": 4,
+    "fmin": 0.5,
+    "length_recording": 873322,
+    "model_params": {
+        "stepsize": 500,
+        "winsize": 2500
+    },
+    "n_wins": 1742,
+    "output_fname": "sub-pt2_ses-presurgery_task-ictal_acq-ecog_run-03_proc-cohcentrality_freq-delta_ieeg.npz",
+    "output_fpath": "/home/adam2392/hdd/derivatives/coherence-centrality/average/pt2/sub-pt2_ses-presurgery_task-ictal_acq-ecog_run-03_proc-cohcentrality_freq-delta_ieeg.npz",
+    "reference": "average",
+    "sfreq": 1000.0,
+    "spectral_connectivity_matrix_shape": [
+        62,
+        62,
+        1742
+    ],
+    "sz_offset_event_id": null,
+    "sz_offset_win": null,
+    "sz_onset_event_id": 14,
+    "sz_onset_win": 275
+}

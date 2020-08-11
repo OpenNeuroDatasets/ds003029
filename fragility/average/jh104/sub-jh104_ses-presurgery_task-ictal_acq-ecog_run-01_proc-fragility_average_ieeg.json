@@ -1,0 +1,358 @@
+{
+    "ch_names": [
+        "LAF1",
+        "LAF3",
+        "LAF5",
+        "LAF7",
+        "LAF4",
+        "LAF6",
+        "LAF8",
+        "LMF1",
+        "LMF2",
+        "LMF3",
+        "LMF6",
+        "LMF7",
+        "LMF8",
+        "LPF1",
+        "LPF2",
+        "LPF3",
+        "LPF4",
+        "LPF5",
+        "LPF6",
+        "LPF7",
+        "LPF8",
+        "LMF4",
+        "LMF5",
+        "LFP1",
+        "LFP2",
+        "LFP3",
+        "LFP4",
+        "LFP5",
+        "LFP6",
+        "LFP7",
+        "LFP8",
+        "LAD1",
+        "LAD2",
+        "LAD3",
+        "LAD4",
+        "LAD5",
+        "LAD6",
+        "LAD7",
+        "LAD8",
+        "LHD1",
+        "LHD2",
+        "LHD3",
+        "LHD4",
+        "LHD5",
+        "LHD6",
+        "LHD7",
+        "LHD8",
+        "LAT1",
+        "LAT2",
+        "LAT3",
+        "LAT4",
+        "ABT1",
+        "ABT2",
+        "ABT3",
+        "ABT4",
+        "MBT1",
+        "MBT2",
+        "MBT3",
+        "MBT4",
+        "MBT5",
+        "MBT6",
+        "PBT1",
+        "PBT2",
+        "PBT3",
+        "PBT4",
+        "PBT5",
+        "PBT6",
+        "LPT1",
+        "LPT2",
+        "LPT3",
+        "LPT4",
+        "LPT5",
+        "LPT6",
+        "LPT7",
+        "LPT8"
+    ],
+    "clin_onset_event_id": null,
+    "clinonset_win": null,
+    "delta_vectors_shape": [
+        75,
+        75,
+        1856
+    ],
+    "events": [
+        [
+            0,
+            0,
+            10001
+        ],
+        [
+            0,
+            0,
+            10022
+        ],
+        [
+            438,
+            0,
+            10006
+        ],
+        [
+            438,
+            0,
+            10021
+        ],
+        [
+            471,
+            0,
+            10007
+        ],
+        [
+            471,
+            0,
+            10020
+        ],
+        [
+            493,
+            0,
+            10008
+        ],
+        [
+            493,
+            0,
+            10036
+        ],
+        [
+            565,
+            0,
+            10009
+        ],
+        [
+            565,
+            0,
+            10035
+        ],
+        [
+            573,
+            0,
+            10010
+        ],
+        [
+            573,
+            0,
+            10034
+        ],
+        [
+            590,
+            0,
+            10011
+        ],
+        [
+            590,
+            0,
+            10029
+        ],
+        [
+            628,
+            0,
+            10012
+        ],
+        [
+            628,
+            0,
+            10032
+        ],
+        [
+            631,
+            0,
+            10037
+        ],
+        [
+            670,
+            0,
+            10013
+        ],
+        [
+            670,
+            0,
+            10019
+        ],
+        [
+            686,
+            0,
+            10014
+        ],
+        [
+            686,
+            0,
+            10024
+        ],
+        [
+            687,
+            0,
+            10027
+        ],
+        [
+            687,
+            0,
+            10028
+        ],
+        [
+            725,
+            0,
+            10015
+        ],
+        [
+            725,
+            0,
+            10030
+        ],
+        [
+            750,
+            0,
+            10016
+        ],
+        [
+            750,
+            0,
+            10025
+        ],
+        [
+            767,
+            0,
+            10017
+        ],
+        [
+            767,
+            0,
+            10033
+        ],
+        [
+            783,
+            0,
+            10018
+        ],
+        [
+            783,
+            0,
+            10031
+        ],
+        [
+            783,
+            0,
+            10040
+        ],
+        [
+            814,
+            0,
+            10002
+        ],
+        [
+            814,
+            0,
+            10039
+        ],
+        [
+            847,
+            0,
+            10003
+        ],
+        [
+            847,
+            0,
+            10026
+        ],
+        [
+            957,
+            0,
+            10004
+        ],
+        [
+            957,
+            0,
+            10038
+        ],
+        [
+            1142,
+            0,
+            10005
+        ],
+        [
+            1142,
+            0,
+            10023
+        ]
+    ],
+    "events_id": {
+        "+0.000000": 10001,
+        "+102.000000": 10002,
+        "+106.000000": 10003,
+        "+120.000000": 10004,
+        "+143.000000": 10005,
+        "+55.000000": 10006,
+        "+59.000000": 10007,
+        "+62.000000": 10008,
+        "+71.000000": 10009,
+        "+72.000000": 10010,
+        "+74.000000": 10011,
+        "+79.000000": 10012,
+        "+84.000000": 10013,
+        "+86.000000": 10014,
+        "+91.000000": 10015,
+        "+94.000000": 10016,
+        "+96.000000": 10017,
+        "+98.000000": 10018,
+        "MARK ON": 10019,
+        "SZ EVENT # (PB SZ)": 10020,
+        "Schedule": 10021,
+        "Segment: REC START REC EEG": 10022,
+        "Z DEVOLUTION": 10023,
+        "Z DROPS PHONE FROM R": 10024,
+        "Z EMU TECH AND RN EN": 10025,
+        "Z EXENSOR POSTURING": 10026,
+        "Z HOLDING ONTO CUP W": 10027,
+        "Z ICTAL BUILD, INC A": 10028,
+        "Z LFP 3-4 , LPF SPRE": 10029,
+        "Z LIFTS BOTH ARMS": 10030,
+        "Z MOANING": 10031,
+        "Z OPENS EYES, LOOKS": 10032,
+        "Z OPENS MOUTH": 10033,
+        "Z PBT 4 > MBT 5-6, L": 10034,
+        "Z PBT RAPID SPIKE": 10035,
+        "Z SEMIRHY SLOW PBT4": 10036,
+        "Z SPREAD TO LAD": 10037,
+        "Z TONIC CLONIC COTNI": 10038,
+        "Z TONIC CLONIC UPPER": 10039,
+        "Z UPPER EXTREMITY ST": 10040
+    },
+    "length_recording": 232185,
+    "model_params": {
+        "method_to_use": "pinv",
+        "numcores": 20,
+        "perturbtype": "C",
+        "radius": 1.5,
+        "sfreq": 1001.001001001001,
+        "stepsize": 125,
+        "tempdir": "/home/adam2392/hdd/derivatives/fragility/average/jh104/sub-jh104_ses-seizure_task-monitor_acq-ecog_run-01_proc-fragility_average_ieeg-tempdir",
+        "winsize": 250
+    },
+    "numwins": 1856,
+    "offsetwin": null,
+    "onsetwin": 471,
+    "output_fpath": "/home/adam2392/hdd/derivatives/fragility/average/jh104/sub-jh104_ses-presurgery_task-ictal_acq-ecog_run-01_proc-fragility_average_ieeg.json",
+    "perturbation_matrix_shape": [
+        75,
+        1856
+    ],
+    "reference": "average",
+    "sfreq": 1001.001001001001,
+    "state_matrix_shape": [
+        75,
+        75,
+        1856
+    ],
+    "sz_offset_event_id": null,
+    "sz_onset_event_id": 10007
+}

@@ -1,0 +1,276 @@
+{
+    "band": "gamma",
+    "ch_names": [
+        "L1",
+        "L2",
+        "L11",
+        "L12",
+        "L13",
+        "L14",
+        "L15",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6",
+        "V7",
+        "V11",
+        "V12",
+        "V13",
+        "V14",
+        "O1",
+        "O2",
+        "O3",
+        "O4",
+        "O5",
+        "O6",
+        "O7",
+        "O12",
+        "O13",
+        "O14",
+        "O15",
+        "O16",
+        "C1",
+        "C2",
+        "C3",
+        "C4",
+        "C5",
+        "C11",
+        "C12",
+        "C13",
+        "C15",
+        "F1",
+        "F2",
+        "F3",
+        "F4",
+        "F5",
+        "F6",
+        "F13",
+        "F14",
+        "B2",
+        "B3",
+        "B4",
+        "B5",
+        "B7",
+        "B8",
+        "B9",
+        "B10",
+        "B11",
+        "B12",
+        "E1",
+        "E4",
+        "E5",
+        "E6",
+        "E7",
+        "E9",
+        "E10",
+        "E11",
+        "E12",
+        "U1",
+        "U2",
+        "U3",
+        "U4",
+        "U5",
+        "U6",
+        "U7",
+        "U8",
+        "U9",
+        "P1",
+        "P2",
+        "P14",
+        "L'1",
+        "L'2",
+        "L'3",
+        "L'4",
+        "L'5",
+        "L'8",
+        "L'9",
+        "L'10",
+        "L'11",
+        "L'12",
+        "L'13",
+        "L'14",
+        "L'15",
+        "U'1",
+        "U'2",
+        "U'3",
+        "U'4",
+        "U'6",
+        "U'7",
+        "U'8",
+        "U'9",
+        "V'1",
+        "V'2",
+        "V'3",
+        "V'4",
+        "V'5",
+        "V'6",
+        "V'7",
+        "V'13",
+        "V'14",
+        "V'15"
+    ],
+    "clin_onset_event_id": 14,
+    "events": [
+        [
+            0,
+            0,
+            1
+        ],
+        [
+            0,
+            0,
+            22
+        ],
+        [
+            0,
+            0,
+            12
+        ],
+        [
+            236,
+            0,
+            2
+        ],
+        [
+            236,
+            0,
+            21
+        ],
+        [
+            239,
+            0,
+            3
+        ],
+        [
+            239,
+            0,
+            15
+        ],
+        [
+            243,
+            0,
+            4
+        ],
+        [
+            243,
+            0,
+            14
+        ],
+        [
+            245,
+            0,
+            5
+        ],
+        [
+            245,
+            0,
+            17
+        ],
+        [
+            247,
+            0,
+            6
+        ],
+        [
+            247,
+            0,
+            13
+        ],
+        [
+            258,
+            0,
+            7
+        ],
+        [
+            258,
+            0,
+            18
+        ],
+        [
+            278,
+            0,
+            8
+        ],
+        [
+            278,
+            0,
+            20
+        ],
+        [
+            358,
+            0,
+            9
+        ],
+        [
+            358,
+            0,
+            19
+        ],
+        [
+            387,
+            0,
+            10
+        ],
+        [
+            387,
+            0,
+            23
+        ],
+        [
+            455,
+            0,
+            11
+        ],
+        [
+            455,
+            0,
+            16
+        ]
+    ],
+    "events_id": {
+        "+0.000000": 1,
+        "+120.530000": 2,
+        "+122.018000": 3,
+        "+123.610000": 4,
+        "+124.970000": 5,
+        "+125.866000": 6,
+        "+131.600000": 7,
+        "+141.550000": 8,
+        "+181.210000": 9,
+        "+195.670000": 10,
+        "+229.787000": 11,
+        "A1+A2 OFF": 12,
+        "B/l hand automotor": 13,
+        "Clinical Onset- Move": 14,
+        "EEG Onset-Hippocampu": 15,
+        "END": 16,
+        "Frowning look coming": 17,
+        "Head non-tonic right": 18,
+        "L head turn + return": 19,
+        "Mouth automotor": 20,
+        "SZ 13P": 21,
+        "Segment: REC START Tech-Bi EE": 22,
+        "Slight trunkal adjus": 23
+    },
+    "fmax": 90,
+    "fmin": 30,
+    "length_recording": 331010,
+    "model_params": {
+        "stepsize": 500,
+        "winsize": 2500
+    },
+    "n_wins": 658,
+    "output_fname": "sub-tvb14_ses-presurgery_task-ictal_acq-seeg_run-04_proc-cohdegree_freq-gamma_ieeg.npz",
+    "output_fpath": "/home/adam2392/hdd/derivatives/coherence-degree/average/gamma/tvb14/sub-tvb14_ses-presurgery_task-ictal_acq-seeg_run-04_proc-cohdegree_freq-gamma_ieeg.npz",
+    "reference": "average",
+    "sfreq": 1000.0,
+    "spectral_connectivity_matrix_shape": [
+        109,
+        109,
+        658
+    ],
+    "sz_offset_event_id": 16,
+    "sz_onset_event_id": 14
+}

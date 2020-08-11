@@ -1,5 +1,7 @@
 Fragility Multi-Center Retrospective Study
----------------------------------------------------------
+------------------------------------------
+
+<!-- MarkdownTOC -->
 
 - Data Availability
 - Sourcedata
@@ -8,6 +10,9 @@ Fragility Multi-Center Retrospective Study
 - Imaging Data
 - Seizure Electrographic and Clinical Onset Annotations
 - Seizure Onset Zone Annotations
+
+<!-- /MarkdownTOC -->
+
 
 iEEG and EEG data from 5 centers is organized here, with a total of 100 subjects. Sessions consist of 'seizures', and 'interictal' data. Acquisitions include ECoG and SEEG. Each run specifies a different snapshot of EEG data from that specific subject's session. For seizure sessions, this means that each run is a EEG snapshot around a different seizure event.
 
@@ -23,23 +28,26 @@ All data, except for Cleveland Clinic was approved by their centers to be de-ide
 
 Amber Sours, MPH
 Research Supervisor | Epilepsy Center 
-Cleveland Clinic.
+Cleveland Clinic  |  9500 Euclid Ave. S3-399 |  Cleveland, OH 44195 
+(216) 444-8638
 
-You will need to sign a data use agreement (DUA) in order to access the raw Cleveland Clinic data. 
+You will need to sign a data use agreement (DUA). 
+
 
 Sourcedata
----------------
+----------
 For each subject, there was a raw EDF file, which was converted into the BrainVision format with `mne_bids`. Each subject with SEEG implantation, also has an Excel table, called `electrode_layout.xlsx`, which outlines where the clinicians marked each electrode anatomically. Note that there is no rigorous atlas applied, so the main points of interest are: `WM`, `GM`, `VENTRICLE`, `CSF`, and `OUT`, which represent white-matter, gray-matter, ventricle, cerebrospinal fluid and outside the brain. WM, Ventricle, CSF and OUT were removed channels from further analysis. These were labeled in the corresponding BIDS `channels.tsv` sidecar file as `status=bad`.
 
 Derivatives
 -----------
 Derivatives include:
-* fragility analysis: `fragility/`
-* frequency analysis: `tfr/`
-* graph metrics analysis: `coherence/`, `coherence-centrality/`, `coherence-degree/`, `correlation-centrality/`, `correlation-degree/`
+* fragility analysis
+* frequency analysis
+* graph metrics analysis
+* figures
 
 Events and Descriptions
----------------------------------
+-----------------------
 Within each EDF file, there contain event markers that are annotated by clinicians, which may inform you of specific clinical events that are occuring in time, or of when they saw seizures onset and offset (clinical and electrographic). 
 
 During a seizure event, specifically event markers may follow this time course:
@@ -51,6 +59,34 @@ During a seizure event, specifically event markers may follow this time course:
 
 Other events included may be beneficial for you to understand the time-course of each seizure. Note that ICTAL SPECT occurs in all Cleveland Clinic data. Note that seizure markers are not consistent in their description naming, so one might encode some specific regular-expression rules to consistently capture seizure onset/offset markers across all dataset. In the case of UMMC data, all onset and offset markers were provided by the clinicians on an Excel sheet instead of via the EDF file. So we went in and added the annotations manually to each EDF file. 
 
+Imaging Data
+------------
+
+Typical neuroimaging data is collected at each center (e.g. presurgical MRI, post-implant CT and possibly DTI and/or post-surgical MRI). These imaging datasets are stored in .dicom format and used if high enough resolution (generally, above 150 dicoms at least). 
+
+**Note:**
+
+For la16, 21, no post-surgical MRI was taken. For nl24, a post-surgical MRI was taken outside of the facility but only had < 50 slices/scan.
+
+The standard processing used was:
+
+1. Automatic ACPC alignment (via acpcdetect)
+2. BIDs conversion 
+3. FreeSurfer recon-all reconstruction (v6.0+)
+4. FSL Co-registration from CT -> presurg MRI
+5. Semi-automatic localization of electrode contacts in the CT image via SEEK (Stereotactic Electroencaphalogram Kit)
+6. Blender based web visualization of the anatomical brain with electrode activity
+7. Post-surgical MRI processing (optional)
+
+Since post-surgical MRI imaging is not always performed for every patient, it is not done for every patient. The post-surgical MRI processing follows as:
+
+1. Automatic ACPC alignment (via acpcdetect)
+2. BIDs conversion
+3. FSL Co-registration from postsurg MRI -> presurg MRI
+4. Slicer 3D segmentation of the surgical region
+
+Now the volume segmented in Slicer can be mapped back to the presurgical MRI, which can estimate the contacts in the CT that are included in the surgical region.
+
 Seizure Electrographic and Clinical Onset Annotations
 -----------------------------------------------------
 
@@ -59,7 +95,7 @@ For various datasets, there are seizures present within the dataset. Generally t
 Clinical onset are just manifestation of the seizures with clinical syndromes. Sometimes the maker may not be present.
 
 Seizure Onset Zone Annotations
----------------------------------------------
+------------------------------
 What is actually important in the evaluation of datasets is the clinical annotations of their localization hypotheses of the seizure onset zone.
 
 These generally include:

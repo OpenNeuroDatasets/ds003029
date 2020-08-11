@@ -1,0 +1,179 @@
+{
+    "band": "beta",
+    "ch_names": [
+        "I'1",
+        "I'2",
+        "I'4",
+        "I'5",
+        "I'6",
+        "I'7",
+        "I'8",
+        "C'1",
+        "C'2",
+        "C'3",
+        "C'4",
+        "C'8",
+        "C'9",
+        "A1",
+        "A2",
+        "A3",
+        "A8",
+        "A9",
+        "A10",
+        "I1",
+        "I2",
+        "I3",
+        "I4",
+        "I5",
+        "I6",
+        "T1",
+        "T2",
+        "T3",
+        "T4",
+        "T5",
+        "T6",
+        "T7",
+        "O1",
+        "O2",
+        "O3",
+        "O4",
+        "O5",
+        "O6",
+        "O7",
+        "E1",
+        "E2",
+        "E3",
+        "E4",
+        "E5",
+        "E6",
+        "B2",
+        "B3",
+        "B4",
+        "B5",
+        "B9",
+        "B10",
+        "U6",
+        "U7",
+        "U8"
+    ],
+    "clin_onset_event_id": 11,
+    "events": [
+        [
+            0,
+            0,
+            3
+        ],
+        [
+            0,
+            0,
+            16
+        ],
+        [
+            0,
+            0,
+            10
+        ],
+        [
+            192,
+            0,
+            9
+        ],
+        [
+            192,
+            0,
+            11
+        ],
+        [
+            193,
+            0,
+            14
+        ],
+        [
+            229,
+            0,
+            4
+        ],
+        [
+            229,
+            0,
+            2
+        ],
+        [
+            234,
+            0,
+            5
+        ],
+        [
+            234,
+            0,
+            1
+        ],
+        [
+            237,
+            0,
+            6
+        ],
+        [
+            237,
+            0,
+            15
+        ],
+        [
+            256,
+            0,
+            7
+        ],
+        [
+            256,
+            0,
+            13
+        ],
+        [
+            302,
+            0,
+            8
+        ],
+        [
+            302,
+            0,
+            12
+        ]
+    ],
+    "events_id": {
+        "\"Is it just anxiety": 1,
+        "\"Now having Deja vu\"": 2,
+        "+0.000000": 3,
+        "+117.060000": 4,
+        "+119.226000": 5,
+        "+120.980000": 6,
+        "+130.300000": 7,
+        "+153.511000": 8,
+        "+98.516000": 9,
+        "A1+A2 OFF": 10,
+        "Clin Onset": 11,
+        "End?": 12,
+        "Flashback? \"Think so": 13,
+        "Nervous/hot": 14,
+        "SZ 25E": 15,
+        "Segment: REC START Tech-Bi EE": 16
+    },
+    "fmax": 30,
+    "fmin": 13,
+    "length_recording": 335220,
+    "model_params": {
+        "stepsize": 500,
+        "winsize": 2500
+    },
+    "n_wins": 666,
+    "output_fname": "sub-nl15_ses-presurgery_task-ictal_acq-seeg_run-02_proc-cohdegree_freq-beta_ieeg.npz",
+    "output_fpath": "/home/adam2392/hdd/derivatives/coherence-degree/average/beta/nl15/sub-nl15_ses-presurgery_task-ictal_acq-seeg_run-02_proc-cohdegree_freq-beta_ieeg.npz",
+    "reference": "average",
+    "sfreq": 1000.0,
+    "spectral_connectivity_matrix_shape": [
+        54,
+        54,
+        666
+    ],
+    "sz_offset_event_id": 12,
+    "sz_onset_event_id": 11
+}

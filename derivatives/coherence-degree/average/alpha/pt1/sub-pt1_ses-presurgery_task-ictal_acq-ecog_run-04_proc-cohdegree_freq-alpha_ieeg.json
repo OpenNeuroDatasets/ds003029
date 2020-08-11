@@ -1,0 +1,260 @@
+{
+    "band": "alpha",
+    "ch_names": [
+        "G1",
+        "G2",
+        "G3",
+        "G4",
+        "G7",
+        "G8",
+        "G9",
+        "G10",
+        "G13",
+        "G14",
+        "G15",
+        "G16",
+        "G17",
+        "G18",
+        "G19",
+        "G20",
+        "G21",
+        "G22",
+        "G23",
+        "G11",
+        "G12",
+        "G24",
+        "G25",
+        "G26",
+        "G27",
+        "G28",
+        "G29",
+        "G30",
+        "G31",
+        "G32",
+        "ATT1",
+        "ATT2",
+        "ATT3",
+        "ATT4",
+        "ATT5",
+        "ATT6",
+        "ATT7",
+        "ATT8",
+        "PLT1",
+        "PLT2",
+        "PLT3",
+        "PLT4",
+        "PLT5",
+        "PLT6",
+        "AST1",
+        "AST2",
+        "AST3",
+        "AST4",
+        "PST1",
+        "PST2",
+        "PST3",
+        "PST4",
+        "AD1",
+        "AD2",
+        "AD3",
+        "AD4",
+        "PD1",
+        "PD2",
+        "PD3",
+        "PD4",
+        "SF1",
+        "SF2",
+        "SF3",
+        "SF4",
+        "SF5",
+        "SF6",
+        "IF1",
+        "IF2",
+        "IF3",
+        "IF4",
+        "IF5",
+        "IF6",
+        "ILT1",
+        "ILT2",
+        "ILT3",
+        "ILT4",
+        "MLT1",
+        "MLT2",
+        "MLT3",
+        "MLT4",
+        "SLT1",
+        "SLT2",
+        "SLT3",
+        "SLT4"
+    ],
+    "clin_onset_event_id": null,
+    "clin_onset_win": null,
+    "events": [
+        [
+            0,
+            0,
+            1
+        ],
+        [
+            0,
+            0,
+            17
+        ],
+        [
+            0,
+            0,
+            13
+        ],
+        [
+            235,
+            0,
+            2
+        ],
+        [
+            235,
+            0,
+            12
+        ],
+        [
+            251,
+            0,
+            3
+        ],
+        [
+            251,
+            0,
+            18
+        ],
+        [
+            283,
+            0,
+            4
+        ],
+        [
+            283,
+            0,
+            15
+        ],
+        [
+            283,
+            0,
+            22
+        ],
+        [
+            313,
+            0,
+            5
+        ],
+        [
+            313,
+            0,
+            14
+        ],
+        [
+            327,
+            0,
+            6
+        ],
+        [
+            327,
+            0,
+            23
+        ],
+        [
+            355,
+            0,
+            7
+        ],
+        [
+            355,
+            0,
+            19
+        ],
+        [
+            375,
+            0,
+            8
+        ],
+        [
+            375,
+            0,
+            21
+        ],
+        [
+            389,
+            0,
+            9
+        ],
+        [
+            389,
+            0,
+            16
+        ],
+        [
+            407,
+            0,
+            10
+        ],
+        [
+            407,
+            0,
+            24
+        ],
+        [
+            435,
+            0,
+            11
+        ],
+        [
+            435,
+            0,
+            20
+        ]
+    ],
+    "events_id": {
+        "+0.000000": 1,
+        "+120.000000": 2,
+        "+128.000000": 3,
+        "+144.000000": 4,
+        "+159.000000": 5,
+        "+166.000000": 6,
+        "+180.000000": 7,
+        "+190.000000": 8,
+        "+197.000000": 9,
+        "+206.000000": 10,
+        "+220.000000": 11,
+        "1st change": 12,
+        "A1+A2 OFF": 13,
+        "G20, 21": 14,
+        "I'm having a sz": 15,
+        "L side going numb": 16,
+        "Segment: REC START Kelly EEG": 17,
+        "definite onset": 18,
+        "follows command, tel": 19,
+        "offset": 20,
+        "reading, memory ok": 21,
+        "some spread": 22,
+        "spread G4,5,11,12,13": 23,
+        "stomach sensation an": 24
+    },
+    "fmax": 13,
+    "fmin": 8,
+    "length_recording": 311240,
+    "model_params": {
+        "stepsize": 500,
+        "winsize": 2500
+    },
+    "n_wins": 618,
+    "output_fname": "sub-pt1_ses-presurgery_task-ictal_acq-ecog_run-04_proc-cohdegree_freq-alpha_ieeg.npz",
+    "output_fpath": "/home/adam2392/hdd/derivatives/coherence-degree/average/pt1/sub-pt1_ses-presurgery_task-ictal_acq-ecog_run-04_proc-cohdegree_freq-alpha_ieeg.npz",
+    "reference": "average",
+    "sfreq": 1000.0,
+    "spectral_connectivity_matrix_shape": [
+        84,
+        84,
+        618
+    ],
+    "sz_offset_event_id": 20,
+    "sz_offset_win": 435,
+    "sz_onset_event_id": 18,
+    "sz_onset_win": 251
+}

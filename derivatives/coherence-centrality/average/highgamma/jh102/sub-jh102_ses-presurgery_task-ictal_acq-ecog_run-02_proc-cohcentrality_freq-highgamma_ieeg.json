@@ -1,0 +1,516 @@
+{
+    "band": "highgamma",
+    "ch_names": [
+        "LAF1",
+        "LAF3",
+        "LAF5",
+        "LAF7",
+        "LAF8",
+        "LMF1",
+        "LMF2",
+        "LMF3",
+        "LMF6",
+        "LMF7",
+        "LMF8",
+        "LPF1",
+        "LPF2",
+        "LPF3",
+        "LPF4",
+        "LPF5",
+        "LPF6",
+        "LPF7",
+        "LPF8",
+        "LMF4",
+        "LMF5",
+        "LSF1",
+        "LSF2",
+        "LSF3",
+        "LSF4",
+        "LSF5",
+        "LSF6",
+        "LSF7",
+        "LSF8",
+        "LAT1",
+        "LAT2",
+        "LAT3",
+        "LAT4",
+        "LAT5",
+        "LAT6",
+        "LBT1",
+        "LBT2",
+        "LBT3",
+        "LBT4",
+        "LPT1",
+        "LPT2",
+        "LPT3",
+        "LPT4",
+        "LPT5",
+        "LPT6",
+        "LPT7",
+        "LPT8",
+        "LTF1",
+        "LTF2",
+        "LTF3",
+        "LTF4",
+        "LTF5",
+        "LTF6",
+        "LTF7",
+        "LTF8",
+        "RAF1",
+        "RAF2",
+        "RAF3",
+        "RAF4",
+        "RAF5",
+        "RAF6",
+        "RAF7",
+        "RAF8",
+        "RMF1",
+        "RMF2",
+        "RMF3",
+        "RMF4",
+        "RMF5",
+        "RMF6",
+        "RMF7",
+        "RMF8",
+        "RPF1",
+        "RPF2",
+        "RPF3",
+        "RPF4",
+        "RPF5",
+        "RPF6",
+        "RPF7",
+        "RPF8",
+        "RSF1",
+        "RSF2",
+        "RSF3",
+        "RSF4",
+        "RSF5",
+        "RSF6",
+        "RSF7",
+        "RSF8",
+        "RAT1",
+        "RAT2",
+        "RAT3",
+        "RAT4",
+        "RAT5",
+        "RAT6",
+        "RBT1",
+        "RBT2",
+        "RBT3",
+        "RBT4",
+        "RPT1",
+        "RPT2",
+        "RPT3",
+        "RPT4",
+        "RPT5",
+        "RPT6",
+        "RPT7",
+        "RPT8",
+        "RTF1",
+        "RTF2",
+        "RTF3",
+        "RTF4",
+        "RTF5",
+        "RTF6",
+        "RTF7",
+        "RTF8"
+    ],
+    "clin_onset_event_id": 35,
+    "clin_onset_win": 449,
+    "events": [
+        [
+            0,
+            0,
+            1
+        ],
+        [
+            0,
+            0,
+            33
+        ],
+        [
+            0,
+            0,
+            29
+        ],
+        [
+            95,
+            0,
+            18
+        ],
+        [
+            95,
+            0,
+            59
+        ],
+        [
+            97,
+            0,
+            19
+        ],
+        [
+            97,
+            0,
+            32
+        ],
+        [
+            115,
+            0,
+            20
+        ],
+        [
+            115,
+            0,
+            31
+        ],
+        [
+            117,
+            0,
+            21
+        ],
+        [
+            117,
+            0,
+            39
+        ],
+        [
+            117,
+            0,
+            42
+        ],
+        [
+            117,
+            0,
+            52
+        ],
+        [
+            121,
+            0,
+            22
+        ],
+        [
+            121,
+            0,
+            51
+        ],
+        [
+            121,
+            0,
+            56
+        ],
+        [
+            121,
+            0,
+            57
+        ],
+        [
+            123,
+            0,
+            23
+        ],
+        [
+            123,
+            0,
+            45
+        ],
+        [
+            153,
+            0,
+            24
+        ],
+        [
+            153,
+            0,
+            53
+        ],
+        [
+            155,
+            0,
+            25
+        ],
+        [
+            155,
+            0,
+            44
+        ],
+        [
+            157,
+            0,
+            26
+        ],
+        [
+            157,
+            0,
+            43
+        ],
+        [
+            171,
+            0,
+            27
+        ],
+        [
+            171,
+            0,
+            41
+        ],
+        [
+            191,
+            0,
+            28
+        ],
+        [
+            191,
+            0,
+            46
+        ],
+        [
+            217,
+            0,
+            2
+        ],
+        [
+            217,
+            0,
+            30
+        ],
+        [
+            225,
+            0,
+            3
+        ],
+        [
+            225,
+            0,
+            47
+        ],
+        [
+            239,
+            0,
+            4
+        ],
+        [
+            239,
+            0,
+            49
+        ],
+        [
+            251,
+            0,
+            5
+        ],
+        [
+            251,
+            0,
+            48
+        ],
+        [
+            265,
+            0,
+            6
+        ],
+        [
+            265,
+            0,
+            40
+        ],
+        [
+            289,
+            0,
+            7
+        ],
+        [
+            289,
+            0,
+            34
+        ],
+        [
+            297,
+            0,
+            8
+        ],
+        [
+            297,
+            0,
+            55
+        ],
+        [
+            313,
+            0,
+            9
+        ],
+        [
+            313,
+            0,
+            37
+        ],
+        [
+            329,
+            0,
+            10
+        ],
+        [
+            329,
+            0,
+            36
+        ],
+        [
+            341,
+            0,
+            11
+        ],
+        [
+            341,
+            0,
+            54
+        ],
+        [
+            349,
+            0,
+            12
+        ],
+        [
+            349,
+            0,
+            61
+        ],
+        [
+            357,
+            0,
+            13
+        ],
+        [
+            357,
+            0,
+            58
+        ],
+        [
+            407,
+            0,
+            14
+        ],
+        [
+            407,
+            0,
+            60
+        ],
+        [
+            449,
+            0,
+            15
+        ],
+        [
+            449,
+            0,
+            35
+        ],
+        [
+            449,
+            0,
+            38
+        ],
+        [
+            455,
+            0,
+            16
+        ],
+        [
+            455,
+            0,
+            50
+        ],
+        [
+            577,
+            0,
+            17
+        ],
+        [
+            577,
+            0,
+            32
+        ]
+    ],
+    "events_id": {
+        "+0.000000": 1,
+        "+111.000000": 2,
+        "+115.000000": 3,
+        "+122.000000": 4,
+        "+128.000000": 5,
+        "+135.000000": 6,
+        "+147.000000": 7,
+        "+151.000000": 8,
+        "+159.000000": 9,
+        "+167.000000": 10,
+        "+173.000000": 11,
+        "+177.000000": 12,
+        "+181.000000": 13,
+        "+206.000000": 14,
+        "+227.000000": 15,
+        "+230.000000": 16,
+        "+291.000000": 17,
+        "+50.000000": 18,
+        "+51.000000": 19,
+        "+60.000000": 20,
+        "+61.000000": 21,
+        "+63.000000": 22,
+        "+64.000000": 23,
+        "+79.000000": 24,
+        "+80.000000": 25,
+        "+81.000000": 26,
+        "+88.000000": 27,
+        "+98.000000": 28,
+        "A1+A2 OFF": 29,
+        "MARK ON": 30,
+        "SZ EVENT # (PB SZ)": 31,
+        "Schedule": 32,
+        "Segment: REC START REC EEG": 33,
+        "Z CHEWING": 34,
+        "Z CLINICAL END": 35,
+        "Z CONTINUES RIGHT HA": 36,
+        "Z DEVOLVES": 37,
+        "Z ELECTROGRAPHIC END": 38,
+        "Z ELECTROGRAPHIC ONS": 39,
+        "Z HEAD VERSION TO TH": 40,
+        "Z ICTAL BUILD LAT, L": 41,
+        "Z LAG BETWEEN RAT TO": 42,
+        "Z LAT 1-2 RHY SHP ST": 43,
+        "Z LBT 3-4 RHY SHP ST": 44,
+        "Z LOOKS AROUND": 45,
+        "Z LOOKS DOWN": 46,
+        "Z LOOKS RIGHT": 47,
+        "Z LOOKS STRIAGHT": 48,
+        "Z MILD LIP SMACKING": 49,
+        "Z POST ICTAL SLOW": 50,
+        "Z RAT 1-5 RHY BROAD": 51,
+        "Z RAT 4-6, RPT 4-6 B": 52,
+        "Z RHY LOW VOLT FAST": 53,
+        "Z RIGHT FACIAL PULLI": 54,
+        "Z RIGHT HAND RHY MOV": 55,
+        "Z RMF SHP/SLOW": 56,
+        "Z RPF 1-2 SHP, SLOW": 57,
+        "Z SECONDARY GENERALI": 58,
+        "Z SITTING AWAKE": 59,
+        "Z TURNING PT ON LEFT": 60,
+        "Z VOCALIZING": 61
+    },
+    "fmax": 300,
+    "fmin": 90,
+    "length_recording": 292201,
+    "model_params": {
+        "stepsize": 500,
+        "winsize": 2500
+    },
+    "n_wins": 580,
+    "output_fname": "sub-jh102_ses-presurgery_task-ictal_acq-ecog_run-02_proc-cohcentrality_freq-highgamma_ieeg.npz",
+    "output_fpath": "/home/adam2392/hdd/derivatives/coherence-centrality/average/jh102/sub-jh102_ses-presurgery_task-ictal_acq-ecog_run-02_proc-cohcentrality_freq-highgamma_ieeg.npz",
+    "reference": "average",
+    "sfreq": 1000.0,
+    "spectral_connectivity_matrix_shape": [
+        113,
+        113,
+        580
+    ],
+    "sz_offset_event_id": 35,
+    "sz_offset_win": 449,
+    "sz_onset_event_id": 31,
+    "sz_onset_win": 115
+}

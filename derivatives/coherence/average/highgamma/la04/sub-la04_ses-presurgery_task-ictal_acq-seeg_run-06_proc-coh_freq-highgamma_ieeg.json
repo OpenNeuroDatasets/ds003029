@@ -1,0 +1,196 @@
+{
+    "band": "highgamma",
+    "ch_names": [
+        "L'1",
+        "L'2",
+        "L'3",
+        "L'4",
+        "L'6",
+        "L'7",
+        "L'8",
+        "L'11",
+        "L'12",
+        "L'13",
+        "M'1",
+        "M'2",
+        "M'3",
+        "M'7",
+        "L'10",
+        "M'8",
+        "M'9",
+        "M'10",
+        "M'11",
+        "M'12",
+        "M'13",
+        "M'14",
+        "G'1",
+        "G'2",
+        "G'3",
+        "G'4",
+        "G'9",
+        "G'10",
+        "G'11",
+        "G'12",
+        "G'13",
+        "G'14",
+        "G'15",
+        "F'1",
+        "F'4",
+        "F'5",
+        "F'7",
+        "F'8",
+        "F'9",
+        "F'10",
+        "F'11",
+        "O'1",
+        "O'2",
+        "O'3",
+        "O'6",
+        "O'7",
+        "O'8",
+        "O'9",
+        "O'10",
+        "O'11",
+        "O'12",
+        "O'13",
+        "R'1",
+        "R'2",
+        "R'3",
+        "R'4",
+        "R'7",
+        "R'8",
+        "R'9",
+        "B'1",
+        "B'2",
+        "B'3",
+        "B'4",
+        "B'12",
+        "B'13",
+        "B'14",
+        "P'1",
+        "P'2",
+        "P'3",
+        "P'8",
+        "P'10",
+        "P'11",
+        "P'12",
+        "P'13",
+        "P'14",
+        "P'15",
+        "P'16"
+    ],
+    "clin_onset_event_id": 9,
+    "events": [
+        [
+            0,
+            0,
+            1
+        ],
+        [
+            0,
+            0,
+            13
+        ],
+        [
+            0,
+            0,
+            8
+        ],
+        [
+            236,
+            0,
+            2
+        ],
+        [
+            236,
+            0,
+            12
+        ],
+        [
+            242,
+            0,
+            3
+        ],
+        [
+            242,
+            0,
+            10
+        ],
+        [
+            252,
+            0,
+            4
+        ],
+        [
+            252,
+            0,
+            9
+        ],
+        [
+            258,
+            0,
+            5
+        ],
+        [
+            258,
+            0,
+            15
+        ],
+        [
+            270,
+            0,
+            6
+        ],
+        [
+            270,
+            0,
+            11
+        ],
+        [
+            275,
+            0,
+            7
+        ],
+        [
+            275,
+            0,
+            14
+        ]
+    ],
+    "events_id": {
+        "+0.000000": 1,
+        "+120.489000": 2,
+        "+123.641000": 3,
+        "+128.680000": 4,
+        "+131.610000": 5,
+        "+137.561000": 6,
+        "+139.880000": 7,
+        "A1+A2 OFF": 8,
+        "Clin Onset-opens eye": 9,
+        "EEG Onset": 10,
+        "EEG end": 11,
+        "SZ 15P": 12,
+        "Segment: REC START Tech-Bi EE": 13,
+        "left arm touching he": 14,
+        "opens eyes and head": 15
+    },
+    "fmax": 300,
+    "fmin": 90,
+    "length_recording": 720044,
+    "model_params": {
+        "stepsize": 500,
+        "winsize": 2500
+    },
+    "n_wins": 1436,
+    "output_fname": "sub-la04_ses-presurgery_task-ictal_acq-seeg_run-06_proc-coh_freq-highgamma_ieeg.npz",
+    "output_fpath": "/home/adam2392/hdd/derivatives/coherence/average/highgamma/la04/sub-la04_ses-presurgery_task-ictal_acq-seeg_run-06_proc-coh_freq-highgamma_ieeg.npz",
+    "reference": "average",
+    "sfreq": 1000.0,
+    "spectral_connectivity_matrix_shape": [
+        77,
+        77,
+        1436
+    ],
+    "sz_offset_event_id": null,
+    "sz_onset_event_id": 10
+}

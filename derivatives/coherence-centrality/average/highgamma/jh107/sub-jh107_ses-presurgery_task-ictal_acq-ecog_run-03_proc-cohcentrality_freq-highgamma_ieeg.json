@@ -1,0 +1,305 @@
+{
+    "band": "highgamma",
+    "ch_names": [
+        "RSTS1",
+        "RSTS2",
+        "RSTS3",
+        "RSTS4",
+        "RATI1",
+        "RATI2",
+        "RATI3",
+        "RATI4",
+        "RATI7",
+        "RATI8",
+        "RATI9",
+        "RATI10",
+        "RATI11",
+        "RATI12",
+        "RATI13",
+        "RATI14",
+        "RATI15",
+        "RATI16",
+        "RABT1",
+        "RATI5",
+        "RATI6",
+        "RABT2",
+        "RABT3",
+        "RABT4",
+        "RMBT1",
+        "RMBT2",
+        "RMBT3",
+        "RPTI17",
+        "RPTI18",
+        "RPTI19",
+        "RPTI20",
+        "RPTI21",
+        "RPTI24",
+        "RPTI25",
+        "RPTI26",
+        "RPTI27",
+        "RPTI28",
+        "RPTI29",
+        "RPTI30",
+        "RPTI31",
+        "RPTI32",
+        "RPTS49",
+        "RPTS50",
+        "RPTS51",
+        "RPTS52",
+        "RPTS53",
+        "RPTS54",
+        "RPTS55",
+        "RPTS56",
+        "RPTS57",
+        "RPTS58",
+        "RPTS59",
+        "RPTS60",
+        "RPTS61",
+        "RPTS62",
+        "RPTS63",
+        "RPTS64",
+        "RPFS1",
+        "RPFS2",
+        "RPFS3",
+        "RPFS4",
+        "RPFS5",
+        "RPFS6",
+        "RPFS7",
+        "RPFS8",
+        "RPFI1",
+        "RPFI2",
+        "RPFI3",
+        "RPFI4"
+    ],
+    "clin_onset_event_id": null,
+    "clin_onset_win": null,
+    "events": [
+        [
+            0,
+            0,
+            1
+        ],
+        [
+            0,
+            0,
+            20
+        ],
+        [
+            0,
+            0,
+            17
+        ],
+        [
+            115,
+            0,
+            11
+        ],
+        [
+            115,
+            0,
+            18
+        ],
+        [
+            123,
+            0,
+            12
+        ],
+        [
+            123,
+            0,
+            29
+        ],
+        [
+            145,
+            0,
+            13
+        ],
+        [
+            145,
+            0,
+            22
+        ],
+        [
+            161,
+            0,
+            14
+        ],
+        [
+            161,
+            0,
+            34
+        ],
+        [
+            179,
+            0,
+            15
+        ],
+        [
+            179,
+            0,
+            21
+        ],
+        [
+            189,
+            0,
+            16
+        ],
+        [
+            189,
+            0,
+            33
+        ],
+        [
+            199,
+            0,
+            2
+        ],
+        [
+            199,
+            0,
+            25
+        ],
+        [
+            213,
+            0,
+            3
+        ],
+        [
+            213,
+            0,
+            24
+        ],
+        [
+            255,
+            0,
+            4
+        ],
+        [
+            255,
+            0,
+            23
+        ],
+        [
+            293,
+            0,
+            5
+        ],
+        [
+            293,
+            0,
+            30
+        ],
+        [
+            297,
+            0,
+            6
+        ],
+        [
+            297,
+            0,
+            32
+        ],
+        [
+            309,
+            0,
+            7
+        ],
+        [
+            309,
+            0,
+            31
+        ],
+        [
+            409,
+            0,
+            8
+        ],
+        [
+            409,
+            0,
+            19
+        ],
+        [
+            481,
+            0,
+            9
+        ],
+        [
+            481,
+            0,
+            27
+        ],
+        [
+            481,
+            0,
+            28
+        ],
+        [
+            533,
+            0,
+            10
+        ],
+        [
+            533,
+            0,
+            26
+        ]
+    ],
+    "events_id": {
+        "+0.000000": 1,
+        "+102.000000": 2,
+        "+109.000000": 3,
+        "+130.000000": 4,
+        "+149.000000": 5,
+        "+151.000000": 6,
+        "+157.000000": 7,
+        "+207.000000": 8,
+        "+243.000000": 9,
+        "+269.000000": 10,
+        "+60.000000": 11,
+        "+64.000000": 12,
+        "+75.000000": 13,
+        "+83.000000": 14,
+        "+92.000000": 15,
+        "+97.000000": 16,
+        "A1+A2 OFF": 17,
+        "SZ EVENT # 7(EEG SZ)": 18,
+        "Schedule": 19,
+        "Segment: REC START REC EEG": 20,
+        "Z DEVOLVES": 21,
+        "Z EVOLVES RSTS 4 AND": 22,
+        "Z MAX EVOLUTION 6 HZ": 23,
+        "Z NOW EVOLVES RATI7": 24,
+        "Z NOW RSTS 3": 25,
+        "Z OVER RATI15": 26,
+        "Z OVER RATI7": 27,
+        "Z OVER RSTS 3": 28,
+        "Z PERIODIC SLOW RATI": 29,
+        "Z RHY SH SLOW RPTS55": 30,
+        "Z SLOWS TO 3 HZ": 31,
+        "Z SOME LOW VOLTAGE E": 32,
+        "Z STARTS AGAIN RATI": 33,
+        "Z TO 5 HZ": 34
+    },
+    "fmax": 300,
+    "fmin": 90,
+    "length_recording": 336330,
+    "model_params": {
+        "stepsize": 500,
+        "winsize": 2500
+    },
+    "n_wins": 668,
+    "output_fname": "sub-jh107_ses-presurgery_task-ictal_acq-ecog_run-03_proc-cohcentrality_freq-highgamma_ieeg.npz",
+    "output_fpath": "/home/adam2392/hdd/derivatives/coherence-centrality/average/jh107/sub-jh107_ses-presurgery_task-ictal_acq-ecog_run-03_proc-cohcentrality_freq-highgamma_ieeg.npz",
+    "reference": "average",
+    "sfreq": 1000.0,
+    "spectral_connectivity_matrix_shape": [
+        69,
+        69,
+        668
+    ],
+    "sz_offset_event_id": null,
+    "sz_offset_win": null,
+    "sz_onset_event_id": 18,
+    "sz_onset_win": 115
+}

@@ -1,0 +1,63 @@
+{
+    "band": "theta",
+    "ch_names": [
+        "LLAT1",
+        "LLAT3",
+        "LABT3",
+        "RLAT1",
+        "RLAT6",
+        "LLAT4",
+        "LABT4",
+        "RLAT2",
+        "LABT2",
+        "LLAT5",
+        "LPBT1",
+        "LLAT2",
+        "LABT1",
+        "LPBT3",
+        "RLAT5",
+        "RABT1",
+        "LLAT6",
+        "LPBT2",
+        "RLAT4",
+        "LPBT4",
+        "RLAT3",
+        "RABT2",
+        "RABT3",
+        "RABT4",
+        "RPBT1",
+        "RPBT2",
+        "RPBT3",
+        "RPBT4"
+    ],
+    "clin_onset_event_id": null,
+    "events": [
+        [
+            0,
+            0,
+            1
+        ]
+    ],
+    "events_id": {
+        "New Segment/": 1
+    },
+    "fmax": 8,
+    "fmin": 4,
+    "length_recording": 65400,
+    "model_params": {
+        "stepsize": 500,
+        "winsize": 2500
+    },
+    "n_wins": 126,
+    "output_fname": "sub-umf005_ses-presurgery_task-interictal_acq-ecog_run-02_proc-coh_freq-theta_ieeg.npz",
+    "output_fpath": "/home/adam2392/hdd/derivatives/coherence/average/umf005/sub-umf005_ses-presurgery_task-interictal_acq-ecog_run-02_proc-coh_freq-theta_ieeg.npz",
+    "reference": "average",
+    "sfreq": 1025.6410256410256,
+    "spectral_connectivity_matrix_shape": [
+        28,
+        28,
+        126
+    ],
+    "sz_offset_event_id": null,
+    "sz_onset_event_id": null
+}

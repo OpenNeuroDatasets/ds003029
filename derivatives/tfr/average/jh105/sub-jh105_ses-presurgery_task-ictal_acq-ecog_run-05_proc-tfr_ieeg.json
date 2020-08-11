@@ -1,0 +1,184 @@
+{
+    "ch_names": [
+        "RFS1",
+        "RFS2",
+        "RFS3",
+        "RFS4",
+        "RFS5",
+        "RFS6",
+        "RPG1",
+        "RPG2",
+        "RPG5",
+        "RPG6",
+        "RPG8",
+        "RPG9",
+        "RPG10",
+        "RPG11",
+        "RPG12",
+        "RPG13",
+        "RPG14",
+        "RPG15",
+        "RPG3",
+        "RPG4",
+        "RPG16",
+        "RPG17",
+        "RPG18",
+        "RPG19",
+        "RPG20",
+        "RPG21",
+        "RPG22",
+        "RPG23",
+        "RPG24",
+        "RPG25",
+        "RPG26",
+        "RPG27",
+        "RPG28",
+        "RPG29",
+        "RPG30",
+        "RPG31",
+        "RPG32",
+        "RPG33",
+        "RPG34",
+        "RPG36",
+        "RPG37",
+        "RPG38",
+        "RPG40",
+        "RPG41",
+        "RPG42",
+        "RPG43",
+        "RPG44",
+        "RPG45",
+        "RPG46",
+        "RPG47",
+        "RPG48",
+        "PSI1",
+        "PSI2",
+        "PSI3",
+        "PSI4",
+        "PSI5",
+        "PSI6",
+        "PSI7",
+        "PSI8",
+        "PDI1",
+        "PDI2",
+        "PDI3",
+        "PDI4",
+        "ASI1",
+        "ASI2",
+        "ASI3",
+        "ASI4",
+        "ASI5",
+        "ASI6",
+        "APD1",
+        "APD2",
+        "APD3",
+        "APD4",
+        "APD5",
+        "APD6",
+        "APD7",
+        "APD8",
+        "PPD1",
+        "PPD2",
+        "PPD3",
+        "PPD4",
+        "PPD5",
+        "PPD6",
+        "PPD7",
+        "PPD8"
+    ],
+    "clin_onset_event_id": null,
+    "clin_onset_win": null,
+    "events": [
+        [
+            0,
+            0,
+            1
+        ],
+        [
+            0,
+            0,
+            9
+        ],
+        [
+            0,
+            0,
+            6
+        ],
+        [
+            470,
+            0,
+            3
+        ],
+        [
+            470,
+            0,
+            7
+        ],
+        [
+            492,
+            0,
+            4
+        ],
+        [
+            492,
+            0,
+            10
+        ],
+        [
+            516,
+            0,
+            5
+        ],
+        [
+            516,
+            0,
+            11
+        ],
+        [
+            1142,
+            0,
+            2
+        ],
+        [
+            1142,
+            0,
+            8
+        ]
+    ],
+    "events_id": {
+        "+0.000000": 1,
+        "+143.000000": 2,
+        "+59.000000": 3,
+        "+62.000000": 4,
+        "+65.000000": 5,
+        "A1+A2 OFF": 6,
+        "SZ EVENT # (PB SZ)": 7,
+        "Schedule": 8,
+        "Segment: REC START ALL BP EEG": 9,
+        "Z SPK RPG 4/5/12/13": 10,
+        "z hypermotor arousal": 11
+    },
+    "freq_band": [
+        0.5,
+        4
+    ],
+    "length_recording": 187222,
+    "model_params": {
+        "fmax": 300,
+        "fmin": 0.5,
+        "n_fft": 250
+    },
+    "n_wins": 1496,
+    "output_fname": "sub-jh105_ses-presurgery_task-ictal_acq-ecog_run-05_proc-tfr_ieeg.h5",
+    "reference": "average",
+    "sfreq": 1000.0,
+    "sz_offset_event_id": null,
+    "sz_offset_win": null,
+    "sz_onset_event_id": 7,
+    "sz_onset_win": 470,
+    "tfr_matrix_shape": [
+        85,
+        75,
+        1496
+    ]
+}

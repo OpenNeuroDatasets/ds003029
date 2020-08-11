@@ -1,0 +1,75 @@
+{
+    "ch_names": [
+        "LANT1",
+        "LANT2",
+        "LANT3",
+        "LANT4",
+        "LANT5",
+        "LANT6",
+        "LMES1",
+        "LMES2",
+        "LMES3",
+        "LMES4",
+        "LPT3",
+        "LPT4",
+        "LPT5",
+        "LPT6",
+        "RANT1",
+        "RANT2",
+        "RANT3",
+        "RANT4",
+        "RANT5",
+        "RANT6",
+        "RMES1",
+        "RMES2",
+        "RMES3",
+        "RMES4",
+        "RPT1",
+        "RPT2",
+        "RPT3",
+        "RPT4",
+        "RPT5",
+        "RPT6"
+    ],
+    "clin_onset_event_id": null,
+    "clin_onset_win": null,
+    "events": [
+        [
+            478,
+            0,
+            2
+        ],
+        [
+            2182,
+            0,
+            1
+        ]
+    ],
+    "events_id": {
+        "sz offset": 1,
+        "sz onset": 2
+    },
+    "freq_band": [
+        0.5,
+        4
+    ],
+    "length_recording": 334152,
+    "model_params": {
+        "fmax": 300,
+        "fmin": 0.5,
+        "n_fft": 250
+    },
+    "n_wins": 2672,
+    "output_fname": "sub-ummc007_ses-presurgery_task-ictal_acq-ecog_run-01_proc-tfr_ieeg.h5",
+    "reference": "average",
+    "sfreq": 1000.0,
+    "sz_offset_event_id": 1,
+    "sz_offset_win": 2182,
+    "sz_onset_event_id": 2,
+    "sz_onset_win": 478,
+    "tfr_matrix_shape": [
+        30,
+        75,
+        2672
+    ]
+}

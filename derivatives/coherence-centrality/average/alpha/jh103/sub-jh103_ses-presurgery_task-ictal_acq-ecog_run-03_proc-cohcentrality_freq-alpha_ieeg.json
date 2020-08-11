@@ -1,0 +1,360 @@
+{
+    "band": "alpha",
+    "ch_names": [
+        "ABT1",
+        "ABT2",
+        "ABT3",
+        "ABT4",
+        "MBT1",
+        "MBT2",
+        "MBT3",
+        "MBT4",
+        "PBT3",
+        "PBT4",
+        "RAD1",
+        "RAD2",
+        "RAD3",
+        "RAD4",
+        "RAD5",
+        "RAD6",
+        "RAD7",
+        "PBT1",
+        "PBT2",
+        "RHD1",
+        "RHD2",
+        "RHD3",
+        "RHD4",
+        "RHD5",
+        "RHD6",
+        "RHD7",
+        "RHD8",
+        "RHD9",
+        "RTG1",
+        "RTG2",
+        "RTG3",
+        "RTG4",
+        "RTG5",
+        "RTG6",
+        "RTG7",
+        "RTG8",
+        "RTG9",
+        "RTG10",
+        "RTG11",
+        "RTG12",
+        "RTG13",
+        "RTG14",
+        "RTG15",
+        "RTG16",
+        "RTG17",
+        "RTG19",
+        "RTG20",
+        "RTG23",
+        "RTG24",
+        "RTG25",
+        "RTG27",
+        "RTG28",
+        "RTG29",
+        "RTG30",
+        "RTG31",
+        "RTG32",
+        "RTG33",
+        "RTG34",
+        "RTG35",
+        "RTG36",
+        "RTG37",
+        "RTG38",
+        "RTG39",
+        "RTG40",
+        "RTG41",
+        "RTG42",
+        "RTG43",
+        "RTG44",
+        "RTG45",
+        "RTG46",
+        "RTG47",
+        "RTG48",
+        "RTG49",
+        "RTG50",
+        "RTG51",
+        "RTG52",
+        "RTG53",
+        "RTG54",
+        "RTG55",
+        "RTG56",
+        "RTG57",
+        "RTG58",
+        "RTG59",
+        "RTG60",
+        "RTG61",
+        "RTG62",
+        "RTG63",
+        "RTG64"
+    ],
+    "clin_onset_event_id": null,
+    "clin_onset_win": null,
+    "events": [
+        [
+            0,
+            0,
+            1
+        ],
+        [
+            0,
+            0,
+            24
+        ],
+        [
+            0,
+            0,
+            20
+        ],
+        [
+            105,
+            0,
+            10
+        ],
+        [
+            105,
+            0,
+            32
+        ],
+        [
+            115,
+            0,
+            11
+        ],
+        [
+            115,
+            0,
+            22
+        ],
+        [
+            119,
+            0,
+            12
+        ],
+        [
+            119,
+            0,
+            38
+        ],
+        [
+            131,
+            0,
+            13
+        ],
+        [
+            131,
+            0,
+            34
+        ],
+        [
+            135,
+            0,
+            14
+        ],
+        [
+            135,
+            0,
+            25
+        ],
+        [
+            155,
+            0,
+            15
+        ],
+        [
+            155,
+            0,
+            40
+        ],
+        [
+            157,
+            0,
+            16
+        ],
+        [
+            157,
+            0,
+            33
+        ],
+        [
+            157,
+            0,
+            39
+        ],
+        [
+            161,
+            0,
+            17
+        ],
+        [
+            161,
+            0,
+            26
+        ],
+        [
+            167,
+            0,
+            18
+        ],
+        [
+            167,
+            0,
+            23
+        ],
+        [
+            173,
+            0,
+            19
+        ],
+        [
+            173,
+            0,
+            21
+        ],
+        [
+            211,
+            0,
+            2
+        ],
+        [
+            211,
+            0,
+            35
+        ],
+        [
+            225,
+            0,
+            3
+        ],
+        [
+            225,
+            0,
+            29
+        ],
+        [
+            233,
+            0,
+            4
+        ],
+        [
+            233,
+            0,
+            30
+        ],
+        [
+            249,
+            0,
+            5
+        ],
+        [
+            249,
+            0,
+            31
+        ],
+        [
+            269,
+            0,
+            6
+        ],
+        [
+            269,
+            0,
+            36
+        ],
+        [
+            319,
+            0,
+            7
+        ],
+        [
+            319,
+            0,
+            27
+        ],
+        [
+            357,
+            0,
+            8
+        ],
+        [
+            357,
+            0,
+            28
+        ],
+        [
+            361,
+            0,
+            9
+        ],
+        [
+            361,
+            0,
+            37
+        ]
+    ],
+    "events_id": {
+        "+0.000000": 1,
+        "+108.000000": 2,
+        "+115.000000": 3,
+        "+119.000000": 4,
+        "+127.000000": 5,
+        "+137.000000": 6,
+        "+162.000000": 7,
+        "+181.000000": 8,
+        "+183.000000": 9,
+        "+55.000000": 10,
+        "+60.000000": 11,
+        "+62.000000": 12,
+        "+68.000000": 13,
+        "+70.000000": 14,
+        "+80.000000": 15,
+        "+81.000000": 16,
+        "+83.000000": 17,
+        "+86.000000": 18,
+        "+89.000000": 19,
+        "A1+A2 OFF": 20,
+        "MARK ON": 21,
+        "SZ EVENT # (PB SZ)": 22,
+        "Schedule": 23,
+        "Segment: REC START REC EEG": 24,
+        "Z BLINKING": 25,
+        "Z CONTINUES EATING": 26,
+        "Z DEVOLUTION": 27,
+        "Z ELECTROGRAPHIC END": 28,
+        "Z FORCED HEAD TURN T": 29,
+        "Z GENERALIZES": 30,
+        "Z GTC MOVEMENTS": 31,
+        "Z HIGH VOLT SEMIRHY": 32,
+        "Z ICTAL BUILD": 33,
+        "Z ICTAL BUILD RTG 39": 34,
+        "Z LOOKING UP TO THE": 35,
+        "Z OXYGEN MASK PLACED": 36,
+        "Z POST ICTAL DEPRESS": 37,
+        "Z RHY ALPHA RHD 5, R": 38,
+        "Z SPREAD ABT, MBT, R": 39,
+        "Z SPREAD RTG SCATTER": 40
+    },
+    "fmax": 13,
+    "fmin": 8,
+    "length_recording": 206172,
+    "model_params": {
+        "stepsize": 500,
+        "winsize": 2500
+    },
+    "n_wins": 408,
+    "output_fname": "sub-jh103_ses-presurgery_task-ictal_acq-ecog_run-03_proc-cohcentrality_freq-alpha_ieeg.npz",
+    "output_fpath": "/home/adam2392/hdd/derivatives/coherence-centrality/average/jh103/sub-jh103_ses-presurgery_task-ictal_acq-ecog_run-03_proc-cohcentrality_freq-alpha_ieeg.npz",
+    "reference": "average",
+    "sfreq": 1000.0,
+    "spectral_connectivity_matrix_shape": [
+        88,
+        88,
+        408
+    ],
+    "sz_offset_event_id": 28,
+    "sz_offset_win": 357,
+    "sz_onset_event_id": 22,
+    "sz_onset_win": 115
+}

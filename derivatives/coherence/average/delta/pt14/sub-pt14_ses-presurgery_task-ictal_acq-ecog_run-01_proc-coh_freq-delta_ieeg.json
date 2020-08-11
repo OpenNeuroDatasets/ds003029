@@ -1,0 +1,189 @@
+{
+    "band": "delta",
+    "ch_names": [
+        "G2",
+        "G3",
+        "G4",
+        "G8",
+        "G10",
+        "G11",
+        "G12",
+        "G16",
+        "G18",
+        "G19",
+        "G20",
+        "G21",
+        "G22",
+        "G24",
+        "G27",
+        "G28",
+        "G13",
+        "G14",
+        "G29",
+        "G30",
+        "G31",
+        "G32",
+        "TT1",
+        "TT2",
+        "TT3",
+        "TT4",
+        "TT5",
+        "TT6",
+        "AST1",
+        "AST2",
+        "AST3",
+        "AST4",
+        "MST1",
+        "MST2",
+        "MST3",
+        "MST4",
+        "PST1",
+        "PST2",
+        "PST3",
+        "PPST1",
+        "PPST2",
+        "PPST3",
+        "PPST4",
+        "PT1",
+        "PT2",
+        "PT3'",
+        "PT4",
+        "PT5",
+        "PT6",
+        "LF1",
+        "LF2",
+        "LF3",
+        "LF4",
+        "LF5",
+        "LF6",
+        "OF1",
+        "OF2",
+        "OF3",
+        "OF4"
+    ],
+    "clin_onset_event_id": null,
+    "events": [
+        [
+            0,
+            0,
+            1
+        ],
+        [
+            0,
+            0,
+            12
+        ],
+        [
+            0,
+            0,
+            9
+        ],
+        [
+            157,
+            0,
+            7
+        ],
+        [
+            157,
+            0,
+            10
+        ],
+        [
+            192,
+            0,
+            8
+        ],
+        [
+            192,
+            0,
+            11
+        ],
+        [
+            231,
+            0,
+            2
+        ],
+        [
+            231,
+            0,
+            13
+        ],
+        [
+            387,
+            0,
+            3
+        ],
+        [
+            387,
+            0,
+            15
+        ],
+        [
+            396,
+            0,
+            4
+        ],
+        [
+            396,
+            0,
+            13
+        ],
+        [
+            396,
+            0,
+            5
+        ],
+        [
+            396,
+            0,
+            16
+        ],
+        [
+            406,
+            0,
+            6
+        ],
+        [
+            406,
+            0,
+            14
+        ]
+    ],
+    "events_id": {
+        "+0.000000": 1,
+        "+117.917000": 2,
+        "+195.743000": 3,
+        "+200.281000": 4,
+        "+200.758000": 5,
+        "+205.642000": 6,
+        "+80.860000": 7,
+        "+98.547000": 8,
+        "A1+A2 OFF": 9,
+        "EEG onset": 10,
+        "I think I'm going to": 11,
+        "Segment: REC START Carr-susan": 12,
+        "Sue": 13,
+        "carr": 14,
+        "offset": 15,
+        "still says Sue": 16
+    },
+    "fmax": 4,
+    "fmin": 0.5,
+    "length_recording": 290224,
+    "model_params": {
+        "stepsize": 500,
+        "winsize": 2500
+    },
+    "n_wins": 576,
+    "output_fname": "sub-pt14_ses-presurgery_task-ictal_acq-ecog_run-01_proc-coh_freq-delta_ieeg.npz",
+    "output_fpath": "/home/adam2392/hdd/derivatives/coherence/average/pt14/sub-pt14_ses-presurgery_task-ictal_acq-ecog_run-01_proc-coh_freq-delta_ieeg.npz",
+    "reference": "average",
+    "sfreq": 1000.0,
+    "spectral_connectivity_matrix_shape": [
+        59,
+        59,
+        576
+    ],
+    "sz_offset_event_id": 15,
+    "sz_onset_event_id": 10
+}

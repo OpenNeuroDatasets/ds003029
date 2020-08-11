@@ -1,0 +1,151 @@
+{
+    "ch_names": [
+        "P'1",
+        "P'2",
+        "P'3",
+        "P'6",
+        "P'7",
+        "P'11",
+        "P'12",
+        "U'1",
+        "U'2",
+        "U'4",
+        "U'5",
+        "P'10",
+        "U'6",
+        "U'7",
+        "U'8",
+        "U'9",
+        "C'1",
+        "C'2",
+        "C'3",
+        "C'8",
+        "C'9",
+        "C'10",
+        "C'11",
+        "B'1",
+        "B'2",
+        "B'3",
+        "B'4",
+        "B'8",
+        "B'9",
+        "B'10",
+        "B'11",
+        "B'12",
+        "B'13",
+        "A'1",
+        "A'2",
+        "A'3",
+        "A'4",
+        "A'8",
+        "A'10",
+        "A'11",
+        "A'12",
+        "T'1",
+        "T'2",
+        "T'3",
+        "T'4",
+        "T'5",
+        "T'6",
+        "T'7",
+        "T'8",
+        "T'9",
+        "T'10",
+        "F'1",
+        "F'2",
+        "F'3",
+        "F'4",
+        "O'1",
+        "O'2",
+        "O'4",
+        "O'9",
+        "O'10",
+        "O'14",
+        "G'1",
+        "G'2",
+        "G'3",
+        "G'4",
+        "G'6",
+        "G'7",
+        "G'8",
+        "G'9",
+        "G'10",
+        "G'11"
+    ],
+    "clin_onset_event_id": null,
+    "correlation_matrix_shape": [
+        71,
+        71,
+        2887
+    ],
+    "events": [
+        [
+            0,
+            0,
+            1
+        ],
+        [
+            0,
+            0,
+            9
+        ],
+        [
+            0,
+            0,
+            5
+        ],
+        [
+            481,
+            0,
+            2
+        ],
+        [
+            481,
+            0,
+            8
+        ],
+        [
+            489,
+            0,
+            3
+        ],
+        [
+            489,
+            0,
+            7
+        ],
+        [
+            655,
+            0,
+            4
+        ],
+        [
+            655,
+            0,
+            6
+        ]
+    ],
+    "events_id": {
+        "+0.000000": 1,
+        "+60.492000": 2,
+        "+61.358000": 3,
+        "+82.076000": 4,
+        "A1+A2 OFF": 5,
+        "EEG end": 6,
+        "EEG onset B'1>C'2-3,": 7,
+        "NCS": 8,
+        "Segment: REC START Tech-Bi EE": 9
+    },
+    "length_recording": 361030,
+    "model_params": {
+        "stepsize": 125,
+        "winsize": 250
+    },
+    "n_wins": 2887,
+    "output_fname": "sub-nl13_ses-presurgery_task-ictal_acq-seeg_run-01_proc-corrdegreee_ieeg.npz",
+    "output_fpath": "/home/adam2392/hdd/derivatives/correlation/average/nl13/sub-nl13_ses-presurgery_task-ictal_acq-seeg_run-01_proc-corrdegreee_ieeg.npz",
+    "reference": "average",
+    "sfreq": 1000.0,
+    "sz_offset_event_id": 6,
+    "sz_onset_event_id": 7
+}

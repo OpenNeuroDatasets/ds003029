@@ -1,0 +1,586 @@
+{
+    "band": "theta",
+    "ch_names": [
+        "LAF1",
+        "LAF3",
+        "LAF5",
+        "LAF7",
+        "LAF8",
+        "LMF1",
+        "LMF2",
+        "LMF3",
+        "LMF6",
+        "LMF7",
+        "LMF8",
+        "LPF1",
+        "LPF2",
+        "LPF3",
+        "LPF4",
+        "LPF5",
+        "LPF6",
+        "LPF7",
+        "LPF8",
+        "LMF4",
+        "LMF5",
+        "LSF1",
+        "LSF2",
+        "LSF3",
+        "LSF4",
+        "LSF5",
+        "LSF6",
+        "LSF7",
+        "LSF8",
+        "LAT1",
+        "LAT2",
+        "LAT3",
+        "LAT4",
+        "LAT5",
+        "LAT6",
+        "LBT1",
+        "LBT2",
+        "LBT3",
+        "LBT4",
+        "LPT1",
+        "LPT2",
+        "LPT3",
+        "LPT4",
+        "LPT5",
+        "LPT6",
+        "LPT7",
+        "LPT8",
+        "LTF1",
+        "LTF2",
+        "LTF3",
+        "LTF4",
+        "LTF5",
+        "LTF6",
+        "LTF7",
+        "LTF8",
+        "RAF1",
+        "RAF2",
+        "RAF3",
+        "RAF4",
+        "RAF5",
+        "RAF6",
+        "RAF7",
+        "RAF8",
+        "RMF1",
+        "RMF2",
+        "RMF3",
+        "RMF4",
+        "RMF5",
+        "RMF6",
+        "RMF7",
+        "RMF8",
+        "RPF1",
+        "RPF2",
+        "RPF3",
+        "RPF4",
+        "RPF5",
+        "RPF6",
+        "RPF7",
+        "RPF8",
+        "RSF1",
+        "RSF2",
+        "RSF3",
+        "RSF4",
+        "RSF5",
+        "RSF6",
+        "RSF7",
+        "RSF8",
+        "RAT1",
+        "RAT2",
+        "RAT3",
+        "RAT4",
+        "RAT5",
+        "RAT6",
+        "RBT1",
+        "RBT2",
+        "RBT3",
+        "RBT4",
+        "RPT1",
+        "RPT2",
+        "RPT3",
+        "RPT4",
+        "RPT5",
+        "RPT6",
+        "RPT7",
+        "RPT8",
+        "RTF1",
+        "RTF2",
+        "RTF3",
+        "RTF4",
+        "RTF5",
+        "RTF6",
+        "RTF7",
+        "RTF8"
+    ],
+    "clin_onset_event_id": 66,
+    "events": [
+        [
+            0,
+            0,
+            1
+        ],
+        [
+            0,
+            0,
+            40
+        ],
+        [
+            0,
+            0,
+            35
+        ],
+        [
+            115,
+            0,
+            26
+        ],
+        [
+            115,
+            0,
+            38
+        ],
+        [
+            115,
+            0,
+            53
+        ],
+        [
+            127,
+            0,
+            27
+        ],
+        [
+            127,
+            0,
+            68
+        ],
+        [
+            139,
+            0,
+            28
+        ],
+        [
+            139,
+            0,
+            71
+        ],
+        [
+            161,
+            0,
+            29
+        ],
+        [
+            161,
+            0,
+            45
+        ],
+        [
+            163,
+            0,
+            30
+        ],
+        [
+            163,
+            0,
+            46
+        ],
+        [
+            167,
+            0,
+            31
+        ],
+        [
+            167,
+            0,
+            60
+        ],
+        [
+            183,
+            0,
+            32
+        ],
+        [
+            183,
+            0,
+            56
+        ],
+        [
+            189,
+            0,
+            33
+        ],
+        [
+            189,
+            0,
+            52
+        ],
+        [
+            191,
+            0,
+            34
+        ],
+        [
+            191,
+            0,
+            55
+        ],
+        [
+            201,
+            0,
+            2
+        ],
+        [
+            201,
+            0,
+            65
+        ],
+        [
+            217,
+            0,
+            3
+        ],
+        [
+            217,
+            0,
+            58
+        ],
+        [
+            233,
+            0,
+            4
+        ],
+        [
+            233,
+            0,
+            64
+        ],
+        [
+            235,
+            0,
+            5
+        ],
+        [
+            235,
+            0,
+            49
+        ],
+        [
+            243,
+            0,
+            6
+        ],
+        [
+            243,
+            0,
+            43
+        ],
+        [
+            243,
+            0,
+            70
+        ],
+        [
+            265,
+            0,
+            7
+        ],
+        [
+            265,
+            0,
+            54
+        ],
+        [
+            265,
+            0,
+            63
+        ],
+        [
+            279,
+            0,
+            8
+        ],
+        [
+            279,
+            0,
+            62
+        ],
+        [
+            289,
+            0,
+            9
+        ],
+        [
+            289,
+            0,
+            42
+        ],
+        [
+            291,
+            0,
+            10
+        ],
+        [
+            291,
+            0,
+            48
+        ],
+        [
+            295,
+            0,
+            11
+        ],
+        [
+            295,
+            0,
+            50
+        ],
+        [
+            297,
+            0,
+            12
+        ],
+        [
+            297,
+            0,
+            72
+        ],
+        [
+            313,
+            0,
+            13
+        ],
+        [
+            313,
+            0,
+            47
+        ],
+        [
+            331,
+            0,
+            14
+        ],
+        [
+            331,
+            0,
+            66
+        ],
+        [
+            331,
+            0,
+            69
+        ],
+        [
+            353,
+            0,
+            15
+        ],
+        [
+            353,
+            0,
+            73
+        ],
+        [
+            383,
+            0,
+            16
+        ],
+        [
+            383,
+            0,
+            74
+        ],
+        [
+            389,
+            0,
+            17
+        ],
+        [
+            389,
+            0,
+            61
+        ],
+        [
+            419,
+            0,
+            18
+        ],
+        [
+            419,
+            0,
+            39
+        ],
+        [
+            453,
+            0,
+            19
+        ],
+        [
+            453,
+            0,
+            37
+        ],
+        [
+            455,
+            0,
+            20
+        ],
+        [
+            455,
+            0,
+            67
+        ],
+        [
+            467,
+            0,
+            21
+        ],
+        [
+            467,
+            0,
+            44
+        ],
+        [
+            487,
+            0,
+            22
+        ],
+        [
+            487,
+            0,
+            59
+        ],
+        [
+            495,
+            0,
+            23
+        ],
+        [
+            495,
+            0,
+            36
+        ],
+        [
+            495,
+            0,
+            41
+        ],
+        [
+            521,
+            0,
+            24
+        ],
+        [
+            521,
+            0,
+            51
+        ],
+        [
+            597,
+            0,
+            25
+        ],
+        [
+            597,
+            0,
+            57
+        ]
+    ],
+    "events_id": {
+        "+0.000000": 1,
+        "+103.000000": 2,
+        "+111.000000": 3,
+        "+119.000000": 4,
+        "+120.000000": 5,
+        "+124.000000": 6,
+        "+135.000000": 7,
+        "+142.000000": 8,
+        "+147.000000": 9,
+        "+148.000000": 10,
+        "+150.000000": 11,
+        "+151.000000": 12,
+        "+159.000000": 13,
+        "+168.000000": 14,
+        "+179.000000": 15,
+        "+194.000000": 16,
+        "+197.000000": 17,
+        "+212.000000": 18,
+        "+229.000000": 19,
+        "+230.000000": 20,
+        "+236.000000": 21,
+        "+246.000000": 22,
+        "+250.000000": 23,
+        "+263.000000": 24,
+        "+301.000000": 25,
+        "+60.000000": 26,
+        "+66.000000": 27,
+        "+72.000000": 28,
+        "+83.000000": 29,
+        "+84.000000": 30,
+        "+86.000000": 31,
+        "+94.000000": 32,
+        "+97.000000": 33,
+        "+98.000000": 34,
+        "A1+A2 OFF": 35,
+        "OVER": 36,
+        "OVER ON LEFT": 37,
+        "SZ EVENT # (EEG SZ)": 38,
+        "Schedule": 39,
+        "Segment: REC START BP ALL EEG": 40,
+        "Z 2.5MIN SZ": 41,
+        "Z BUILDING MORE ON R": 42,
+        "Z BUILDING RAT RHY 8": 43,
+        "Z DISSIPATING RIGHT": 44,
+        "Z ELELCTROGRAPHIC ON": 45,
+        "Z FAST ACTIVITY RMF": 46,
+        "Z HIGH VOLTAGE SPIKI": 47,
+        "Z INCR POLYSPIKES LA": 48,
+        "Z LAT POLYSPIKES": 49,
+        "Z NEOCORTICAL PATTER": 50,
+        "Z R SIDED SUPPRESSIO": 51,
+        "Z RAT MAX SPIKES": 52,
+        "Z RAT SPIKES": 53,
+        "Z RAT SPIKING": 54,
+        "Z RHY 10HZ RAT": 55,
+        "Z RHY SPIKES RPF1": 56,
+        "Z RMF SHARP WAVES": 57,
+        "Z RPF RBT RAT RHYTHM": 58,
+        "Z RPT SPIKING": 59,
+        "Z SHARP WAVES RAT, R": 60,
+        "Z SLOWING NOW": 61,
+        "Z SPREAD TO LEFT, LA": 62,
+        "Z SPREAD TO RBT/RPT": 63,
+        "Z SPREAD WHOLE R SPI": 64,
+        "Z SPREADING TO RBT": 65,
+        "z clinical onset": 66,
+        "z clinical signs ove": 67,
+        "z eating breakfast": 68,
+        "z left foot tapping": 69,
+        "z looking left": 70,
+        "z no one in room": 71,
+        "z resumes eating": 72,
+        "z tapping left foot": 73,
+        "z turns left": 74
+    },
+    "fmax": 8,
+    "fmin": 4,
+    "length_recording": 326040,
+    "model_params": {
+        "stepsize": 500,
+        "winsize": 2500
+    },
+    "n_wins": 648,
+    "output_fname": "sub-jh102_ses-presurgery_task-ictal_acq-ecog_run-05_proc-coh_freq-theta_ieeg.npz",
+    "output_fpath": "/home/adam2392/hdd/derivatives/coherence/average/jh102/sub-jh102_ses-presurgery_task-ictal_acq-ecog_run-05_proc-coh_freq-theta_ieeg.npz",
+    "reference": "average",
+    "sfreq": 1000.0,
+    "spectral_connectivity_matrix_shape": [
+        113,
+        113,
+        648
+    ],
+    "sz_offset_event_id": 36,
+    "sz_onset_event_id": 38
+}

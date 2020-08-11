@@ -1,0 +1,257 @@
+{
+    "band": "beta",
+    "ch_names": [
+        "LAF1",
+        "LAF3",
+        "LAF5",
+        "LAF7",
+        "LAF4",
+        "LAF6",
+        "LAF8",
+        "LMF1",
+        "LMF2",
+        "LMF3",
+        "LMF6",
+        "LMF7",
+        "LMF8",
+        "LPF1",
+        "LPF2",
+        "LPF3",
+        "LPF4",
+        "LPF5",
+        "LPF6",
+        "LPF7",
+        "LPF8",
+        "LMF4",
+        "LMF5",
+        "LFP1",
+        "LFP2",
+        "LFP3",
+        "LFP4",
+        "LFP5",
+        "LFP6",
+        "LFP7",
+        "LFP8",
+        "LAD1",
+        "LAD2",
+        "LAD3",
+        "LAD4",
+        "LAD5",
+        "LAD6",
+        "LAD7",
+        "LAD8",
+        "LHD1",
+        "LHD2",
+        "LHD3",
+        "LHD4",
+        "LHD5",
+        "LHD6",
+        "LHD7",
+        "LHD8",
+        "LAT1",
+        "LAT2",
+        "LAT3",
+        "LAT4",
+        "ABT1",
+        "ABT2",
+        "ABT3",
+        "ABT4",
+        "MBT1",
+        "MBT2",
+        "MBT3",
+        "MBT4",
+        "MBT5",
+        "MBT6",
+        "PBT4",
+        "PBT5",
+        "PBT6",
+        "LPT1",
+        "LPT2",
+        "LPT3",
+        "LPT4",
+        "LPT5",
+        "LPT6",
+        "LPT7",
+        "LPT8"
+    ],
+    "clin_onset_event_id": null,
+    "events": [
+        [
+            0,
+            0,
+            1
+        ],
+        [
+            0,
+            0,
+            17
+        ],
+        [
+            0,
+            0,
+            13
+        ],
+        [
+            114,
+            0,
+            4
+        ],
+        [
+            114,
+            0,
+            15
+        ],
+        [
+            114,
+            0,
+            23
+        ],
+        [
+            117,
+            0,
+            5
+        ],
+        [
+            117,
+            0,
+            20
+        ],
+        [
+            119,
+            0,
+            6
+        ],
+        [
+            119,
+            0,
+            25
+        ],
+        [
+            125,
+            0,
+            7
+        ],
+        [
+            125,
+            0,
+            19
+        ],
+        [
+            139,
+            0,
+            8
+        ],
+        [
+            139,
+            0,
+            24
+        ],
+        [
+            147,
+            0,
+            9
+        ],
+        [
+            147,
+            0,
+            22
+        ],
+        [
+            150,
+            0,
+            10
+        ],
+        [
+            150,
+            0,
+            14
+        ],
+        [
+            159,
+            0,
+            11
+        ],
+        [
+            159,
+            0,
+            16
+        ],
+        [
+            175,
+            0,
+            12
+        ],
+        [
+            175,
+            0,
+            21
+        ],
+        [
+            197,
+            0,
+            2
+        ],
+        [
+            197,
+            0,
+            18
+        ],
+        [
+            366,
+            0,
+            3
+        ],
+        [
+            366,
+            0,
+            26
+        ]
+    ],
+    "events_id": {
+        "+0.000000": 1,
+        "+101.000000": 2,
+        "+185.000000": 3,
+        "+59.000000": 4,
+        "+61.000000": 5,
+        "+62.000000": 6,
+        "+65.000000": 7,
+        "+72.000000": 8,
+        "+76.000000": 9,
+        "+77.000000": 10,
+        "+82.000000": 11,
+        "+90.000000": 12,
+        "A1+A2 OFF": 13,
+        "MARK ON": 14,
+        "SZ EVENT # (PB SZ)": 15,
+        "Schedule": 16,
+        "Segment: REC START REC EEG": 17,
+        "Z BILAT ARM STIFFENI": 18,
+        "Z BROAD RECUR SHP LP": 19,
+        "Z CONT SLOW L TEMP": 20,
+        "Z EYES OPEN": 21,
+        "Z ICTAL EVOLUTION LA": 22,
+        "Z INTERMIT SHP WAVES": 23,
+        "Z LAD RAPID SPIKING": 24,
+        "Z NEW SLOWING L FRON": 25,
+        "Z POST ICTAL DEPRESS": 26
+    },
+    "fmax": 30,
+    "fmin": 13,
+    "length_recording": 241155,
+    "model_params": {
+        "stepsize": 500,
+        "winsize": 2500
+    },
+    "n_wins": 478,
+    "output_fname": "sub-jh104_ses-presurgery_task-ictal_acq-ecog_run-05_proc-coh_freq-beta_ieeg.npz",
+    "output_fpath": "/home/adam2392/hdd/derivatives/coherence/average/jh104/sub-jh104_ses-presurgery_task-ictal_acq-ecog_run-05_proc-coh_freq-beta_ieeg.npz",
+    "reference": "average",
+    "sfreq": 1001.001001001001,
+    "spectral_connectivity_matrix_shape": [
+        72,
+        72,
+        478
+    ],
+    "sz_offset_event_id": null,
+    "sz_onset_event_id": 15
+}

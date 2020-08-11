@@ -1,0 +1,239 @@
+{
+    "band": "theta",
+    "ch_names": [
+        "C'1",
+        "C'2",
+        "C'3",
+        "C'5",
+        "C'6",
+        "C'7",
+        "C'8",
+        "C'11",
+        "C'12",
+        "C'13",
+        "C'14",
+        "C'10",
+        "U'8",
+        "U'9",
+        "U'10",
+        "G'1",
+        "G'2",
+        "G'10",
+        "G'11",
+        "G'12",
+        "G'13",
+        "G'14",
+        "A'1",
+        "A'2",
+        "A'3",
+        "A'4",
+        "A'8",
+        "A'11",
+        "A'12",
+        "A'13",
+        "A'14",
+        "Q'2",
+        "Q'3",
+        "Q'4",
+        "Q'5",
+        "Q'7",
+        "Q'8",
+        "Q'9",
+        "Q'10",
+        "U1",
+        "U2",
+        "U3",
+        "U4",
+        "U5",
+        "U6",
+        "U7",
+        "C1",
+        "C2",
+        "C3",
+        "C8",
+        "C9",
+        "C10",
+        "C11",
+        "A1",
+        "A2",
+        "A4",
+        "A5",
+        "A6",
+        "A8",
+        "A11",
+        "A12",
+        "A14",
+        "T1",
+        "T2",
+        "T3",
+        "T4",
+        "T8",
+        "I1",
+        "I2",
+        "I3",
+        "I4",
+        "I5",
+        "I6",
+        "I7",
+        "R5",
+        "R6",
+        "G1",
+        "G3",
+        "G7",
+        "G8",
+        "G9",
+        "G10",
+        "G11",
+        "G12",
+        "G13",
+        "G14",
+        "G15",
+        "N3",
+        "N4",
+        "N5",
+        "N8",
+        "N10",
+        "N11",
+        "Q1",
+        "Q2",
+        "Q3",
+        "Q7",
+        "X1",
+        "X11",
+        "X13",
+        "X14",
+        "X'1",
+        "X'2",
+        "X'12",
+        "X'13",
+        "X'14",
+        "X'15",
+        "X'16"
+    ],
+    "clin_onset_event_id": null,
+    "events": [
+        [
+            0,
+            0,
+            1
+        ],
+        [
+            0,
+            0,
+            14
+        ],
+        [
+            0,
+            0,
+            9
+        ],
+        [
+            237,
+            0,
+            2
+        ],
+        [
+            237,
+            0,
+            13
+        ],
+        [
+            241,
+            0,
+            3
+        ],
+        [
+            241,
+            0,
+            10
+        ],
+        [
+            282,
+            0,
+            4
+        ],
+        [
+            282,
+            0,
+            17
+        ],
+        [
+            347,
+            0,
+            5
+        ],
+        [
+            347,
+            0,
+            15
+        ],
+        [
+            404,
+            0,
+            6
+        ],
+        [
+            404,
+            0,
+            16
+        ],
+        [
+            449,
+            0,
+            7
+        ],
+        [
+            449,
+            0,
+            12
+        ],
+        [
+            469,
+            0,
+            8
+        ],
+        [
+            469,
+            0,
+            11
+        ]
+    ],
+    "events_id": {
+        "+0.000000": 1,
+        "+120.695000": 2,
+        "+123.068000": 3,
+        "+143.158000": 4,
+        "+175.695000": 5,
+        "+204.458000": 6,
+        "+226.787000": 7,
+        "+237.157000": 8,
+        "A1+A2 OFF": 9,
+        "EEG Onset": 10,
+        "EMND": 11,
+        "END": 12,
+        "SZ 10P": 13,
+        "Segment: REC START Tech-Bi EE": 14,
+        "does not answer": 15,
+        "does not follow comm": 16,
+        "does not react": 17
+    },
+    "fmax": 8,
+    "fmin": 4,
+    "length_recording": 432130,
+    "model_params": {
+        "stepsize": 500,
+        "winsize": 2500
+    },
+    "n_wins": 860,
+    "output_fname": "sub-nl17_ses-presurgery_task-ictal_acq-seeg_run-01_proc-cohcentrality_freq-theta_ieeg.npz",
+    "output_fpath": "/home/adam2392/hdd/derivatives/coherence-centrality/average/theta/nl17/sub-nl17_ses-presurgery_task-ictal_acq-seeg_run-01_proc-cohcentrality_freq-theta_ieeg.npz",
+    "reference": "average",
+    "sfreq": 1000.0,
+    "spectral_connectivity_matrix_shape": [
+        108,
+        108,
+        860
+    ],
+    "sz_offset_event_id": 12,
+    "sz_onset_event_id": 10
+}

@@ -1,0 +1,226 @@
+{
+    "band": "gamma",
+    "ch_names": [
+        "RSTS1",
+        "RSTS2",
+        "RSTS3",
+        "RSTS4",
+        "RATI1",
+        "RATI2",
+        "RATI3",
+        "RATI4",
+        "RATI7",
+        "RATI8",
+        "RATI9",
+        "RATI10",
+        "RATI11",
+        "RATI12",
+        "RATI13",
+        "RATI14",
+        "RATI15",
+        "RATI16",
+        "RABT1",
+        "RATI5",
+        "RATI6",
+        "RABT2",
+        "RABT3",
+        "RABT4",
+        "RMBT1",
+        "RMBT2",
+        "RMBT3",
+        "RPTI17",
+        "RPTI18",
+        "RPTI19",
+        "RPTI20",
+        "RPTI21",
+        "RPTI24",
+        "RPTI25",
+        "RPTI26",
+        "RPTI27",
+        "RPTI28",
+        "RPTI29",
+        "RPTI30",
+        "RPTI31",
+        "RPTI32",
+        "RPTS49",
+        "RPTS50",
+        "RPTS51",
+        "RPTS52",
+        "RPTS53",
+        "RPTS54",
+        "RPTS55",
+        "RPTS56",
+        "RPTS57",
+        "RPTS58",
+        "RPTS59",
+        "RPTS60",
+        "RPTS61",
+        "RPTS62",
+        "RPTS63",
+        "RPTS64",
+        "RPFS1",
+        "RPFS2",
+        "RPFS3",
+        "RPFS4",
+        "RPFS5",
+        "RPFS6",
+        "RPFS7",
+        "RPFS8",
+        "RPFI1",
+        "RPFI2",
+        "RPFI3",
+        "RPFI4"
+    ],
+    "clin_onset_event_id": null,
+    "clin_onset_win": null,
+    "events": [
+        [
+            0,
+            0,
+            1
+        ],
+        [
+            0,
+            0,
+            14
+        ],
+        [
+            0,
+            0,
+            11
+        ],
+        [
+            115,
+            0,
+            5
+        ],
+        [
+            115,
+            0,
+            20
+        ],
+        [
+            155,
+            0,
+            6
+        ],
+        [
+            155,
+            0,
+            12
+        ],
+        [
+            157,
+            0,
+            7
+        ],
+        [
+            157,
+            0,
+            18
+        ],
+        [
+            161,
+            0,
+            8
+        ],
+        [
+            161,
+            0,
+            15
+        ],
+        [
+            189,
+            0,
+            9
+        ],
+        [
+            189,
+            0,
+            16
+        ],
+        [
+            193,
+            0,
+            10
+        ],
+        [
+            193,
+            0,
+            13
+        ],
+        [
+            569,
+            0,
+            2
+        ],
+        [
+            569,
+            0,
+            17
+        ],
+        [
+            671,
+            0,
+            3
+        ],
+        [
+            671,
+            0,
+            19
+        ],
+        [
+            673,
+            0,
+            4
+        ],
+        [
+            673,
+            0,
+            13
+        ]
+    ],
+    "events_id": {
+        "+0.000000": 1,
+        "+287.000000": 2,
+        "+338.000000": 3,
+        "+339.000000": 4,
+        "+60.000000": 5,
+        "+80.000000": 6,
+        "+81.000000": 7,
+        "+83.000000": 8,
+        "+97.000000": 9,
+        "+99.000000": 10,
+        "A1+A2 OFF": 11,
+        "SZ EVENT #15 (EEG SZ": 12,
+        "Schedule": 13,
+        "Segment: REC START REC EEG": 14,
+        "Z 2-3 HZ": 15,
+        "Z 3 HZ SH RATI 5 AND": 16,
+        "Z DEVOLVES": 17,
+        "Z EVOLVES RATI 5 AND": 18,
+        "Z OVER": 19,
+        "Z POSS START RATI 4": 20
+    },
+    "fmax": 90,
+    "fmin": 30,
+    "length_recording": 401265,
+    "model_params": {
+        "stepsize": 500,
+        "winsize": 2500
+    },
+    "n_wins": 798,
+    "output_fname": "sub-jh107_ses-presurgery_task-ictal_acq-ecog_run-08_proc-cohdegree_freq-gamma_ieeg.npz",
+    "output_fpath": "/home/adam2392/hdd/derivatives/coherence-degree/average/jh107/sub-jh107_ses-presurgery_task-ictal_acq-ecog_run-08_proc-cohdegree_freq-gamma_ieeg.npz",
+    "reference": "average",
+    "sfreq": 1000.0,
+    "spectral_connectivity_matrix_shape": [
+        69,
+        69,
+        798
+    ],
+    "sz_offset_event_id": 19,
+    "sz_offset_win": 671,
+    "sz_onset_event_id": 12,
+    "sz_onset_win": 155
+}

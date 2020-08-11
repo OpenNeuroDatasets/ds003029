@@ -1,0 +1,113 @@
+{
+    "band": "theta",
+    "ch_names": [
+        "I'1",
+        "I'2",
+        "I'4",
+        "I'5",
+        "I'6",
+        "I'7",
+        "I'8",
+        "C'1",
+        "C'2",
+        "C'3",
+        "C'4",
+        "C'8",
+        "C'9",
+        "A1",
+        "A2",
+        "A3",
+        "A8",
+        "A9",
+        "A10",
+        "I1",
+        "I2",
+        "I3",
+        "I4",
+        "I5",
+        "I6",
+        "T1",
+        "T2",
+        "T3",
+        "T4",
+        "T5",
+        "T6",
+        "T7",
+        "O1",
+        "O2",
+        "O3",
+        "O4",
+        "O5",
+        "O6",
+        "O7",
+        "E1",
+        "E2",
+        "E3",
+        "E4",
+        "E5",
+        "E6",
+        "B2",
+        "B3",
+        "B4",
+        "B5",
+        "B9",
+        "B10",
+        "U6",
+        "U7",
+        "U8"
+    ],
+    "clin_onset_event_id": null,
+    "events": [
+        [
+            0,
+            0,
+            1
+        ],
+        [
+            0,
+            0,
+            5
+        ],
+        [
+            0,
+            0,
+            3
+        ],
+        [
+            57,
+            0,
+            2
+        ],
+        [
+            57,
+            0,
+            4
+        ]
+    ],
+    "events_id": {
+        "+0.000000": 1,
+        "+30.915000": 2,
+        "A1+A2 OFF": 3,
+        "SPK O lat": 4,
+        "Segment: REC START Tech-Bi EE": 5
+    },
+    "fmax": 8,
+    "fmin": 4,
+    "length_recording": 60162,
+    "model_params": {
+        "stepsize": 500,
+        "winsize": 2500
+    },
+    "n_wins": 116,
+    "output_fname": "sub-nl15_ses-presurgery_task-interictal_acq-seeg_run-01_proc-coh_freq-theta_ieeg.npz",
+    "output_fpath": "/home/adam2392/hdd/derivatives/coherence/average/theta/nl15/sub-nl15_ses-presurgery_task-interictal_acq-seeg_run-01_proc-coh_freq-theta_ieeg.npz",
+    "reference": "average",
+    "sfreq": 1000.0,
+    "spectral_connectivity_matrix_shape": [
+        54,
+        54,
+        116
+    ],
+    "sz_offset_event_id": null,
+    "sz_onset_event_id": null
+}

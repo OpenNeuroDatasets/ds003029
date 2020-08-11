@@ -1,0 +1,314 @@
+{
+    "band": "beta",
+    "ch_names": [
+        "LAF1",
+        "LAF3",
+        "LAF5",
+        "LAF7",
+        "LAF4",
+        "LAF6",
+        "LAF8",
+        "LMF1",
+        "LMF2",
+        "LMF3",
+        "LMF6",
+        "LMF7",
+        "LMF8",
+        "LPF1",
+        "LPF2",
+        "LPF3",
+        "LPF4",
+        "LPF5",
+        "LPF6",
+        "LPF7",
+        "LPF8",
+        "LMF4",
+        "LMF5",
+        "LFP1",
+        "LFP2",
+        "LFP3",
+        "LFP4",
+        "LFP5",
+        "LFP6",
+        "LFP7",
+        "LFP8",
+        "LAD1",
+        "LAD2",
+        "LAD3",
+        "LAD4",
+        "LAD5",
+        "LAD6",
+        "LAD7",
+        "LAD8",
+        "LHD1",
+        "LHD2",
+        "LHD3",
+        "LHD4",
+        "LHD5",
+        "LHD6",
+        "LHD7",
+        "LHD8",
+        "LAT1",
+        "LAT2",
+        "LAT3",
+        "LAT4",
+        "ABT1",
+        "ABT2",
+        "ABT3",
+        "ABT4",
+        "MBT1",
+        "MBT2",
+        "MBT3",
+        "MBT4",
+        "MBT5",
+        "MBT6",
+        "PBT4",
+        "PBT5",
+        "PBT6",
+        "LPT1",
+        "LPT2",
+        "LPT3",
+        "LPT4",
+        "LPT5",
+        "LPT6",
+        "LPT7",
+        "LPT8"
+    ],
+    "clin_onset_event_id": null,
+    "clin_onset_win": null,
+    "events": [
+        [
+            0,
+            0,
+            1
+        ],
+        [
+            0,
+            0,
+            22
+        ],
+        [
+            0,
+            0,
+            18
+        ],
+        [
+            114,
+            0,
+            4
+        ],
+        [
+            114,
+            0,
+            20
+        ],
+        [
+            115,
+            0,
+            5
+        ],
+        [
+            115,
+            0,
+            32
+        ],
+        [
+            117,
+            0,
+            6
+        ],
+        [
+            117,
+            0,
+            31
+        ],
+        [
+            123,
+            0,
+            7
+        ],
+        [
+            123,
+            0,
+            33
+        ],
+        [
+            127,
+            0,
+            8
+        ],
+        [
+            127,
+            0,
+            29
+        ],
+        [
+            141,
+            0,
+            9
+        ],
+        [
+            141,
+            0,
+            26
+        ],
+        [
+            143,
+            0,
+            10
+        ],
+        [
+            143,
+            0,
+            34
+        ],
+        [
+            145,
+            0,
+            11
+        ],
+        [
+            145,
+            0,
+            28
+        ],
+        [
+            150,
+            0,
+            12
+        ],
+        [
+            150,
+            0,
+            23
+        ],
+        [
+            163,
+            0,
+            13
+        ],
+        [
+            163,
+            0,
+            27
+        ],
+        [
+            165,
+            0,
+            14
+        ],
+        [
+            165,
+            0,
+            30
+        ],
+        [
+            173,
+            0,
+            15
+        ],
+        [
+            173,
+            0,
+            35
+        ],
+        [
+            179,
+            0,
+            16
+        ],
+        [
+            179,
+            0,
+            24
+        ],
+        [
+            190,
+            0,
+            17
+        ],
+        [
+            190,
+            0,
+            25
+        ],
+        [
+            228,
+            0,
+            2
+        ],
+        [
+            228,
+            0,
+            19
+        ],
+        [
+            272,
+            0,
+            3
+        ],
+        [
+            272,
+            0,
+            21
+        ]
+    ],
+    "events_id": {
+        "+0.000000": 1,
+        "+116.000000": 2,
+        "+138.000000": 3,
+        "+59.000000": 4,
+        "+60.000000": 5,
+        "+61.000000": 6,
+        "+64.000000": 7,
+        "+66.000000": 8,
+        "+73.000000": 9,
+        "+74.000000": 10,
+        "+75.000000": 11,
+        "+77.000000": 12,
+        "+84.000000": 13,
+        "+85.000000": 14,
+        "+89.000000": 15,
+        "+92.000000": 16,
+        "+97.000000": 17,
+        "A1+A2 OFF": 18,
+        "MARK ON": 19,
+        "SZ EVENT # (PB SZ)": 20,
+        "Schedule": 21,
+        "Segment: REC START REC EEG": 22,
+        "Z APPEARS TO LIFT AR": 23,
+        "Z BILAT UPPER EXTREM": 24,
+        "Z DROOLING": 25,
+        "Z EYES OPEN, LOOKS U": 26,
+        "Z FACIAL GRIMACING": 27,
+        "Z FAST SPK, PBT, MBT": 28,
+        "Z ICTAL BUILD": 29,
+        "Z MOANING": 30,
+        "Z PBT 4-5 > MBT, LAT": 31,
+        "Z RESTING, EYES CLOS": 32,
+        "Z SPREAD TO LAD, LFP": 33,
+        "Z UNDER BLANKET": 34,
+        "Z UPPER EXTREMITY TO": 35
+    },
+    "fmax": 30,
+    "fmin": 13,
+    "length_recording": 215280,
+    "model_params": {
+        "stepsize": 500,
+        "winsize": 2500
+    },
+    "n_wins": 426,
+    "output_fname": "sub-jh104_ses-presurgery_task-ictal_acq-ecog_run-04_proc-cohcentrality_freq-beta_ieeg.npz",
+    "output_fpath": "/home/adam2392/hdd/derivatives/coherence-centrality/average/jh104/sub-jh104_ses-presurgery_task-ictal_acq-ecog_run-04_proc-cohcentrality_freq-beta_ieeg.npz",
+    "reference": "average",
+    "sfreq": 1001.001001001001,
+    "spectral_connectivity_matrix_shape": [
+        72,
+        72,
+        426
+    ],
+    "sz_offset_event_id": null,
+    "sz_offset_win": null,
+    "sz_onset_event_id": 20,
+    "sz_onset_win": 114
+}

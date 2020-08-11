@@ -1,0 +1,126 @@
+{
+    "band": "alpha",
+    "ch_names": [
+        "OF1",
+        "OF2",
+        "OF3",
+        "TT1",
+        "TT2",
+        "TT3",
+        "TT4",
+        "TT5",
+        "TT6",
+        "AST3",
+        "AST4",
+        "MST1",
+        "MST2",
+        "MST3",
+        "MST4",
+        "PST1",
+        "PST2",
+        "PST3",
+        "PST4",
+        "FP35",
+        "AST1",
+        "AST2",
+        "FP36",
+        "FP37",
+        "FP38",
+        "FP39",
+        "FP40",
+        "FP43",
+        "FP44",
+        "FP45",
+        "FP46",
+        "FP47",
+        "FP48",
+        "G3",
+        "G4",
+        "G5",
+        "G6",
+        "G7",
+        "G8",
+        "G11",
+        "G12",
+        "G13",
+        "G14",
+        "G15",
+        "G16",
+        "G20",
+        "G21",
+        "G22",
+        "G23",
+        "G24",
+        "G28",
+        "G29",
+        "G30",
+        "G31",
+        "G32"
+    ],
+    "clin_onset_event_id": null,
+    "events": [
+        [
+            0,
+            0,
+            1
+        ],
+        [
+            0,
+            0,
+            5
+        ],
+        [
+            0,
+            0,
+            4
+        ],
+        [
+            189,
+            0,
+            3
+        ],
+        [
+            189,
+            0,
+            7
+        ],
+        [
+            396,
+            0,
+            2
+        ],
+        [
+            396,
+            0,
+            6
+        ]
+    ],
+    "events_id": {
+        "+0.000000": 1,
+        "+200.309000": 2,
+        "+96.811000": 3,
+        "A1+A2 OFF": 4,
+        "Segment: REC START TomiPintle": 5,
+        "offset": 6,
+        "onset": 7
+    },
+    "fmax": 13,
+    "fmin": 8,
+    "length_recording": 400334,
+    "model_params": {
+        "stepsize": 500,
+        "winsize": 2500
+    },
+    "n_wins": 796,
+    "output_fname": "sub-pt10_ses-presurgery_task-ictal_acq-ecog_run-03_proc-coh_freq-alpha_ieeg.npz",
+    "output_fpath": "/home/adam2392/hdd/derivatives/coherence/average/pt10/sub-pt10_ses-presurgery_task-ictal_acq-ecog_run-03_proc-coh_freq-alpha_ieeg.npz",
+    "reference": "average",
+    "sfreq": 1000.0,
+    "spectral_connectivity_matrix_shape": [
+        55,
+        55,
+        796
+    ],
+    "sz_offset_event_id": 6,
+    "sz_onset_event_id": 7
+}

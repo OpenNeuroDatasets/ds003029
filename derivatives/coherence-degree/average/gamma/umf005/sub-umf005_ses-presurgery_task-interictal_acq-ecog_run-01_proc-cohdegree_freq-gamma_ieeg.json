@@ -1,0 +1,66 @@
+{
+    "band": "gamma",
+    "ch_names": [
+        "LLAT1",
+        "LLAT3",
+        "LABT3",
+        "RLAT1",
+        "RLAT6",
+        "LLAT4",
+        "LABT4",
+        "RLAT2",
+        "LABT2",
+        "LLAT5",
+        "LPBT1",
+        "LLAT2",
+        "LABT1",
+        "LPBT3",
+        "RLAT5",
+        "RABT1",
+        "LLAT6",
+        "LPBT2",
+        "RLAT4",
+        "LPBT4",
+        "RLAT3",
+        "RABT2",
+        "RABT3",
+        "RABT4",
+        "RPBT1",
+        "RPBT2",
+        "RPBT3",
+        "RPBT4"
+    ],
+    "clin_onset_event_id": null,
+    "clin_onset_win": null,
+    "events": [
+        [
+            0,
+            0,
+            1
+        ]
+    ],
+    "events_id": {
+        "New Segment/": 1
+    },
+    "fmax": 90,
+    "fmin": 30,
+    "length_recording": 68016,
+    "model_params": {
+        "stepsize": 500,
+        "winsize": 2500
+    },
+    "n_wins": 132,
+    "output_fname": "sub-umf005_ses-presurgery_task-interictal_acq-ecog_run-01_proc-cohdegree_freq-gamma_ieeg.npz",
+    "output_fpath": "/home/adam2392/hdd/derivatives/coherence-degree/average/umf005/sub-umf005_ses-presurgery_task-interictal_acq-ecog_run-01_proc-cohdegree_freq-gamma_ieeg.npz",
+    "reference": "average",
+    "sfreq": 1025.6410256410256,
+    "spectral_connectivity_matrix_shape": [
+        28,
+        28,
+        132
+    ],
+    "sz_offset_event_id": null,
+    "sz_offset_win": null,
+    "sz_onset_event_id": null,
+    "sz_onset_win": null
+}

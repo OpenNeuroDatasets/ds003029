@@ -66,5 +66,15 @@
   },
   "years_follow_up": {
     "Description": "The number of years of follow up since the surgery."
+  },
+  "site": {
+    "Description": "The clinical site for the subject",
+    "Levels": {
+      "nih": "National Institute of Health",
+      "ummc": "University of Maryland Medical Center",
+      "jhh": "Johns Hopkins Hospital",
+      "umf": "University of Miami Florida Hospital",
+      "cc": "Cleveland Clinic"
+    }
   }
 }

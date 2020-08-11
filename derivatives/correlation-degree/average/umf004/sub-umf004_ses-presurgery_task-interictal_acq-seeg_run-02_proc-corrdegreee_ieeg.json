@@ -1,0 +1,70 @@
+{
+    "ch_names": [
+        "LTP1",
+        "LTP2",
+        "LTP3",
+        "LTP4",
+        "LTP5",
+        "LA1",
+        "LA2",
+        "LA4",
+        "LA5",
+        "LA6",
+        "LA7",
+        "LA8",
+        "LH1",
+        "LH2",
+        "LH3",
+        "LH4",
+        "LH5",
+        "LH6",
+        "LH7",
+        "LH8",
+        "LPH2",
+        "LPH3",
+        "LPH4",
+        "LPH5",
+        "LPH6",
+        "RA1",
+        "RA2",
+        "RA3",
+        "RA4",
+        "RA5",
+        "LOFS3",
+        "LOFS8",
+        "LOFS9",
+        "LOFS10",
+        "LOFS11",
+        "LMCSM2",
+        "LMCSM5",
+        "LMCSM6"
+    ],
+    "clin_onset_event_id": null,
+    "correlation_matrix_shape": [
+        38,
+        38,
+        488
+    ],
+    "events": [
+        [
+            0,
+            0,
+            1
+        ]
+    ],
+    "events_id": {
+        "New Segment/": 1
+    },
+    "length_recording": 61166,
+    "model_params": {
+        "stepsize": 125,
+        "winsize": 250
+    },
+    "n_wins": 488,
+    "output_fname": "sub-umf004_ses-presurgery_task-interictal_acq-seeg_run-02_proc-corrdegreee_ieeg.npz",
+    "output_fpath": "/home/adam2392/hdd/derivatives/correlation/average/umf004/sub-umf004_ses-presurgery_task-interictal_acq-seeg_run-02_proc-corrdegreee_ieeg.npz",
+    "reference": "average",
+    "sfreq": 1000.0,
+    "sz_offset_event_id": null,
+    "sz_onset_event_id": null
+}

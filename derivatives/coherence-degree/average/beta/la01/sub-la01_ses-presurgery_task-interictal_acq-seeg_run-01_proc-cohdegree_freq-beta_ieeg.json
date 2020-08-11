@@ -1,0 +1,101 @@
+{
+    "band": "beta",
+    "ch_names": [
+        "P1",
+        "P3",
+        "P5",
+        "P6",
+        "X1",
+        "X2",
+        "X3",
+        "X7",
+        "P9",
+        "B3",
+        "B8",
+        "B9",
+        "P'1",
+        "P'2",
+        "P'4",
+        "P'5",
+        "P'8",
+        "X'3",
+        "X'4",
+        "U'3",
+        "U'4",
+        "U'5",
+        "U'6",
+        "C'1",
+        "C'2",
+        "C'3",
+        "C'8",
+        "C'9",
+        "C'10",
+        "F'2",
+        "F'5",
+        "F'6",
+        "F'7",
+        "F'8",
+        "F'9",
+        "F'10",
+        "T'3",
+        "T'4",
+        "T'5",
+        "B'6",
+        "B'7",
+        "B'8",
+        "E'1",
+        "E'2",
+        "E'3",
+        "E'4",
+        "E'5",
+        "A'1",
+        "A'2",
+        "O'1",
+        "O'2"
+    ],
+    "clin_onset_event_id": null,
+    "clin_onset_win": null,
+    "events": [
+        [
+            0,
+            0,
+            3
+        ],
+        [
+            0,
+            0,
+            1
+        ],
+        [
+            354,
+            0,
+            2
+        ]
+    ],
+    "events_id": {
+        "A1+A2 OFF": 1,
+        "Center Interictal": 2,
+        "REC START Tech-Bi EE": 3
+    },
+    "fmax": 30,
+    "fmin": 13,
+    "length_recording": 361000,
+    "model_params": {
+        "stepsize": 500,
+        "winsize": 2500
+    },
+    "n_wins": 718,
+    "output_fname": "sub-la01_ses-presurgery_task-interictal_acq-seeg_run-01_proc-cohdegree_freq-beta_ieeg.npz",
+    "output_fpath": "/home/adam2392/hdd/derivatives/coherence-degree/average/beta/la01/sub-la01_ses-presurgery_task-interictal_acq-seeg_run-01_proc-cohdegree_freq-beta_ieeg.npz",
+    "reference": "average",
+    "sfreq": 1000.0,
+    "spectral_connectivity_matrix_shape": [
+        51,
+        51,
+        718
+    ],
+    "sz_offset_event_id": null,
+    "sz_offset_win": null,
+    "sz_onset_event_id": null,
+    "sz_onset_win": null
+}

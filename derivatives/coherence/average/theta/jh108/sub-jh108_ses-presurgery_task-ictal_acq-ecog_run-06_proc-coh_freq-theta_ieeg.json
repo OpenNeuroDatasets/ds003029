@@ -1,0 +1,309 @@
+{
+    "band": "theta",
+    "ch_names": [
+        "RSI1",
+        "RSI2",
+        "RSI3",
+        "RSI4",
+        "RSI5",
+        "RSI6",
+        "RSI7",
+        "RSI8",
+        "RDI3",
+        "RDI4",
+        "RDI5",
+        "RDI6",
+        "RDI7",
+        "RDI8",
+        "RAF1",
+        "RAF2",
+        "RAF3",
+        "RAF4",
+        "RAF5",
+        "RDI1",
+        "RDI2",
+        "RAF6",
+        "RAF7",
+        "RAF8",
+        "RIF1",
+        "RIF2",
+        "RIF3",
+        "RIF4",
+        "RIF5",
+        "RIF6",
+        "RPP1",
+        "RPP2",
+        "RPP3",
+        "RPP4",
+        "RPP5",
+        "RPP6",
+        "RPP7",
+        "RPP8",
+        "RIP1",
+        "RIP2",
+        "RIP3",
+        "RIP4",
+        "RIP5",
+        "RIP6",
+        "RIP7",
+        "RIP8",
+        "RAT1",
+        "RAT2",
+        "RAT3",
+        "RAT4",
+        "RAT5",
+        "RAT6",
+        "RST1",
+        "RST2",
+        "RST3",
+        "RST4",
+        "RST5",
+        "RST6",
+        "RST7",
+        "RST8",
+        "RBT1",
+        "RBT2",
+        "RBT3",
+        "RBT4",
+        "RPT1",
+        "RPT2",
+        "RPT3",
+        "RPT4",
+        "RPT5",
+        "RPT6",
+        "LSI1",
+        "LSI2",
+        "LSI3",
+        "LSI4",
+        "LSI5",
+        "LSI6",
+        "LSI7",
+        "LSI8",
+        "LDI1",
+        "LDI2",
+        "LDI3",
+        "LDI4",
+        "LDI5",
+        "LDI6",
+        "LDI7",
+        "LDI8",
+        "LAF1",
+        "LAF2",
+        "LAF3",
+        "LAF4",
+        "LAF5",
+        "LAF6",
+        "LIF1",
+        "LIF2",
+        "LIF3",
+        "LIF4",
+        "LIF5",
+        "LIF6",
+        "LPP1",
+        "LPP2",
+        "LPP3",
+        "LPP4",
+        "LPP5",
+        "LPP6",
+        "LPP7",
+        "LPP8",
+        "LIP1",
+        "LIP2",
+        "LIP3",
+        "LIP4",
+        "LIP5",
+        "LIP6",
+        "LIP7",
+        "LIP8",
+        "LAT1",
+        "LAT2",
+        "LAT3",
+        "LAT4",
+        "LAT5",
+        "LAT6",
+        "LST1",
+        "LST2",
+        "LST3",
+        "LST4",
+        "LST5",
+        "LST6",
+        "LST7",
+        "LST8",
+        "LPT1",
+        "LPT2",
+        "LPT3",
+        "LPT4",
+        "LBT1",
+        "LBT2",
+        "LBT3",
+        "LBT4"
+    ],
+    "clin_onset_event_id": null,
+    "events": [
+        [
+            0,
+            0,
+            1
+        ],
+        [
+            0,
+            0,
+            16
+        ],
+        [
+            0,
+            0,
+            12
+        ],
+        [
+            113,
+            0,
+            4
+        ],
+        [
+            113,
+            0,
+            14
+        ],
+        [
+            119,
+            0,
+            5
+        ],
+        [
+            119,
+            0,
+            19
+        ],
+        [
+            121,
+            0,
+            6
+        ],
+        [
+            121,
+            0,
+            18
+        ],
+        [
+            123,
+            0,
+            7
+        ],
+        [
+            123,
+            0,
+            24
+        ],
+        [
+            127,
+            0,
+            8
+        ],
+        [
+            127,
+            0,
+            23
+        ],
+        [
+            127,
+            0,
+            20
+        ],
+        [
+            131,
+            0,
+            9
+        ],
+        [
+            131,
+            0,
+            17
+        ],
+        [
+            133,
+            0,
+            10
+        ],
+        [
+            133,
+            0,
+            13
+        ],
+        [
+            159,
+            0,
+            11
+        ],
+        [
+            159,
+            0,
+            21
+        ],
+        [
+            215,
+            0,
+            2
+        ],
+        [
+            215,
+            0,
+            22
+        ],
+        [
+            311,
+            0,
+            3
+        ],
+        [
+            311,
+            0,
+            15
+        ]
+    ],
+    "events_id": {
+        "+0.000000": 1,
+        "+110.000000": 2,
+        "+158.000000": 3,
+        "+59.000000": 4,
+        "+62.000000": 5,
+        "+63.000000": 6,
+        "+64.000000": 7,
+        "+66.000000": 8,
+        "+68.000000": 9,
+        "+69.000000": 10,
+        "+82.000000": 11,
+        "A1+A2 OFF": 12,
+        "RDI, RSI, RPP, RIP M": 13,
+        "SZ EVENT #(PB SZ)": 14,
+        "Schedule": 15,
+        "Segment: REC START REC EEG": 16,
+        "Z BUILDING FAST ACTI": 17,
+        "Z FAST ACTIVITY STAR": 18,
+        "Z HIGH AMP POLYSP RS": 19,
+        "Z RPP FAST": 20,
+        "Z SPIKING STARTS BRO": 21,
+        "Z STOPPING": 22,
+        "z flings arms, fumbl": 23,
+        "z limb movements sta": 24
+    },
+    "fmax": 8,
+    "fmin": 4,
+    "length_recording": 172017,
+    "model_params": {
+        "stepsize": 500,
+        "winsize": 2500
+    },
+    "n_wins": 340,
+    "output_fname": "sub-jh108_ses-presurgery_task-ictal_acq-ecog_run-06_proc-coh_freq-theta_ieeg.npz",
+    "output_fpath": "/home/adam2392/hdd/derivatives/coherence/average/jh108/sub-jh108_ses-presurgery_task-ictal_acq-ecog_run-06_proc-coh_freq-theta_ieeg.npz",
+    "reference": "average",
+    "sfreq": 1000.0,
+    "spectral_connectivity_matrix_shape": [
+        136,
+        136,
+        340
+    ],
+    "sz_offset_event_id": null,
+    "sz_onset_event_id": 14
+}

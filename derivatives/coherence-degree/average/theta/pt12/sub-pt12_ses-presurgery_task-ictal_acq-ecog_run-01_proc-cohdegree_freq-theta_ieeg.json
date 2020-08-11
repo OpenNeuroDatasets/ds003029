@@ -1,0 +1,164 @@
+{
+    "band": "theta",
+    "ch_names": [
+        "OF1",
+        "OF2",
+        "OF3",
+        "OF4",
+        "TT1",
+        "TT2",
+        "TT5",
+        "TT6",
+        "AST1",
+        "AST2",
+        "AST3",
+        "AST4",
+        "MST1",
+        "MST2",
+        "MST3",
+        "MST4",
+        "PST1",
+        "TT3",
+        "TT4",
+        "PST2",
+        "PST3",
+        "PST4",
+        "G1",
+        "G2",
+        "G3",
+        "G4",
+        "G5",
+        "G6",
+        "G7",
+        "G8",
+        "G9",
+        "G10",
+        "G11",
+        "G12",
+        "G13",
+        "G14",
+        "G15",
+        "G16",
+        "G19",
+        "G20",
+        "G21",
+        "G22",
+        "G23",
+        "G24",
+        "G27",
+        "G28",
+        "G29",
+        "G30",
+        "G31",
+        "G32",
+        "TO1",
+        "TO2",
+        "TO3",
+        "TO4"
+    ],
+    "clin_onset_event_id": null,
+    "clin_onset_win": null,
+    "events": [
+        [
+            0,
+            0,
+            1
+        ],
+        [
+            0,
+            0,
+            9
+        ],
+        [
+            0,
+            0,
+            8
+        ],
+        [
+            133,
+            0,
+            5
+        ],
+        [
+            133,
+            0,
+            7
+        ],
+        [
+            142,
+            0,
+            6
+        ],
+        [
+            142,
+            0,
+            13
+        ],
+        [
+            309,
+            0,
+            2
+        ],
+        [
+            309,
+            0,
+            11
+        ],
+        [
+            607,
+            0,
+            3
+        ],
+        [
+            607,
+            0,
+            10
+        ],
+        [
+            622,
+            0,
+            4
+        ],
+        [
+            622,
+            0,
+            12
+        ]
+    ],
+    "events_id": {
+        "+0.000000": 1,
+        "+156.759000": 2,
+        "+305.580000": 3,
+        "+313.844000": 4,
+        "+69.085000": 5,
+        "+73.297000": 6,
+        "?": 7,
+        "A1+A2 OFF": 8,
+        "Segment: REC START Temporal E": 9,
+        "laughs at TV": 10,
+        "laughs with TV": 11,
+        "offset": 12,
+        "onset TT3": 13
+    },
+    "fmax": 8,
+    "fmin": 4,
+    "length_recording": 381300,
+    "model_params": {
+        "stepsize": 500,
+        "winsize": 2500
+    },
+    "n_wins": 758,
+    "output_fname": "sub-pt12_ses-presurgery_task-ictal_acq-ecog_run-01_proc-cohdegree_freq-theta_ieeg.npz",
+    "output_fpath": "/home/adam2392/hdd/derivatives/coherence-degree/average/pt12/sub-pt12_ses-presurgery_task-ictal_acq-ecog_run-01_proc-cohdegree_freq-theta_ieeg.npz",
+    "reference": "average",
+    "sfreq": 1000.0,
+    "spectral_connectivity_matrix_shape": [
+        54,
+        54,
+        758
+    ],
+    "sz_offset_event_id": 12,
+    "sz_offset_win": 622,
+    "sz_onset_event_id": 13,
+    "sz_onset_win": 142
+}

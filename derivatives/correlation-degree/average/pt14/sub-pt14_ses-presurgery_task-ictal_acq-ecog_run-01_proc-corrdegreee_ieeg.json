@@ -1,0 +1,186 @@
+{
+    "ch_names": [
+        "G2",
+        "G3",
+        "G4",
+        "G8",
+        "G10",
+        "G11",
+        "G12",
+        "G16",
+        "G18",
+        "G19",
+        "G20",
+        "G21",
+        "G22",
+        "G24",
+        "G27",
+        "G28",
+        "G13",
+        "G14",
+        "G29",
+        "G30",
+        "G31",
+        "G32",
+        "TT1",
+        "TT2",
+        "TT3",
+        "TT4",
+        "TT5",
+        "TT6",
+        "AST1",
+        "AST2",
+        "AST3",
+        "AST4",
+        "MST1",
+        "MST2",
+        "MST3",
+        "MST4",
+        "PST1",
+        "PST2",
+        "PST3",
+        "PPST1",
+        "PPST2",
+        "PPST3",
+        "PPST4",
+        "PT1",
+        "PT2",
+        "PT3'",
+        "PT4",
+        "PT5",
+        "PT6",
+        "LF1",
+        "LF2",
+        "LF3",
+        "LF4",
+        "LF5",
+        "LF6",
+        "OF1",
+        "OF2",
+        "OF3",
+        "OF4"
+    ],
+    "clin_onset_event_id": null,
+    "correlation_matrix_shape": [
+        59,
+        59,
+        2320
+    ],
+    "events": [
+        [
+            0,
+            0,
+            1
+        ],
+        [
+            0,
+            0,
+            12
+        ],
+        [
+            0,
+            0,
+            9
+        ],
+        [
+            645,
+            0,
+            7
+        ],
+        [
+            645,
+            0,
+            10
+        ],
+        [
+            785,
+            0,
+            8
+        ],
+        [
+            785,
+            0,
+            11
+        ],
+        [
+            941,
+            0,
+            2
+        ],
+        [
+            941,
+            0,
+            13
+        ],
+        [
+            1563,
+            0,
+            3
+        ],
+        [
+            1563,
+            0,
+            15
+        ],
+        [
+            1599,
+            0,
+            4
+        ],
+        [
+            1599,
+            0,
+            13
+        ],
+        [
+            1602,
+            0,
+            5
+        ],
+        [
+            1602,
+            0,
+            16
+        ],
+        [
+            1641,
+            0,
+            6
+        ],
+        [
+            1641,
+            0,
+            14
+        ]
+    ],
+    "events_id": {
+        "+0.000000": 1,
+        "+117.917000": 2,
+        "+195.743000": 3,
+        "+200.281000": 4,
+        "+200.758000": 5,
+        "+205.642000": 6,
+        "+80.860000": 7,
+        "+98.547000": 8,
+        "A1+A2 OFF": 9,
+        "EEG onset": 10,
+        "I think I'm going to": 11,
+        "Segment: REC START Carr-susan": 12,
+        "Sue": 13,
+        "carr": 14,
+        "offset": 15,
+        "still says Sue": 16
+    },
+    "length_recording": 290224,
+    "model_params": {
+        "stepsize": 125,
+        "winsize": 250
+    },
+    "n_wins": 2320,
+    "output_fname": "sub-pt14_ses-presurgery_task-ictal_acq-ecog_run-01_proc-corrdegreee_ieeg.npz",
+    "output_fpath": "/home/adam2392/hdd/derivatives/correlation/average/pt14/sub-pt14_ses-presurgery_task-ictal_acq-ecog_run-01_proc-corrdegreee_ieeg.npz",
+    "reference": "average",
+    "sfreq": 1000.0,
+    "sz_offset_event_id": 15,
+    "sz_onset_event_id": 10
+}

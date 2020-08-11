@@ -1,0 +1,154 @@
+{
+    "band": "theta",
+    "ch_names": [
+        "R2",
+        "R3",
+        "R5",
+        "R6",
+        "R7",
+        "R8",
+        "Q2",
+        "Q3",
+        "Q4",
+        "Q5",
+        "Q6",
+        "Q7",
+        "Q8",
+        "Q9",
+        "Q10",
+        "S1",
+        "R9",
+        "S2",
+        "S3",
+        "S4",
+        "S5",
+        "S6",
+        "S7",
+        "S8",
+        "S9",
+        "M2",
+        "M3",
+        "M4",
+        "M5",
+        "M6",
+        "M7",
+        "W1",
+        "W2",
+        "W9",
+        "W10",
+        "W11",
+        "W12",
+        "W13",
+        "W14",
+        "W15",
+        "U3",
+        "U4",
+        "U5",
+        "U6",
+        "U7",
+        "U8",
+        "U9",
+        "U10",
+        "U11",
+        "R'1",
+        "R'2",
+        "R'3",
+        "R'5",
+        "R'6",
+        "R'7",
+        "R'8",
+        "S'7",
+        "S'8",
+        "S'9"
+    ],
+    "clin_onset_event_id": 7,
+    "events": [
+        [
+            0,
+            0,
+            1
+        ],
+        [
+            0,
+            0,
+            11
+        ],
+        [
+            0,
+            0,
+            6
+        ],
+        [
+            235,
+            0,
+            2
+        ],
+        [
+            235,
+            0,
+            10
+        ],
+        [
+            241,
+            0,
+            3
+        ],
+        [
+            241,
+            0,
+            9
+        ],
+        [
+            303,
+            0,
+            4
+        ],
+        [
+            303,
+            0,
+            7
+        ],
+        [
+            338,
+            0,
+            5
+        ],
+        [
+            338,
+            0,
+            8
+        ]
+    ],
+    "events_id": {
+        "+0.000000": 1,
+        "+119.950000": 2,
+        "+122.710000": 3,
+        "+153.793000": 4,
+        "+171.429000": 5,
+        "A1+A2 OFF": 6,
+        "Clin Onset": 7,
+        "Clin&EEG End": 8,
+        "EEG Onset-R5-7": 9,
+        "SZ 5P": 10,
+        "Segment: REC START Tech-Bi EE": 11
+    },
+    "fmax": 8,
+    "fmin": 4,
+    "length_recording": 233050,
+    "model_params": {
+        "stepsize": 500,
+        "winsize": 2500
+    },
+    "n_wins": 462,
+    "output_fname": "sub-nl07_ses-presurgery_task-ictal_acq-seeg_run-02_proc-coh_freq-theta_ieeg.npz",
+    "output_fpath": "/home/adam2392/hdd/derivatives/coherence/average/theta/nl07/sub-nl07_ses-presurgery_task-ictal_acq-seeg_run-02_proc-coh_freq-theta_ieeg.npz",
+    "reference": "average",
+    "sfreq": 1000.0,
+    "spectral_connectivity_matrix_shape": [
+        59,
+        59,
+        462
+    ],
+    "sz_offset_event_id": 8,
+    "sz_onset_event_id": 7
+}

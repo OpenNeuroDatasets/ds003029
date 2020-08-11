@@ -1,0 +1,338 @@
+{
+    "ch_names": [
+        "LAF1",
+        "LAF3",
+        "LAF5",
+        "LAF7",
+        "LAF4",
+        "LAF6",
+        "LAF8",
+        "LMF1",
+        "LMF2",
+        "LMF3",
+        "LMF6",
+        "LMF7",
+        "LMF8",
+        "LPF1",
+        "LPF2",
+        "LPF3",
+        "LPF4",
+        "LPF5",
+        "LPF6",
+        "LPF7",
+        "LPF8",
+        "LMF4",
+        "LMF5",
+        "LFP1",
+        "LFP2",
+        "LFP3",
+        "LFP4",
+        "LFP5",
+        "LFP6",
+        "LFP7",
+        "LFP8",
+        "LAD1",
+        "LAD2",
+        "LAD3",
+        "LAD4",
+        "LAD5",
+        "LAD6",
+        "LAD7",
+        "LAD8",
+        "LHD1",
+        "LHD2",
+        "LHD3",
+        "LHD4",
+        "LHD5",
+        "LHD6",
+        "LHD7",
+        "LHD8",
+        "LAT1",
+        "LAT2",
+        "LAT3",
+        "LAT4",
+        "ABT1",
+        "ABT2",
+        "ABT3",
+        "ABT4",
+        "MBT1",
+        "MBT2",
+        "MBT3",
+        "MBT4",
+        "MBT5",
+        "MBT6",
+        "PBT4",
+        "PBT5",
+        "PBT6",
+        "LPT1",
+        "LPT2",
+        "LPT3",
+        "LPT4",
+        "LPT5",
+        "LPT6",
+        "LPT7",
+        "LPT8"
+    ],
+    "clin_onset_event_id": null,
+    "correlation_matrix_shape": [
+        72,
+        72,
+        1856
+    ],
+    "events": [
+        [
+            0,
+            0,
+            1
+        ],
+        [
+            0,
+            0,
+            22
+        ],
+        [
+            438,
+            0,
+            6
+        ],
+        [
+            438,
+            0,
+            21
+        ],
+        [
+            471,
+            0,
+            7
+        ],
+        [
+            471,
+            0,
+            20
+        ],
+        [
+            493,
+            0,
+            8
+        ],
+        [
+            493,
+            0,
+            36
+        ],
+        [
+            565,
+            0,
+            9
+        ],
+        [
+            565,
+            0,
+            35
+        ],
+        [
+            573,
+            0,
+            10
+        ],
+        [
+            573,
+            0,
+            34
+        ],
+        [
+            590,
+            0,
+            11
+        ],
+        [
+            590,
+            0,
+            29
+        ],
+        [
+            628,
+            0,
+            12
+        ],
+        [
+            628,
+            0,
+            32
+        ],
+        [
+            631,
+            0,
+            37
+        ],
+        [
+            670,
+            0,
+            13
+        ],
+        [
+            670,
+            0,
+            19
+        ],
+        [
+            686,
+            0,
+            14
+        ],
+        [
+            686,
+            0,
+            24
+        ],
+        [
+            687,
+            0,
+            27
+        ],
+        [
+            687,
+            0,
+            28
+        ],
+        [
+            725,
+            0,
+            15
+        ],
+        [
+            725,
+            0,
+            30
+        ],
+        [
+            750,
+            0,
+            16
+        ],
+        [
+            750,
+            0,
+            25
+        ],
+        [
+            767,
+            0,
+            17
+        ],
+        [
+            767,
+            0,
+            33
+        ],
+        [
+            783,
+            0,
+            18
+        ],
+        [
+            783,
+            0,
+            31
+        ],
+        [
+            783,
+            0,
+            40
+        ],
+        [
+            814,
+            0,
+            2
+        ],
+        [
+            814,
+            0,
+            39
+        ],
+        [
+            847,
+            0,
+            3
+        ],
+        [
+            847,
+            0,
+            26
+        ],
+        [
+            957,
+            0,
+            4
+        ],
+        [
+            957,
+            0,
+            38
+        ],
+        [
+            1142,
+            0,
+            5
+        ],
+        [
+            1142,
+            0,
+            23
+        ]
+    ],
+    "events_id": {
+        "+0.000000": 1,
+        "+102.000000": 2,
+        "+106.000000": 3,
+        "+120.000000": 4,
+        "+143.000000": 5,
+        "+55.000000": 6,
+        "+59.000000": 7,
+        "+62.000000": 8,
+        "+71.000000": 9,
+        "+72.000000": 10,
+        "+74.000000": 11,
+        "+79.000000": 12,
+        "+84.000000": 13,
+        "+86.000000": 14,
+        "+91.000000": 15,
+        "+94.000000": 16,
+        "+96.000000": 17,
+        "+98.000000": 18,
+        "MARK ON": 19,
+        "SZ EVENT # (PB SZ)": 20,
+        "Schedule": 21,
+        "Segment: REC START REC EEG": 22,
+        "Z DEVOLUTION": 23,
+        "Z DROPS PHONE FROM R": 24,
+        "Z EMU TECH AND RN EN": 25,
+        "Z EXENSOR POSTURING": 26,
+        "Z HOLDING ONTO CUP W": 27,
+        "Z ICTAL BUILD, INC A": 28,
+        "Z LFP 3-4 , LPF SPRE": 29,
+        "Z LIFTS BOTH ARMS": 30,
+        "Z MOANING": 31,
+        "Z OPENS EYES, LOOKS": 32,
+        "Z OPENS MOUTH": 33,
+        "Z PBT 4 > MBT 5-6, L": 34,
+        "Z PBT RAPID SPIKE": 35,
+        "Z SEMIRHY SLOW PBT4": 36,
+        "Z SPREAD TO LAD": 37,
+        "Z TONIC CLONIC COTNI": 38,
+        "Z TONIC CLONIC UPPER": 39,
+        "Z UPPER EXTREMITY ST": 40
+    },
+    "length_recording": 232185,
+    "model_params": {
+        "stepsize": 125,
+        "winsize": 250
+    },
+    "n_wins": 1856,
+    "output_fname": "sub-jh104_ses-presurgery_task-ictal_acq-ecog_run-01_proc-corrdegreee_ieeg.npz",
+    "output_fpath": "/home/adam2392/hdd/derivatives/correlation/average/jh104/sub-jh104_ses-presurgery_task-ictal_acq-ecog_run-01_proc-corrdegreee_ieeg.npz",
+    "reference": "average",
+    "sfreq": 1001.001001001001,
+    "sz_offset_event_id": null,
+    "sz_onset_event_id": 20
+}

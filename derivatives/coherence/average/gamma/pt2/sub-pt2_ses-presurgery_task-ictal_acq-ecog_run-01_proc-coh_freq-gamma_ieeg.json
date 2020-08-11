@@ -1,0 +1,193 @@
+{
+    "band": "gamma",
+    "ch_names": [
+        "G1",
+        "G2",
+        "G3",
+        "G4",
+        "G7",
+        "G8",
+        "G9",
+        "G10",
+        "G13",
+        "G14",
+        "G15",
+        "G16",
+        "G18",
+        "G19",
+        "G20",
+        "G21",
+        "G22",
+        "G23",
+        "G11",
+        "G12",
+        "G24",
+        "G26",
+        "G27",
+        "G28",
+        "G29",
+        "G30",
+        "G31",
+        "G32",
+        "TT1",
+        "TT2",
+        "TT3",
+        "TT4",
+        "TT5",
+        "TT6",
+        "AST3",
+        "AST4",
+        "MST1",
+        "MST2",
+        "MST3",
+        "MST4",
+        "PST1",
+        "PST2",
+        "PST3",
+        "PST4",
+        "OF1",
+        "OF2",
+        "OF3",
+        "OF4",
+        "LF1",
+        "LF2",
+        "LF3",
+        "LF4",
+        "LF5",
+        "LF6",
+        "AST1",
+        "AST2",
+        "LP1",
+        "LP2",
+        "LP3",
+        "LP4",
+        "LP5",
+        "LP6"
+    ],
+    "clin_onset_event_id": null,
+    "events": [
+        [
+            0,
+            0,
+            1
+        ],
+        [
+            0,
+            0,
+            12
+        ],
+        [
+            0,
+            0,
+            10
+        ],
+        [
+            207,
+            0,
+            2
+        ],
+        [
+            207,
+            0,
+            9
+        ],
+        [
+            215,
+            0,
+            3
+        ],
+        [
+            215,
+            0,
+            14
+        ],
+        [
+            219,
+            0,
+            4
+        ],
+        [
+            219,
+            0,
+            17
+        ],
+        [
+            291,
+            0,
+            5
+        ],
+        [
+            291,
+            0,
+            11
+        ],
+        [
+            305,
+            0,
+            6
+        ],
+        [
+            305,
+            0,
+            13
+        ],
+        [
+            325,
+            0,
+            7
+        ],
+        [
+            325,
+            0,
+            15
+        ],
+        [
+            405,
+            0,
+            8
+        ],
+        [
+            405,
+            0,
+            16
+        ]
+    ],
+    "events_id": {
+        "+0.000000": 1,
+        "+106.000000": 2,
+        "+110.000000": 3,
+        "+112.000000": 4,
+        "+148.000000": 5,
+        "+155.000000": 6,
+        "+165.000000": 7,
+        "+205.000000": 8,
+        "?onset ?TT1 then PST": 9,
+        "A1+A2 OFF": 10,
+        "Alex1,2, 6,7 rythmic": 11,
+        "Segment: REC START Prater EEG": 12,
+        "TT,AST,MST,PST sprea": 13,
+        "delta slowing G1,2,3": 14,
+        "general spread": 15,
+        "offset": 16,
+        "rythmic TT1, PST1": 17
+    },
+    "fmax": 90,
+    "fmin": 30,
+    "length_recording": 313111,
+    "model_params": {
+        "stepsize": 500,
+        "winsize": 2500
+    },
+    "n_wins": 622,
+    "output_fname": "sub-pt2_ses-presurgery_task-ictal_acq-ecog_run-01_proc-coh_freq-gamma_ieeg.npz",
+    "output_fpath": "/home/adam2392/hdd/derivatives/coherence/average/pt2/sub-pt2_ses-presurgery_task-ictal_acq-ecog_run-01_proc-coh_freq-gamma_ieeg.npz",
+    "reference": "average",
+    "sfreq": 1000.0,
+    "spectral_connectivity_matrix_shape": [
+        62,
+        62,
+        622
+    ],
+    "sz_offset_event_id": 16,
+    "sz_onset_event_id": 9
+}

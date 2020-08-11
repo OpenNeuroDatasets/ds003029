@@ -1,0 +1,190 @@
+{
+    "ch_names": [
+        "OF1",
+        "OF2",
+        "OF3",
+        "TT1",
+        "TT2",
+        "TT3",
+        "TT4",
+        "TT5",
+        "TT6",
+        "AST3",
+        "AST4",
+        "MST1",
+        "MST2",
+        "MST3",
+        "MST4",
+        "PST1",
+        "PST2",
+        "PST3",
+        "PST4",
+        "FP35",
+        "AST1",
+        "AST2",
+        "FP36",
+        "FP37",
+        "FP38",
+        "FP39",
+        "FP40",
+        "FP43",
+        "FP44",
+        "FP45",
+        "FP46",
+        "FP47",
+        "FP48",
+        "G3",
+        "G4",
+        "G5",
+        "G6",
+        "G7",
+        "G8",
+        "G11",
+        "G12",
+        "G13",
+        "G14",
+        "G15",
+        "G16",
+        "G20",
+        "G21",
+        "G22",
+        "G23",
+        "G24",
+        "G28",
+        "G29",
+        "G30",
+        "G31",
+        "G32"
+    ],
+    "clin_onset_event_id": null,
+    "clin_onset_win": null,
+    "events": [
+        [
+            0,
+            0,
+            1
+        ],
+        [
+            0,
+            0,
+            11
+        ],
+        [
+            0,
+            0,
+            9
+        ],
+        [
+            353,
+            0,
+            7
+        ],
+        [
+            353,
+            0,
+            14
+        ],
+        [
+            615,
+            0,
+            8
+        ],
+        [
+            615,
+            0,
+            15
+        ],
+        [
+            910,
+            0,
+            2
+        ],
+        [
+            910,
+            0,
+            12
+        ],
+        [
+            1352,
+            0,
+            3
+        ],
+        [
+            1352,
+            0,
+            17
+        ],
+        [
+            1362,
+            0,
+            4
+        ],
+        [
+            1362,
+            0,
+            10
+        ],
+        [
+            1543,
+            0,
+            5
+        ],
+        [
+            1543,
+            0,
+            13
+        ],
+        [
+            2279,
+            0,
+            6
+        ],
+        [
+            2279,
+            0,
+            16
+        ]
+    ],
+    "events_id": {
+        "+0.000000": 1,
+        "+114.051000": 2,
+        "+169.398000": 3,
+        "+170.592000": 4,
+        "+193.200000": 5,
+        "+285.414000": 6,
+        "+44.404000": 7,
+        "+77.306000": 8,
+        "A1+A2 OFF": 9,
+        "Does not obey comman": 10,
+        "Segment: REC START TomiPintle": 11,
+        "hand automatisms": 12,
+        "offset": 13,
+        "onset": 14,
+        "oral automatisms": 15,
+        "reads": 16,
+        "unable to say name": 17
+    },
+    "freq_band": [
+        0.5,
+        4
+    ],
+    "length_recording": 454894,
+    "model_params": {
+        "fmax": 300,
+        "fmin": 0.5,
+        "n_fft": 250
+    },
+    "n_wins": 3638,
+    "output_fname": "sub-pt10_ses-presurgery_task-ictal_acq-ecog_run-01_proc-tfr_ieeg.h5",
+    "reference": "average",
+    "sfreq": 1000.0,
+    "sz_offset_event_id": 13,
+    "sz_offset_win": 1543,
+    "sz_onset_event_id": 14,
+    "sz_onset_win": 353,
+    "tfr_matrix_shape": [
+        55,
+        75,
+        3638
+    ]
+}

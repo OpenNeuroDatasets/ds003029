@@ -1,0 +1,289 @@
+{
+    "band": "gamma",
+    "ch_names": [
+        "G3",
+        "G4",
+        "G5",
+        "G6",
+        "G7",
+        "G8",
+        "G11",
+        "G12",
+        "G15",
+        "G16",
+        "G19",
+        "G20",
+        "G21",
+        "G22",
+        "G23",
+        "G24",
+        "G27",
+        "G28",
+        "G29",
+        "G13",
+        "G14",
+        "G30",
+        "G31",
+        "G32",
+        "TT1",
+        "TT2",
+        "TT3",
+        "TT4",
+        "TT6",
+        "AST1",
+        "AST2",
+        "AST3",
+        "AST4",
+        "MST1",
+        "MST2",
+        "MST3",
+        "MST4",
+        "PST1",
+        "PST2",
+        "PPST1",
+        "PPST2",
+        "PPST3",
+        "PPST4",
+        "TO1",
+        "TO2",
+        "TO3",
+        "TO4",
+        "TO5",
+        "TO6",
+        "TP1",
+        "TP2",
+        "TP3",
+        "TP4",
+        "TP5",
+        "TP6",
+        "OF1",
+        "OF3",
+        "OF4",
+        "LIF1",
+        "LIF2",
+        "LIF3",
+        "LIF4",
+        "LIF5",
+        "LIF6",
+        "LSF1",
+        "LSF2",
+        "LSF3",
+        "LSF4",
+        "LSF5",
+        "LSF6",
+        "LSF7"
+    ],
+    "clin_onset_event_id": 16,
+    "clin_onset_win": 333,
+    "events": [
+        [
+            0,
+            0,
+            1
+        ],
+        [
+            0,
+            0,
+            23
+        ],
+        [
+            0,
+            0,
+            17
+        ],
+        [
+            241,
+            0,
+            2
+        ],
+        [
+            241,
+            0,
+            26
+        ],
+        [
+            265,
+            0,
+            3
+        ],
+        [
+            265,
+            0,
+            24
+        ],
+        [
+            266,
+            0,
+            4
+        ],
+        [
+            266,
+            0,
+            21
+        ],
+        [
+            298,
+            0,
+            5
+        ],
+        [
+            298,
+            0,
+            25
+        ],
+        [
+            315,
+            0,
+            6
+        ],
+        [
+            315,
+            0,
+            19
+        ],
+        [
+            318,
+            0,
+            7
+        ],
+        [
+            318,
+            0,
+            31
+        ],
+        [
+            324,
+            0,
+            8
+        ],
+        [
+            324,
+            0,
+            18
+        ],
+        [
+            330,
+            0,
+            9
+        ],
+        [
+            330,
+            0,
+            20
+        ],
+        [
+            333,
+            0,
+            10
+        ],
+        [
+            333,
+            0,
+            16
+        ],
+        [
+            357,
+            0,
+            11
+        ],
+        [
+            357,
+            0,
+            22
+        ],
+        [
+            565,
+            0,
+            12
+        ],
+        [
+            565,
+            0,
+            27
+        ],
+        [
+            674,
+            0,
+            13
+        ],
+        [
+            674,
+            0,
+            28
+        ],
+        [
+            1772,
+            0,
+            14
+        ],
+        [
+            1772,
+            0,
+            30
+        ],
+        [
+            1980,
+            0,
+            15
+        ],
+        [
+            1980,
+            0,
+            29
+        ]
+    ],
+    "events_id": {
+        "+0.000000": 1,
+        "+122.657000": 2,
+        "+135.016000": 3,
+        "+135.294000": 4,
+        "+151.379000": 5,
+        "+159.997000": 6,
+        "+161.464000": 7,
+        "+164.417000": 8,
+        "+167.219000": 9,
+        "+168.862000": 10,
+        "+180.995000": 11,
+        "+284.848000": 12,
+        "+339.598000": 13,
+        "+888.260000": 14,
+        "+992.569000": 15,
+        "??clinical onset??": 16,
+        "A1+A2 OFF": 17,
+        "AST1, PST1/2, then T": 18,
+        "G1-3": 19,
+        "G22": 20,
+        "Onset": 21,
+        "R face twitching": 22,
+        "Segment: REC START Meyeroff E": 23,
+        "Seizure #2": 24,
+        "TT, AST, MST1, ?PST1": 25,
+        "atten": 26,
+        "generalized off": 27,
+        "lsf": 28,
+        "offset": 29,
+        "right facial twitchi": 30,
+        "upper grid attenuati": 31
+    },
+    "fmax": 90,
+    "fmin": 30,
+    "length_recording": 993006,
+    "model_params": {
+        "stepsize": 500,
+        "winsize": 2500
+    },
+    "n_wins": 1982,
+    "output_fname": "sub-pt15_ses-presurgery_task-ictal_acq-ecog_run-02_proc-cohcentrality_freq-gamma_ieeg.npz",
+    "output_fpath": "/home/adam2392/hdd/derivatives/coherence-centrality/average/pt15/sub-pt15_ses-presurgery_task-ictal_acq-ecog_run-02_proc-cohcentrality_freq-gamma_ieeg.npz",
+    "reference": "average",
+    "sfreq": 1000.0,
+    "spectral_connectivity_matrix_shape": [
+        71,
+        71,
+        1982
+    ],
+    "sz_offset_event_id": 29,
+    "sz_offset_win": 1980,
+    "sz_onset_event_id": 21,
+    "sz_onset_win": 266
+}

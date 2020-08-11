@@ -1,0 +1,187 @@
+{
+    "band": "theta",
+    "ch_names": [
+        "RFT1",
+        "RFT2",
+        "RFT3",
+        "RFT4",
+        "RFT5",
+        "RFT6",
+        "RALT1",
+        "RALT2",
+        "RALT3",
+        "RALT4",
+        "RAST1",
+        "RAST2",
+        "RAST3",
+        "RAST4",
+        "RPST1",
+        "RPST2",
+        "RPST3",
+        "RPST4",
+        "RPLT1",
+        "RPLT2",
+        "RPLT3",
+        "RALT5",
+        "RALT6",
+        "RPLT4",
+        "RPLT5",
+        "RPLT6",
+        "RAH1",
+        "RAH2",
+        "RAH3",
+        "RAH4",
+        "RPH1",
+        "RPH2",
+        "RPH3",
+        "RPH4",
+        "RA1",
+        "RA2",
+        "RA3",
+        "RA4",
+        "LFT1",
+        "LFT2",
+        "LFT3",
+        "LFT4",
+        "LFT5",
+        "LFT6",
+        "LALT1",
+        "LALT2",
+        "LALT3",
+        "LALT4",
+        "LALT5",
+        "LALT6",
+        "LAST1",
+        "LAST2",
+        "LAST3",
+        "LAST4",
+        "LPST1",
+        "LPST2",
+        "LPST3",
+        "LPST4",
+        "LPLT2",
+        "LPLT3",
+        "LPLT4",
+        "LPLT5",
+        "LPT1",
+        "LPT2",
+        "LPT3",
+        "LPT4",
+        "LPT5",
+        "LPT6",
+        "LAH1",
+        "LAH2",
+        "LAH3",
+        "LAH4",
+        "LPH1",
+        "LPH2",
+        "LPH3",
+        "LPH4",
+        "LA1",
+        "LA2",
+        "LA3",
+        "LA4"
+    ],
+    "clin_onset_event_id": 11,
+    "events": [
+        [
+            0,
+            0,
+            1
+        ],
+        [
+            0,
+            0,
+            9
+        ],
+        [
+            0,
+            0,
+            7
+        ],
+        [
+            266,
+            0,
+            2
+        ],
+        [
+            266,
+            0,
+            10
+        ],
+        [
+            297,
+            0,
+            3
+        ],
+        [
+            297,
+            0,
+            13
+        ],
+        [
+            334,
+            0,
+            4
+        ],
+        [
+            334,
+            0,
+            11
+        ],
+        [
+            438,
+            0,
+            5
+        ],
+        [
+            438,
+            0,
+            8
+        ],
+        [
+            546,
+            0,
+            6
+        ],
+        [
+            546,
+            0,
+            12
+        ]
+    ],
+    "events_id": {
+        "+0.000000": 1,
+        "+135.187000": 2,
+        "+150.909000": 3,
+        "+169.690000": 4,
+        "+221.180000": 5,
+        "+275.599000": 6,
+        "A1+A2 OFF": 7,
+        "GTC": 8,
+        "Segment: REC START JOHNSON D": 9,
+        "asleep": 10,
+        "clinical onset": 11,
+        "offset": 12,
+        "sz": 13
+    },
+    "fmax": 8,
+    "fmin": 4,
+    "length_recording": 412301,
+    "model_params": {
+        "stepsize": 500,
+        "winsize": 2500
+    },
+    "n_wins": 820,
+    "output_fname": "sub-pt6_ses-presurgery_task-ictal_acq-ecog_run-02_proc-coh_freq-theta_ieeg.npz",
+    "output_fpath": "/home/adam2392/hdd/derivatives/coherence/average/pt6/sub-pt6_ses-presurgery_task-ictal_acq-ecog_run-02_proc-coh_freq-theta_ieeg.npz",
+    "reference": "average",
+    "sfreq": 1000.0,
+    "spectral_connectivity_matrix_shape": [
+        80,
+        80,
+        820
+    ],
+    "sz_offset_event_id": 12,
+    "sz_onset_event_id": 11
+}

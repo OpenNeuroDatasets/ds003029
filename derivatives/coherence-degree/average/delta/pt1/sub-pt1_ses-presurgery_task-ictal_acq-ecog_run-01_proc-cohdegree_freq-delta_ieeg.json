@@ -1,0 +1,289 @@
+{
+    "band": "delta",
+    "ch_names": [
+        "G1",
+        "G2",
+        "G3",
+        "G4",
+        "G7",
+        "G8",
+        "G9",
+        "G10",
+        "G13",
+        "G14",
+        "G15",
+        "G16",
+        "G17",
+        "G18",
+        "G19",
+        "G20",
+        "G21",
+        "G22",
+        "G23",
+        "G11",
+        "G12",
+        "G24",
+        "G25",
+        "G26",
+        "G27",
+        "G28",
+        "G29",
+        "G30",
+        "G31",
+        "G32",
+        "ATT1",
+        "ATT2",
+        "ATT3",
+        "ATT4",
+        "ATT5",
+        "ATT6",
+        "ATT7",
+        "ATT8",
+        "PLT1",
+        "PLT2",
+        "PLT3",
+        "PLT4",
+        "PLT5",
+        "PLT6",
+        "AST1",
+        "AST2",
+        "AST3",
+        "AST4",
+        "PST1",
+        "PST2",
+        "PST3",
+        "PST4",
+        "AD1",
+        "AD2",
+        "AD3",
+        "AD4",
+        "PD1",
+        "PD2",
+        "PD3",
+        "PD4",
+        "SF1",
+        "SF2",
+        "SF3",
+        "SF4",
+        "SF5",
+        "SF6",
+        "IF1",
+        "IF2",
+        "IF3",
+        "IF4",
+        "IF5",
+        "IF6",
+        "ILT1",
+        "ILT2",
+        "ILT3",
+        "ILT4",
+        "MLT1",
+        "MLT2",
+        "MLT3",
+        "MLT4",
+        "SLT1",
+        "SLT2",
+        "SLT3",
+        "SLT4"
+    ],
+    "clin_onset_event_id": null,
+    "clin_onset_win": null,
+    "events": [
+        [
+            0,
+            0,
+            1
+        ],
+        [
+            0,
+            0,
+            25
+        ],
+        [
+            0,
+            0,
+            15
+        ],
+        [
+            145,
+            0,
+            4
+        ],
+        [
+            145,
+            0,
+            14
+        ],
+        [
+            147,
+            0,
+            5
+        ],
+        [
+            147,
+            0,
+            28
+        ],
+        [
+            149,
+            0,
+            6
+        ],
+        [
+            149,
+            0,
+            16
+        ],
+        [
+            151,
+            0,
+            7
+        ],
+        [
+            151,
+            0,
+            22
+        ],
+        [
+            165,
+            0,
+            8
+        ],
+        [
+            165,
+            0,
+            23
+        ],
+        [
+            169,
+            0,
+            9
+        ],
+        [
+            169,
+            0,
+            18
+        ],
+        [
+            169,
+            0,
+            18
+        ],
+        [
+            173,
+            0,
+            10
+        ],
+        [
+            173,
+            0,
+            21
+        ],
+        [
+            179,
+            0,
+            11
+        ],
+        [
+            179,
+            0,
+            17
+        ],
+        [
+            179,
+            0,
+            20
+        ],
+        [
+            185,
+            0,
+            12
+        ],
+        [
+            185,
+            0,
+            19
+        ],
+        [
+            189,
+            0,
+            13
+        ],
+        [
+            189,
+            0,
+            24
+        ],
+        [
+            257,
+            0,
+            2
+        ],
+        [
+            257,
+            0,
+            26
+        ],
+        [
+            319,
+            0,
+            3
+        ],
+        [
+            319,
+            0,
+            27
+        ]
+    ],
+    "events_id": {
+        "+0.000000": 1,
+        "+131.000000": 2,
+        "+162.000000": 3,
+        "+75.000000": 4,
+        "+76.000000": 5,
+        "+77.000000": 6,
+        "+78.000000": 7,
+        "+85.000000": 8,
+        "+87.000000": 9,
+        "+89.000000": 10,
+        "+92.000000": 11,
+        "+95.000000": 12,
+        "+97.000000": 13,
+        "1st change": 14,
+        "A1+A2 OFF": 15,
+        "AD1-4, ATT1,2": 16,
+        "AST1,3": 17,
+        "G16": 18,
+        "G8": 19,
+        "L arm extension": 20,
+        "L head turn": 21,
+        "PD": 22,
+        "R arm rises, automat": 23,
+        "SLT1-3": 24,
+        "Segment: REC START Kelly EEG": 25,
+        "not answering, readi": 26,
+        "offset": 27,
+        "onset": 28
+    },
+    "fmax": 4,
+    "fmin": 0.5,
+    "length_recording": 269080,
+    "model_params": {
+        "stepsize": 500,
+        "winsize": 2500
+    },
+    "n_wins": 534,
+    "output_fname": "sub-pt1_ses-presurgery_task-ictal_acq-ecog_run-01_proc-cohdegree_freq-delta_ieeg.npz",
+    "output_fpath": "/home/adam2392/hdd/derivatives/coherence-degree/average/pt1/sub-pt1_ses-presurgery_task-ictal_acq-ecog_run-01_proc-cohdegree_freq-delta_ieeg.npz",
+    "reference": "average",
+    "sfreq": 1000.0,
+    "spectral_connectivity_matrix_shape": [
+        84,
+        84,
+        534
+    ],
+    "sz_offset_event_id": 27,
+    "sz_offset_win": 319,
+    "sz_onset_event_id": 28,
+    "sz_onset_win": 147
+}

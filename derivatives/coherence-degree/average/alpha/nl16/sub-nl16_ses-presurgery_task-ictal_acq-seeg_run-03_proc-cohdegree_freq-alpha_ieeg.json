@@ -1,0 +1,208 @@
+{
+    "band": "alpha",
+    "ch_names": [
+        "X'1",
+        "X'11",
+        "X'12",
+        "X'14",
+        "D'1",
+        "X'9",
+        "X'10",
+        "D'8",
+        "D'9",
+        "D'10",
+        "D'11",
+        "D'12",
+        "D'13",
+        "D'14",
+        "C'5",
+        "C'9",
+        "C'10",
+        "C'11",
+        "C'12",
+        "F'1",
+        "F'2",
+        "F'3",
+        "F'4",
+        "F'6",
+        "F'7",
+        "F'10",
+        "F'11",
+        "U'1",
+        "U'2",
+        "U'3",
+        "U'4",
+        "U'5",
+        "U'6",
+        "U'7",
+        "U'8",
+        "U'9",
+        "B'1",
+        "B'2",
+        "B'3",
+        "B'8",
+        "B'9",
+        "B'10",
+        "B'11",
+        "B'12",
+        "E'1",
+        "E'2",
+        "E'3",
+        "E'4",
+        "E'7",
+        "E'8",
+        "E'9",
+        "E'10",
+        "A'1",
+        "A'2",
+        "A'3",
+        "A'4",
+        "A'5",
+        "A'7",
+        "A'8",
+        "A'9",
+        "A'11",
+        "A'12",
+        "A'13",
+        "I'1",
+        "I'2",
+        "I'3",
+        "I'4",
+        "I'5",
+        "I'6",
+        "I'7",
+        "I'8",
+        "T'1",
+        "T'2",
+        "T'3",
+        "T'4",
+        "T'5",
+        "T'6"
+    ],
+    "clin_onset_event_id": null,
+    "events": [
+        [
+            0,
+            0,
+            1
+        ],
+        [
+            0,
+            0,
+            17
+        ],
+        [
+            0,
+            0,
+            9
+        ],
+        [
+            231,
+            0,
+            2
+        ],
+        [
+            231,
+            0,
+            14
+        ],
+        [
+            236,
+            0,
+            3
+        ],
+        [
+            236,
+            0,
+            16
+        ],
+        [
+            240,
+            0,
+            4
+        ],
+        [
+            240,
+            0,
+            10
+        ],
+        [
+            240,
+            0,
+            5
+        ],
+        [
+            240,
+            0,
+            13
+        ],
+        [
+            253,
+            0,
+            6
+        ],
+        [
+            253,
+            0,
+            15
+        ],
+        [
+            397,
+            0,
+            7
+        ],
+        [
+            397,
+            0,
+            11
+        ],
+        [
+            397,
+            0,
+            8
+        ],
+        [
+            397,
+            0,
+            12
+        ]
+    ],
+    "events_id": {
+        "+0.000000": 1,
+        "+117.630000": 2,
+        "+120.154000": 3,
+        "+122.239000": 4,
+        "+122.352000": 5,
+        "+128.962000": 6,
+        "+200.673000": 7,
+        "+200.774000": 8,
+        "A1+A2 OFF": 9,
+        "EEG Onset": 10,
+        "EEG Seizure End": 11,
+        "End": 12,
+        "Fast X' A' B' C' D'": 13,
+        "NO VIDEO, pt in bath": 14,
+        "Run of SPK B' C' D'": 15,
+        "SZ 5P clean EEG/no v": 16,
+        "Segment: REC START Tech-Bi EE": 17
+    },
+    "fmax": 13,
+    "fmin": 8,
+    "length_recording": 420000,
+    "model_params": {
+        "stepsize": 500,
+        "winsize": 2500
+    },
+    "n_wins": 836,
+    "output_fname": "sub-nl16_ses-presurgery_task-ictal_acq-seeg_run-03_proc-cohdegree_freq-alpha_ieeg.npz",
+    "output_fpath": "/home/adam2392/hdd/derivatives/coherence-degree/average/alpha/nl16/sub-nl16_ses-presurgery_task-ictal_acq-seeg_run-03_proc-cohdegree_freq-alpha_ieeg.npz",
+    "reference": "average",
+    "sfreq": 1000.0,
+    "spectral_connectivity_matrix_shape": [
+        77,
+        77,
+        836
+    ],
+    "sz_offset_event_id": 12,
+    "sz_onset_event_id": 10
+}

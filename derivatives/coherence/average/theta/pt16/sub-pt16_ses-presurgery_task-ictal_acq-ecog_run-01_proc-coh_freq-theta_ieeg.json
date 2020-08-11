@@ -1,0 +1,147 @@
+{
+    "band": "theta",
+    "ch_names": [
+        "OF1",
+        "OF2",
+        "OF3",
+        "OF4",
+        "TT1",
+        "TT2",
+        "TT3",
+        "TT4",
+        "TT5",
+        "TT6",
+        "AST3",
+        "AST4",
+        "MST1",
+        "MST2",
+        "MST3",
+        "MST4",
+        "PST1",
+        "PST2",
+        "PST3",
+        "PST4",
+        "G4",
+        "AST1",
+        "AST2",
+        "G5",
+        "G6",
+        "G7",
+        "G8",
+        "G12",
+        "G13",
+        "G14",
+        "G15",
+        "G16",
+        "G18",
+        "G19",
+        "G20",
+        "G21",
+        "G22",
+        "G23",
+        "G24",
+        "G26",
+        "G27",
+        "G28",
+        "G29",
+        "G30",
+        "G31",
+        "G32"
+    ],
+    "clin_onset_event_id": null,
+    "events": [
+        [
+            0,
+            0,
+            1
+        ],
+        [
+            0,
+            0,
+            10
+        ],
+        [
+            0,
+            0,
+            6
+        ],
+        [
+            161,
+            0,
+            5
+        ],
+        [
+            161,
+            0,
+            8
+        ],
+        [
+            506,
+            0,
+            2
+        ],
+        [
+            506,
+            0,
+            12
+        ],
+        [
+            506,
+            0,
+            11
+        ],
+        [
+            546,
+            0,
+            3
+        ],
+        [
+            546,
+            0,
+            9
+        ],
+        [
+            655,
+            0,
+            4
+        ],
+        [
+            655,
+            0,
+            7
+        ]
+    ],
+    "events_id": {
+        "+0.000000": 1,
+        "+255.147000": 2,
+        "+275.485000": 3,
+        "+330.405000": 4,
+        "+82.999000": 5,
+        "A1+A2 OFF": 6,
+        "Offset": 7,
+        "Onset": 8,
+        "Reads": 9,
+        "Segment: REC START SB-REF EEG": 10,
+        "can say her name": 11,
+        "can stick out tongue": 12
+    },
+    "fmax": 8,
+    "fmin": 4,
+    "length_recording": 550282,
+    "model_params": {
+        "stepsize": 500,
+        "winsize": 2500
+    },
+    "n_wins": 1096,
+    "output_fname": "sub-pt16_ses-presurgery_task-ictal_acq-ecog_run-01_proc-coh_freq-theta_ieeg.npz",
+    "output_fpath": "/home/adam2392/hdd/derivatives/coherence/average/pt16/sub-pt16_ses-presurgery_task-ictal_acq-ecog_run-01_proc-coh_freq-theta_ieeg.npz",
+    "reference": "average",
+    "sfreq": 1000.0,
+    "spectral_connectivity_matrix_shape": [
+        46,
+        46,
+        1096
+    ],
+    "sz_offset_event_id": 7,
+    "sz_onset_event_id": 8
+}

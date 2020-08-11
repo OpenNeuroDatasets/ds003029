@@ -1,0 +1,243 @@
+{
+    "band": "delta",
+    "ch_names": [
+        "TG3",
+        "TG4",
+        "TG5",
+        "TG6",
+        "TG11",
+        "TG13",
+        "TG18",
+        "TG19",
+        "TG20",
+        "TG22",
+        "TG27",
+        "TG28",
+        "TG29",
+        "TG30",
+        "TG31",
+        "TG32",
+        "TT1",
+        "TT2",
+        "TT3",
+        "TT4",
+        "AST1",
+        "TG24",
+        "TG26",
+        "AST2",
+        "AST3",
+        "AST4",
+        "MST1",
+        "MST2",
+        "MST3",
+        "MST4",
+        "PST1",
+        "PST2",
+        "PST3",
+        "PST4",
+        "OF1",
+        "OF2",
+        "OF3",
+        "OF4",
+        "IFP1",
+        "IFP2",
+        "IFP3",
+        "IFP4",
+        "MFP1",
+        "MFP2",
+        "MFP3",
+        "MFP4",
+        "MFP5",
+        "SFP1",
+        "SFP2",
+        "SFP3",
+        "SFP4",
+        "SFP5",
+        "SFP6",
+        "SFP7",
+        "SFP8",
+        "IH1",
+        "IH2",
+        "IH3",
+        "IH4",
+        "IH5",
+        "IH6",
+        "FG1",
+        "FG2",
+        "FG3",
+        "FG4",
+        "FG5",
+        "FG6",
+        "FG7",
+        "FG8",
+        "FG9",
+        "FG10",
+        "FG11",
+        "FG12",
+        "FG13",
+        "FG14",
+        "FG15",
+        "FG16",
+        "FG17",
+        "FG18",
+        "FG19",
+        "FG20",
+        "FG21",
+        "FG22",
+        "FG23",
+        "FG24",
+        "FG25",
+        "FG26",
+        "FG27",
+        "FG28",
+        "FG29",
+        "FG30",
+        "FG31",
+        "FG32",
+        "ILF1",
+        "ILF3",
+        "ILF5",
+        "ILF7"
+    ],
+    "clin_onset_event_id": null,
+    "clin_onset_win": null,
+    "events": [
+        [
+            0,
+            0,
+            1
+        ],
+        [
+            0,
+            0,
+            12
+        ],
+        [
+            0,
+            0,
+            11
+        ],
+        [
+            177,
+            0,
+            9
+        ],
+        [
+            177,
+            0,
+            10
+        ],
+        [
+            211,
+            0,
+            2
+        ],
+        [
+            211,
+            0,
+            16
+        ],
+        [
+            224,
+            0,
+            3
+        ],
+        [
+            224,
+            0,
+            14
+        ],
+        [
+            240,
+            0,
+            4
+        ],
+        [
+            240,
+            0,
+            18
+        ],
+        [
+            258,
+            0,
+            5
+        ],
+        [
+            258,
+            0,
+            13
+        ],
+        [
+            385,
+            0,
+            6
+        ],
+        [
+            385,
+            0,
+            19
+        ],
+        [
+            402,
+            0,
+            7
+        ],
+        [
+            402,
+            0,
+            15
+        ],
+        [
+            413,
+            0,
+            8
+        ],
+        [
+            413,
+            0,
+            17
+        ]
+    ],
+    "events_id": {
+        "+0.000000": 1,
+        "+107.979000": 2,
+        "+114.420000": 3,
+        "+122.293000": 4,
+        "+131.616000": 5,
+        "+194.754000": 6,
+        "+203.420000": 7,
+        "+208.814000": 8,
+        "+90.969000": 9,
+        "1st change?": 10,
+        "A1+A2 OFF": 11,
+        "Segment: REC START KAUFMAN,J2": 12,
+        "arousal": 13,
+        "lpst": 14,
+        "off on left": 15,
+        "onset": 16,
+        "seizure off": 17,
+        "sz": 18,
+        "sz end": 19
+    },
+    "fmax": 4,
+    "fmin": 0.5,
+    "length_recording": 332100,
+    "model_params": {
+        "stepsize": 500,
+        "winsize": 2500
+    },
+    "n_wins": 660,
+    "output_fname": "sub-pt3_ses-presurgery_task-ictal_acq-ecog_run-01_proc-cohdegree_freq-delta_ieeg.npz",
+    "output_fpath": "/home/adam2392/hdd/derivatives/coherence-degree/average/pt3/sub-pt3_ses-presurgery_task-ictal_acq-ecog_run-01_proc-cohdegree_freq-delta_ieeg.npz",
+    "reference": "average",
+    "sfreq": 1000.0,
+    "spectral_connectivity_matrix_shape": [
+        97,
+        97,
+        660
+    ],
+    "sz_offset_event_id": 19,
+    "sz_offset_win": 385,
+    "sz_onset_event_id": 16,
+    "sz_onset_win": 211
+}

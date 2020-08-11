@@ -1,0 +1,220 @@
+{
+    "band": "beta",
+    "ch_names": [
+        "L'1",
+        "L'2",
+        "L'3",
+        "L'4",
+        "L'6",
+        "L'7",
+        "L'8",
+        "L'11",
+        "L'12",
+        "L'13",
+        "M'1",
+        "M'2",
+        "M'3",
+        "M'7",
+        "L'10",
+        "M'8",
+        "M'9",
+        "M'10",
+        "M'11",
+        "M'12",
+        "M'13",
+        "M'14",
+        "G'1",
+        "G'2",
+        "G'3",
+        "G'4",
+        "G'9",
+        "G'10",
+        "G'11",
+        "G'12",
+        "G'13",
+        "G'14",
+        "G'15",
+        "F'1",
+        "F'4",
+        "F'5",
+        "F'7",
+        "F'8",
+        "F'9",
+        "F'10",
+        "F'11",
+        "O'1",
+        "O'2",
+        "O'3",
+        "O'6",
+        "O'7",
+        "O'8",
+        "O'9",
+        "O'10",
+        "O'11",
+        "O'12",
+        "O'13",
+        "R'1",
+        "R'2",
+        "R'3",
+        "R'4",
+        "R'7",
+        "R'8",
+        "R'9",
+        "B'1",
+        "B'2",
+        "B'3",
+        "B'4",
+        "B'12",
+        "B'13",
+        "B'14",
+        "P'1",
+        "P'2",
+        "P'3",
+        "P'8",
+        "P'10",
+        "P'11",
+        "P'12",
+        "P'13",
+        "P'14",
+        "P'15",
+        "P'16"
+    ],
+    "clin_onset_event_id": null,
+    "events": [
+        [
+            0,
+            0,
+            1
+        ],
+        [
+            0,
+            0,
+            14
+        ],
+        [
+            0,
+            0,
+            10
+        ],
+        [
+            237,
+            0,
+            2
+        ],
+        [
+            237,
+            0,
+            13
+        ],
+        [
+            239,
+            0,
+            3
+        ],
+        [
+            239,
+            0,
+            11
+        ],
+        [
+            247,
+            0,
+            4
+        ],
+        [
+            247,
+            0,
+            17
+        ],
+        [
+            292,
+            0,
+            5
+        ],
+        [
+            292,
+            0,
+            12
+        ],
+        [
+            327,
+            0,
+            6
+        ],
+        [
+            327,
+            0,
+            19
+        ],
+        [
+            345,
+            0,
+            7
+        ],
+        [
+            345,
+            0,
+            18
+        ],
+        [
+            379,
+            0,
+            8
+        ],
+        [
+            379,
+            0,
+            16
+        ],
+        [
+            400,
+            0,
+            9
+        ],
+        [
+            400,
+            0,
+            15
+        ]
+    ],
+    "events_id": {
+        "+0.000000": 1,
+        "+120.689000": 2,
+        "+122.043000": 3,
+        "+126.170000": 4,
+        "+148.313000": 5,
+        "+165.770000": 6,
+        "+174.900000": 7,
+        "+191.750000": 8,
+        "+202.080000": 9,
+        "A1+A2 OFF": 10,
+        "EEG onset": 11,
+        "END": 12,
+        "SZ 11P": 13,
+        "Segment: REC START Tech-Bi EE": 14,
+        "can read": 15,
+        "cant name phone or r": 16,
+        "opens and closes eye": 17,
+        "points to ceiling, n": 18,
+        "repeats color": 19
+    },
+    "fmax": 30,
+    "fmin": 13,
+    "length_recording": 720044,
+    "model_params": {
+        "stepsize": 500,
+        "winsize": 2500
+    },
+    "n_wins": 1436,
+    "output_fname": "sub-la04_ses-presurgery_task-ictal_acq-seeg_run-02_proc-cohcentrality_freq-beta_ieeg.npz",
+    "output_fpath": "/home/adam2392/hdd/derivatives/coherence-centrality/average/beta/la04/sub-la04_ses-presurgery_task-ictal_acq-seeg_run-02_proc-cohcentrality_freq-beta_ieeg.npz",
+    "reference": "average",
+    "sfreq": 1000.0,
+    "spectral_connectivity_matrix_shape": [
+        77,
+        77,
+        1436
+    ],
+    "sz_offset_event_id": 12,
+    "sz_onset_event_id": 11
+}

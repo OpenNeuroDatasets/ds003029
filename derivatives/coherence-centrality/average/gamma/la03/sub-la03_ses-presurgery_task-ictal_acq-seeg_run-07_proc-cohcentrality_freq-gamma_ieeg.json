@@ -1,0 +1,237 @@
+{
+    "band": "gamma",
+    "ch_names": [
+        "P1",
+        "P2",
+        "P3",
+        "P11",
+        "P12",
+        "P13",
+        "P14",
+        "P15",
+        "W1",
+        "W2",
+        "W7",
+        "W8",
+        "W13",
+        "W14",
+        "W15",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6",
+        "V9",
+        "V10",
+        "V13",
+        "V14",
+        "V15",
+        "Z1",
+        "Z13",
+        "Z14",
+        "C1",
+        "C2",
+        "C3",
+        "C4",
+        "C5",
+        "C6",
+        "C10",
+        "C11",
+        "C12",
+        "C13",
+        "C16",
+        "F1",
+        "F2",
+        "F3",
+        "F4",
+        "F6",
+        "F8",
+        "F9",
+        "F11",
+        "F12",
+        "U1",
+        "U2",
+        "U3",
+        "U4",
+        "U5",
+        "U6",
+        "U7",
+        "U8",
+        "U9",
+        "U10",
+        "S2",
+        "S3",
+        "S4",
+        "S5",
+        "S6",
+        "S10",
+        "R2",
+        "R3",
+        "R4",
+        "R6",
+        "R7",
+        "R8",
+        "Y1",
+        "Y2",
+        "Y3",
+        "Y11",
+        "Y12",
+        "Y13",
+        "Y14",
+        "R'2",
+        "R'3",
+        "R'4",
+        "R'5",
+        "R'6",
+        "R'7",
+        "R'8",
+        "R'9",
+        "X'1",
+        "X'9",
+        "X'10",
+        "X5",
+        "X6",
+        "X7",
+        "X8",
+        "X10",
+        "A1",
+        "A2",
+        "A3",
+        "A4",
+        "O14",
+        "O15",
+        "O16",
+        "L1",
+        "L2",
+        "L3",
+        "L4",
+        "L5",
+        "L7",
+        "L8",
+        "L9"
+    ],
+    "clin_onset_event_id": null,
+    "events": [
+        [
+            0,
+            0,
+            1
+        ],
+        [
+            0,
+            0,
+            14
+        ],
+        [
+            0,
+            0,
+            9
+        ],
+        [
+            237,
+            0,
+            2
+        ],
+        [
+            237,
+            0,
+            13
+        ],
+        [
+            241,
+            0,
+            3
+        ],
+        [
+            241,
+            0,
+            10
+        ],
+        [
+            548,
+            0,
+            4
+        ],
+        [
+            548,
+            0,
+            11
+        ],
+        [
+            709,
+            0,
+            5
+        ],
+        [
+            709,
+            0,
+            11
+        ],
+        [
+            894,
+            0,
+            6
+        ],
+        [
+            894,
+            0,
+            11
+        ],
+        [
+            1149,
+            0,
+            7
+        ],
+        [
+            1149,
+            0,
+            11
+        ],
+        [
+            1362,
+            0,
+            8
+        ],
+        [
+            1362,
+            0,
+            12
+        ]
+    ],
+    "events_id": {
+        "+0.000000": 1,
+        "+120.775000": 2,
+        "+122.881000": 3,
+        "+276.552000": 4,
+        "+356.725000": 5,
+        "+449.189000": 6,
+        "+576.698000": 7,
+        "+683.439000": 8,
+        "A1+A2 OFF": 9,
+        "EEG Onset": 10,
+        "SZ": 11,
+        "SZ (tested)": 12,
+        "SZ 4 P Cluster": 13,
+        "Segment: REC START Tech-Bi EE": 14
+    },
+    "fmax": 90,
+    "fmin": 30,
+    "length_recording": 720020,
+    "model_params": {
+        "stepsize": 500,
+        "winsize": 2500
+    },
+    "n_wins": 1436,
+    "output_fname": "sub-la03_ses-presurgery_task-ictal_acq-seeg_run-07_proc-cohcentrality_freq-gamma_ieeg.npz",
+    "output_fpath": "/home/adam2392/hdd/derivatives/coherence-centrality/average/gamma/la03/sub-la03_ses-presurgery_task-ictal_acq-seeg_run-07_proc-cohcentrality_freq-gamma_ieeg.npz",
+    "reference": "average",
+    "sfreq": 1000.0,
+    "spectral_connectivity_matrix_shape": [
+        109,
+        109,
+        1436
+    ],
+    "sz_offset_event_id": null,
+    "sz_onset_event_id": 10
+}

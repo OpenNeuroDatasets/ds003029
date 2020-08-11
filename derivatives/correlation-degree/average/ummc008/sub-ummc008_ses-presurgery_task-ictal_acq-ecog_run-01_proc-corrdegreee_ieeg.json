@@ -1,0 +1,88 @@
+{
+    "ch_names": [
+        "F3",
+        "F4",
+        "F5",
+        "F6",
+        "SF1",
+        "SF2",
+        "SF3",
+        "SF4",
+        "SF5",
+        "SF6",
+        "AT1",
+        "AT2",
+        "AT3",
+        "AT4",
+        "MT1",
+        "MT2",
+        "MT3",
+        "MT4",
+        "PT1",
+        "PT2",
+        "PT3",
+        "PT4",
+        "G1",
+        "G2",
+        "G3",
+        "G4",
+        "G5",
+        "G6",
+        "G7",
+        "G8",
+        "G9",
+        "G10",
+        "G11",
+        "G13",
+        "G14",
+        "G15",
+        "G16",
+        "G17",
+        "G18",
+        "G19",
+        "G20",
+        "G21",
+        "G22",
+        "G23",
+        "G24",
+        "G28",
+        "G29",
+        "G30",
+        "G31",
+        "G32"
+    ],
+    "clin_onset_event_id": null,
+    "correlation_matrix_shape": [
+        50,
+        50,
+        408
+    ],
+    "events": [
+        [
+            128,
+            0,
+            2
+        ],
+        [
+            284,
+            0,
+            1
+        ]
+    ],
+    "events_id": {
+        "sz offset": 1,
+        "sz onset": 2
+    },
+    "length_recording": 51170,
+    "model_params": {
+        "stepsize": 125,
+        "winsize": 250
+    },
+    "n_wins": 408,
+    "output_fname": "sub-ummc008_ses-presurgery_task-ictal_acq-ecog_run-01_proc-corrdegreee_ieeg.npz",
+    "output_fpath": "/home/adam2392/hdd/derivatives/correlation/average/ummc008/sub-ummc008_ses-presurgery_task-ictal_acq-ecog_run-01_proc-corrdegreee_ieeg.npz",
+    "reference": "average",
+    "sfreq": 249.8750624687656,
+    "sz_offset_event_id": 1,
+    "sz_onset_event_id": 2
+}

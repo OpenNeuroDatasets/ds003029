@@ -1,0 +1,209 @@
+{
+    "band": "gamma",
+    "ch_names": [
+        "RAM4",
+        "RAM5",
+        "RAM6",
+        "RAM7",
+        "RAL5",
+        "RAL6",
+        "RAL7",
+        "RG3",
+        "RG4",
+        "RG5",
+        "RG6",
+        "RG7",
+        "RG8",
+        "RG9",
+        "RG10",
+        "RG11",
+        "RG12",
+        "RG13",
+        "RG1",
+        "RG2",
+        "RG14",
+        "RG15",
+        "RG16",
+        "RG17",
+        "RG18",
+        "RG19",
+        "RG20",
+        "RG21",
+        "RG22",
+        "RG23",
+        "RG24",
+        "RG26",
+        "RG27",
+        "RG28",
+        "RG29",
+        "RG30",
+        "RG31",
+        "RG32",
+        "RG33",
+        "RG34",
+        "RG35",
+        "RG36",
+        "RG37",
+        "RG38",
+        "RG39",
+        "RG40",
+        "RG41",
+        "RG42",
+        "RG43",
+        "RG44",
+        "RG45",
+        "RG46",
+        "RG47",
+        "RG48",
+        "RPG12",
+        "RPG11",
+        "RPG10",
+        "RPG9",
+        "RGP8",
+        "RPG7",
+        "RPG6",
+        "RPG5",
+        "RPG4",
+        "RPG3",
+        "RPG2",
+        "RPG1",
+        "LG1",
+        "LG2",
+        "LG3",
+        "LG4",
+        "LG5",
+        "LG6",
+        "LG7",
+        "LG8",
+        "LG9",
+        "LG10",
+        "LG11",
+        "LG12"
+    ],
+    "clin_onset_event_id": null,
+    "events": [
+        [
+            0,
+            0,
+            1
+        ],
+        [
+            0,
+            0,
+            11
+        ],
+        [
+            0,
+            0,
+            9
+        ],
+        [
+            14,
+            0,
+            8
+        ],
+        [
+            14,
+            0,
+            12
+        ],
+        [
+            116,
+            0,
+            4
+        ],
+        [
+            116,
+            0,
+            16
+        ],
+        [
+            118,
+            0,
+            5
+        ],
+        [
+            118,
+            0,
+            14
+        ],
+        [
+            120,
+            0,
+            6
+        ],
+        [
+            120,
+            0,
+            13
+        ],
+        [
+            140,
+            0,
+            7
+        ],
+        [
+            140,
+            0,
+            10
+        ],
+        [
+            228,
+            0,
+            2
+        ],
+        [
+            228,
+            0,
+            15
+        ],
+        [
+            353,
+            0,
+            3
+        ],
+        [
+            353,
+            0,
+            17
+        ]
+    ],
+    "events_id": {
+        "+0.000000": 1,
+        "+116.442000": 2,
+        "+178.939000": 3,
+        "+60.323000": 4,
+        "+61.356000": 5,
+        "+62.319000": 6,
+        "+72.361000": 7,
+        "+9.488000": 8,
+        "A1+A2 OFF": 9,
+        "L leg jerking": 10,
+        "Segment: REC START Harmon Ref": 11,
+        "abdomen?": 12,
+        "fast": 13,
+        "legs extend": 14,
+        "offset": 15,
+        "onset": 16,
+        "post RG slow": 17
+    },
+    "fmax": 90,
+    "fmin": 30,
+    "length_recording": 181010,
+    "model_params": {
+        "stepsize": 500,
+        "winsize": 2500
+    },
+    "n_wins": 358,
+    "output_fname": "sub-pt11_ses-presurgery_task-ictal_acq-ecog_run-01_proc-coh_freq-gamma_ieeg.npz",
+    "output_fpath": "/home/adam2392/hdd/derivatives/coherence/average/pt11/sub-pt11_ses-presurgery_task-ictal_acq-ecog_run-01_proc-coh_freq-gamma_ieeg.npz",
+    "reference": "average",
+    "sfreq": 1000.0,
+    "spectral_connectivity_matrix_shape": [
+        78,
+        78,
+        358
+    ],
+    "sz_offset_event_id": 15,
+    "sz_onset_event_id": 16
+}
