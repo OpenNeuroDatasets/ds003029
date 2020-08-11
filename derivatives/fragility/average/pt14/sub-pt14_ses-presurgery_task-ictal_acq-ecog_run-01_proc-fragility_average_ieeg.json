@@ -1,0 +1,204 @@
+{
+    "ch_names": [
+        "G2",
+        "G3",
+        "G4",
+        "G8",
+        "G10",
+        "G11",
+        "G12",
+        "G16",
+        "G18",
+        "G19",
+        "G20",
+        "G21",
+        "G22",
+        "G24",
+        "G27",
+        "G28",
+        "G13",
+        "G14",
+        "G29",
+        "G30",
+        "G31",
+        "G32",
+        "TT1",
+        "TT2",
+        "TT3",
+        "TT4",
+        "TT5",
+        "TT6",
+        "AST1",
+        "AST2",
+        "AST3",
+        "AST4",
+        "MST1",
+        "MST2",
+        "MST3",
+        "MST4",
+        "PST1",
+        "PST2",
+        "PST3",
+        "PST4",
+        "PPST1",
+        "PPST2",
+        "PPST3",
+        "PPST4",
+        "PT1",
+        "PT2",
+        "PT3'",
+        "PT4",
+        "PT5",
+        "PT6",
+        "LF1",
+        "LF2",
+        "LF3",
+        "LF4",
+        "LF5",
+        "LF6",
+        "OF1",
+        "OF2",
+        "OF3",
+        "OF4"
+    ],
+    "clin_onset_event_id": null,
+    "clinonset_win": null,
+    "delta_vectors_shape": [
+        60,
+        60,
+        2320
+    ],
+    "events": [
+        [
+            0,
+            0,
+            10001
+        ],
+        [
+            0,
+            0,
+            10012
+        ],
+        [
+            0,
+            0,
+            10009
+        ],
+        [
+            645,
+            0,
+            10007
+        ],
+        [
+            645,
+            0,
+            10010
+        ],
+        [
+            785,
+            0,
+            10008
+        ],
+        [
+            785,
+            0,
+            10011
+        ],
+        [
+            941,
+            0,
+            10002
+        ],
+        [
+            941,
+            0,
+            10013
+        ],
+        [
+            1563,
+            0,
+            10003
+        ],
+        [
+            1563,
+            0,
+            10015
+        ],
+        [
+            1599,
+            0,
+            10004
+        ],
+        [
+            1599,
+            0,
+            10013
+        ],
+        [
+            1602,
+            0,
+            10005
+        ],
+        [
+            1602,
+            0,
+            10016
+        ],
+        [
+            1641,
+            0,
+            10006
+        ],
+        [
+            1641,
+            0,
+            10014
+        ]
+    ],
+    "events_id": {
+        "+0.000000": 10001,
+        "+117.917000": 10002,
+        "+195.743000": 10003,
+        "+200.281000": 10004,
+        "+200.758000": 10005,
+        "+205.642000": 10006,
+        "+80.860000": 10007,
+        "+98.547000": 10008,
+        "A1+A2 OFF": 10009,
+        "EEG onset": 10010,
+        "I think I'm going to": 10011,
+        "Segment: REC START Carr-susan": 10012,
+        "Sue": 10013,
+        "carr": 10014,
+        "offset": 10015,
+        "still says Sue": 10016
+    },
+    "length_recording": 290224,
+    "model_params": {
+        "method_to_use": "pinv",
+        "numcores": 20,
+        "perturbtype": "C",
+        "radius": 1.5,
+        "sfreq": 1000.0,
+        "stepsize": 125,
+        "tempdir": "/home/adam2392/hdd/derivatives/fragility/average/pt14/sub-pt14_ses-seizure_task-monitor_acq-ecog_run-01_proc-fragility_average_ieeg-tempdir",
+        "winsize": 250
+    },
+    "numwins": 2320,
+    "offsetwin": 1563,
+    "onsetwin": 645,
+    "output_fpath": "/home/adam2392/hdd/derivatives/fragility/average/pt14/sub-pt14_ses-presurgery_task-ictal_acq-ecog_run-01_proc-fragility_average_ieeg.json",
+    "perturbation_matrix_shape": [
+        60,
+        2320
+    ],
+    "reference": "average",
+    "sfreq": 1000.0,
+    "state_matrix_shape": [
+        60,
+        60,
+        2320
+    ],
+    "sz_offset_event_id": 10003,
+    "sz_onset_event_id": 10007
+}

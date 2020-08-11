@@ -1,0 +1,244 @@
+{
+    "ch_names": [
+        "RSTS1",
+        "RSTS2",
+        "RSTS3",
+        "RSTS4",
+        "RATI1",
+        "RATI2",
+        "RATI3",
+        "RATI4",
+        "RATI7",
+        "RATI8",
+        "RATI9",
+        "RATI10",
+        "RATI11",
+        "RATI12",
+        "RATI13",
+        "RATI14",
+        "RATI15",
+        "RATI16",
+        "RABT1",
+        "RATI5",
+        "RATI6",
+        "RABT2",
+        "RABT3",
+        "RABT4",
+        "RMBT1",
+        "RMBT2",
+        "RMBT3",
+        "RPTI17",
+        "RPTI18",
+        "RPTI19",
+        "RPTI20",
+        "RPTI21",
+        "RPTI24",
+        "RPTI25",
+        "RPTI26",
+        "RPTI27",
+        "RPTI28",
+        "RPTI29",
+        "RPTI30",
+        "RPTI31",
+        "RPTI32",
+        "RPTS49",
+        "RPTS50",
+        "RPTS51",
+        "RPTS52",
+        "RPTS53",
+        "RPTS54",
+        "RPTS55",
+        "RPTS56",
+        "RPTS57",
+        "RPTS58",
+        "RPTS59",
+        "RPTS60",
+        "RPTS61",
+        "RPTS62",
+        "RPTS63",
+        "RPTS64",
+        "RPFS1",
+        "RPFS2",
+        "RPFS3",
+        "RPFS4",
+        "RPFS5",
+        "RPFS6",
+        "RPFS7",
+        "RPFS8",
+        "RPFI1",
+        "RPFI2",
+        "RPFI3",
+        "RPFI4"
+    ],
+    "clin_onset_event_id": null,
+    "clinonset_win": null,
+    "delta_vectors_shape": [
+        69,
+        69,
+        3105
+    ],
+    "events": [
+        [
+            0,
+            0,
+            10001
+        ],
+        [
+            0,
+            0,
+            10014
+        ],
+        [
+            0,
+            0,
+            10011
+        ],
+        [
+            470,
+            0,
+            10008
+        ],
+        [
+            470,
+            0,
+            10012
+        ],
+        [
+            494,
+            0,
+            10009
+        ],
+        [
+            494,
+            0,
+            10020
+        ],
+        [
+            750,
+            0,
+            10010
+        ],
+        [
+            750,
+            0,
+            10021
+        ],
+        [
+            958,
+            0,
+            10002
+        ],
+        [
+            958,
+            0,
+            10022
+        ],
+        [
+            1149,
+            0,
+            10003
+        ],
+        [
+            1149,
+            0,
+            10015
+        ],
+        [
+            1150,
+            0,
+            10017
+        ],
+        [
+            1373,
+            0,
+            10004
+        ],
+        [
+            1373,
+            0,
+            10016
+        ],
+        [
+            1565,
+            0,
+            10005
+        ],
+        [
+            1565,
+            0,
+            10019
+        ],
+        [
+            1805,
+            0,
+            10006
+        ],
+        [
+            1805,
+            0,
+            10013
+        ],
+        [
+            2532,
+            0,
+            10007
+        ],
+        [
+            2532,
+            0,
+            10018
+        ]
+    ],
+    "events_id": {
+        "+0.000000": 10001,
+        "+120.000000": 10002,
+        "+144.000000": 10003,
+        "+172.000000": 10004,
+        "+196.000000": 10005,
+        "+226.000000": 10006,
+        "+317.000000": 10007,
+        "+59.000000": 10008,
+        "+62.000000": 10009,
+        "+94.000000": 10010,
+        "A1+A2 OFF": 10011,
+        "SZ EVENT # 8(EEG SZ)": 10012,
+        "Schedule": 10013,
+        "Segment: REC START REC EEG": 10014,
+        "Z 5 HS RATI AND RSTS": 10015,
+        "Z EVOLVE OVER RPTS 5": 10016,
+        "Z MAX RSTS 3/4 AND R": 10017,
+        "Z OVER": 10018,
+        "Z SLOWS AND NOW WITH": 10019,
+        "Z START PERIODIC RAT": 10020,
+        "Z START RHY EVOLUTIO": 10021,
+        "Z STARTS EVOLUTION R": 10022
+    },
+    "length_recording": 388278,
+    "model_params": {
+        "method_to_use": "pinv",
+        "numcores": 20,
+        "perturbtype": "C",
+        "radius": 1.5,
+        "sfreq": 1000.0,
+        "stepsize": 125,
+        "tempdir": "/home/adam2392/hdd/derivatives/fragility/average/jh107/sub-jh107_ses-seizure_task-monitor_acq-ecog_run-04_proc-fragility_average_ieeg-tempdir",
+        "winsize": 250
+    },
+    "numwins": 3105,
+    "offsetwin": null,
+    "onsetwin": 470,
+    "output_fpath": "/home/adam2392/hdd/derivatives/fragility/average/jh107/sub-jh107_ses-presurgery_task-ictal_acq-ecog_run-04_proc-fragility_average_ieeg.json",
+    "perturbation_matrix_shape": [
+        69,
+        3105
+    ],
+    "reference": "average",
+    "sfreq": 1000.0,
+    "state_matrix_shape": [
+        69,
+        69,
+        3105
+    ],
+    "sz_offset_event_id": null,
+    "sz_onset_event_id": 10008
+}

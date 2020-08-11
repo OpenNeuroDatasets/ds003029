@@ -1,0 +1,200 @@
+{
+    "ch_names": [
+        "OF1",
+        "OF2",
+        "OF3",
+        "TT1",
+        "TT2",
+        "TT3",
+        "TT4",
+        "TT5",
+        "TT6",
+        "AST3",
+        "AST4",
+        "MST1",
+        "MST2",
+        "MST3",
+        "MST4",
+        "PST1",
+        "PST2",
+        "PST3",
+        "PST4",
+        "FP35",
+        "AST1",
+        "AST2",
+        "FP36",
+        "FP37",
+        "FP38",
+        "FP39",
+        "FP40",
+        "FP43",
+        "FP44",
+        "FP45",
+        "FP46",
+        "FP47",
+        "FP48",
+        "G3",
+        "G4",
+        "G5",
+        "G6",
+        "G7",
+        "G8",
+        "G11",
+        "G12",
+        "G13",
+        "G14",
+        "G15",
+        "G16",
+        "G20",
+        "G21",
+        "G22",
+        "G23",
+        "G24",
+        "G28",
+        "G29",
+        "G30",
+        "G31",
+        "G32"
+    ],
+    "clin_onset_event_id": null,
+    "clinonset_win": null,
+    "delta_vectors_shape": [
+        55,
+        55,
+        3638
+    ],
+    "events": [
+        [
+            0,
+            0,
+            10001
+        ],
+        [
+            0,
+            0,
+            10011
+        ],
+        [
+            0,
+            0,
+            10009
+        ],
+        [
+            353,
+            0,
+            10007
+        ],
+        [
+            353,
+            0,
+            10014
+        ],
+        [
+            615,
+            0,
+            10008
+        ],
+        [
+            615,
+            0,
+            10015
+        ],
+        [
+            910,
+            0,
+            10002
+        ],
+        [
+            910,
+            0,
+            10012
+        ],
+        [
+            1352,
+            0,
+            10003
+        ],
+        [
+            1352,
+            0,
+            10017
+        ],
+        [
+            1362,
+            0,
+            10004
+        ],
+        [
+            1362,
+            0,
+            10010
+        ],
+        [
+            1543,
+            0,
+            10005
+        ],
+        [
+            1543,
+            0,
+            10013
+        ],
+        [
+            2279,
+            0,
+            10006
+        ],
+        [
+            2279,
+            0,
+            10016
+        ]
+    ],
+    "events_id": {
+        "+0.000000": 10001,
+        "+114.051000": 10002,
+        "+169.398000": 10003,
+        "+170.592000": 10004,
+        "+193.200000": 10005,
+        "+285.414000": 10006,
+        "+44.404000": 10007,
+        "+77.306000": 10008,
+        "A1+A2 OFF": 10009,
+        "Does not obey comman": 10010,
+        "Segment: REC START TomiPintle": 10011,
+        "hand automatisms": 10012,
+        "offset": 10013,
+        "onset": 10014,
+        "oral automatisms": 10015,
+        "reads": 10016,
+        "unable to say name": 10017
+    },
+    "length_recording": 454894,
+    "model_params": {
+        "method_to_use": "pinv",
+        "numcores": 20,
+        "perturbtype": "C",
+        "radius": 1.5,
+        "sfreq": 1000.0,
+        "stepsize": 125,
+        "tempdir": "/home/adam2392/hdd/derivatives/fragility/average/pt10/sub-pt10_ses-seizure_task-monitor_acq-ecog_run-01_proc-fragility_average_ieeg-tempdir",
+        "winsize": 250
+    },
+    "numwins": 3638,
+    "offsetwin": 1543,
+    "onsetwin": 353,
+    "output_fpath": "/home/adam2392/hdd/derivatives/fragility/average/pt10/sub-pt10_ses-presurgery_task-ictal_acq-ecog_run-01_proc-fragility_average_ieeg.json",
+    "perturbation_matrix_shape": [
+        55,
+        3638
+    ],
+    "reference": "average",
+    "sfreq": 1000.0,
+    "state_matrix_shape": [
+        55,
+        55,
+        3638
+    ],
+    "sz_offset_event_id": 10005,
+    "sz_onset_event_id": 10007
+}

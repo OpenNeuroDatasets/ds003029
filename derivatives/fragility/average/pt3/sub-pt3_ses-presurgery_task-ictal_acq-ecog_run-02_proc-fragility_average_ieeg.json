@@ -1,0 +1,242 @@
+{
+    "ch_names": [
+        "TG3",
+        "TG4",
+        "TG5",
+        "TG6",
+        "TG11",
+        "TG13",
+        "TG18",
+        "TG19",
+        "TG20",
+        "TG22",
+        "TG27",
+        "TG28",
+        "TG29",
+        "TG30",
+        "TG31",
+        "TG32",
+        "TT1",
+        "TT2",
+        "TT3",
+        "TT4",
+        "AST1",
+        "TG24",
+        "TG26",
+        "AST2",
+        "AST3",
+        "AST4",
+        "MST1",
+        "MST2",
+        "MST3",
+        "MST4",
+        "PST1",
+        "PST2",
+        "PST3",
+        "PST4",
+        "OF1",
+        "OF2",
+        "OF3",
+        "OF4",
+        "IFP1",
+        "IFP2",
+        "IFP3",
+        "IFP4",
+        "MFP1",
+        "MFP2",
+        "MFP3",
+        "MFP4",
+        "MFP5",
+        "SFP1",
+        "SFP2",
+        "SFP3",
+        "SFP4",
+        "SFP5",
+        "SFP6",
+        "SFP7",
+        "SFP8",
+        "IH1",
+        "IH2",
+        "IH3",
+        "IH4",
+        "IH5",
+        "IH6",
+        "FG1",
+        "FG2",
+        "FG3",
+        "FG4",
+        "FG5",
+        "FG6",
+        "FG7",
+        "FG8",
+        "FG9",
+        "FG10",
+        "FG11",
+        "FG12",
+        "FG13",
+        "FG14",
+        "FG15",
+        "FG16",
+        "FG17",
+        "FG18",
+        "FG19",
+        "FG20",
+        "FG21",
+        "FG22",
+        "FG23",
+        "FG24",
+        "FG25",
+        "FG26",
+        "FG27",
+        "FG28",
+        "FG29",
+        "FG30",
+        "FG31",
+        "FG32",
+        "ILF1",
+        "ILF3",
+        "ILF5",
+        "ILF7"
+    ],
+    "clin_onset_event_id": 10002,
+    "clinonset_win": 875,
+    "delta_vectors_shape": [
+        97,
+        97,
+        2303
+    ],
+    "events": [
+        [
+            0,
+            0,
+            10001
+        ],
+        [
+            0,
+            0,
+            10011
+        ],
+        [
+            0,
+            0,
+            10010
+        ],
+        [
+            688,
+            0,
+            10006
+        ],
+        [
+            688,
+            0,
+            10016
+        ],
+        [
+            727,
+            0,
+            10007
+        ],
+        [
+            727,
+            0,
+            10009
+        ],
+        [
+            778,
+            0,
+            10008
+        ],
+        [
+            778,
+            0,
+            10017
+        ],
+        [
+            875,
+            0,
+            10002
+        ],
+        [
+            875,
+            0,
+            10012
+        ],
+        [
+            1215,
+            0,
+            10003
+        ],
+        [
+            1215,
+            0,
+            10013
+        ],
+        [
+            1813,
+            0,
+            10004
+        ],
+        [
+            1813,
+            0,
+            10014
+        ],
+        [
+            1860,
+            0,
+            10005
+        ],
+        [
+            1860,
+            0,
+            10015
+        ]
+    ],
+    "events_id": {
+        "+0.000000": 10001,
+        "+109.658000": 10002,
+        "+152.152000": 10003,
+        "+226.948000": 10004,
+        "+232.815000": 10005,
+        "+86.286000": 10006,
+        "+91.130000": 10007,
+        "+97.579000": 10008,
+        "1st change?": 10009,
+        "A1+A2 OFF": 10010,
+        "Segment: REC START KAUFMAN,J2": 10011,
+        "clinical onset": 10012,
+        "left side": 10013,
+        "offset": 10014,
+        "postictal": 10015,
+        "sleep": 10016,
+        "sz": 10017
+    },
+    "length_recording": 288000,
+    "model_params": {
+        "method_to_use": "pinv",
+        "numcores": 20,
+        "perturbtype": "C",
+        "radius": 1.5,
+        "sfreq": 1000.0,
+        "stepsize": 125,
+        "tempdir": "/home/adam2392/hdd/derivatives/fragility/average/pt3/sub-pt3_ses-seizure_task-monitor_acq-ecog_run-02_proc-fragility_average_ieeg-tempdir",
+        "winsize": 250
+    },
+    "numwins": 2303,
+    "offsetwin": 1813,
+    "onsetwin": 778,
+    "output_fpath": "/home/adam2392/hdd/derivatives/fragility/average/pt3/sub-pt3_ses-presurgery_task-ictal_acq-ecog_run-02_proc-fragility_average_ieeg.json",
+    "perturbation_matrix_shape": [
+        97,
+        2303
+    ],
+    "reference": "average",
+    "sfreq": 1000.0,
+    "state_matrix_shape": [
+        97,
+        97,
+        2303
+    ],
+    "sz_offset_event_id": 10004,
+    "sz_onset_event_id": 10008
+}

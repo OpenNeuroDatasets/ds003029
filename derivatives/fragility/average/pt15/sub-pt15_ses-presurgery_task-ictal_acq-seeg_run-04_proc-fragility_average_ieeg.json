@@ -1,0 +1,180 @@
+{
+    "ch_names": [
+        "G3",
+        "G4",
+        "G5",
+        "G6",
+        "G7",
+        "G8",
+        "G11",
+        "G12",
+        "G15",
+        "G16",
+        "G19",
+        "G20",
+        "G21",
+        "G22",
+        "G23",
+        "G24",
+        "G27",
+        "G28",
+        "G29",
+        "G13",
+        "G14",
+        "G30",
+        "G31",
+        "G32",
+        "TT1",
+        "TT2",
+        "TT3",
+        "TT4",
+        "TT6",
+        "AST1",
+        "AST2",
+        "AST3",
+        "AST4",
+        "MST1",
+        "MST2",
+        "MST3",
+        "MST4",
+        "PST1",
+        "PST2",
+        "PPST1",
+        "PPST2",
+        "PPST3",
+        "PPST4",
+        "TO1",
+        "TO2",
+        "TO3",
+        "TO4",
+        "TO5",
+        "TO6",
+        "TP1",
+        "TP2",
+        "TP3",
+        "TP4",
+        "TP5",
+        "TP6",
+        "OF1",
+        "OF3",
+        "OF4",
+        "LIF1",
+        "LIF2",
+        "LIF3",
+        "LIF4",
+        "LIF5",
+        "LIF6",
+        "LSF1",
+        "LSF2",
+        "LSF3",
+        "LSF4",
+        "LSF5",
+        "LSF6",
+        "LSF7"
+    ],
+    "clin_onset_event_id": null,
+    "clinonset_win": null,
+    "delta_vectors_shape": [
+        71,
+        71,
+        2937
+    ],
+    "events": [
+        [
+            0,
+            0,
+            10001
+        ],
+        [
+            0,
+            0,
+            10009
+        ],
+        [
+            0,
+            0,
+            10006
+        ],
+        [
+            1077,
+            0,
+            10002
+        ],
+        [
+            1077,
+            0,
+            10010
+        ],
+        [
+            1085,
+            0,
+            10003
+        ],
+        [
+            1085,
+            0,
+            10008
+        ],
+        [
+            1141,
+            0,
+            10004
+        ],
+        [
+            1141,
+            0,
+            10011
+        ],
+        [
+            2897,
+            0,
+            10005
+        ],
+        [
+            2897,
+            0,
+            10007
+        ]
+    ],
+    "events_id": {
+        "+0.000000": 10001,
+        "+134.881000": 10002,
+        "+136.143000": 10003,
+        "+143.009000": 10004,
+        "+362.414000": 10005,
+        "A1+A2 OFF": 10006,
+        "Offset": 10007,
+        "Onset": 10008,
+        "Segment: REC START Meyeroff E": 10009,
+        "Seizure #4": 10010,
+        "definite TT, AST att": 10011
+    },
+    "length_recording": 367299,
+    "model_params": {
+        "method_to_use": "pinv",
+        "numcores": 20,
+        "perturbtype": "C",
+        "radius": 1.5,
+        "sfreq": 1000.0,
+        "stepsize": 125,
+        "tempdir": "/home/adam2392/hdd/derivatives/fragility/average/pt15/sub-pt15_ses-seizure_task-monitor_acq-seeg_run-04_proc-fragility_average_ieeg-tempdir",
+        "winsize": 250
+    },
+    "numwins": 2937,
+    "offsetwin": null,
+    "onsetwin": null,
+    "output_fpath": "/home/adam2392/hdd/derivatives/fragility/average/pt15/sub-pt15_ses-presurgery_task-ictal_acq-seeg_run-04_proc-fragility_average_ieeg.json",
+    "perturbation_matrix_shape": [
+        71,
+        2937
+    ],
+    "reference": "average",
+    "sfreq": 1000.0,
+    "state_matrix_shape": [
+        71,
+        71,
+        2937
+    ],
+    "sz_offset_event_id": null,
+    "sz_onset_event_id": null
+}

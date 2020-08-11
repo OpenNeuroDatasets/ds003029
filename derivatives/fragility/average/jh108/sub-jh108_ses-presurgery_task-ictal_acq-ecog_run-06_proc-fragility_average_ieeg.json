@@ -1,0 +1,323 @@
+{
+    "ch_names": [
+        "RSI1",
+        "RSI2",
+        "RSI3",
+        "RSI4",
+        "RSI5",
+        "RSI6",
+        "RSI7",
+        "RSI8",
+        "RDI3",
+        "RDI4",
+        "RDI5",
+        "RDI6",
+        "RDI7",
+        "RDI8",
+        "RAF1",
+        "RAF2",
+        "RAF3",
+        "RAF4",
+        "RAF5",
+        "RDI1",
+        "RDI2",
+        "RAF6",
+        "RAF7",
+        "RAF8",
+        "RIF1",
+        "RIF2",
+        "RIF3",
+        "RIF4",
+        "RIF5",
+        "RIF6",
+        "RPP1",
+        "RPP2",
+        "RPP3",
+        "RPP4",
+        "RPP5",
+        "RPP6",
+        "RPP7",
+        "RPP8",
+        "RIP1",
+        "RIP2",
+        "RIP3",
+        "RIP4",
+        "RIP5",
+        "RIP6",
+        "RIP7",
+        "RIP8",
+        "RAT1",
+        "RAT2",
+        "RAT3",
+        "RAT4",
+        "RAT5",
+        "RAT6",
+        "RST1",
+        "RST2",
+        "RST3",
+        "RST4",
+        "RST5",
+        "RST6",
+        "RST7",
+        "RST8",
+        "RBT1",
+        "RBT2",
+        "RBT3",
+        "RBT4",
+        "RPT1",
+        "RPT2",
+        "RPT3",
+        "RPT4",
+        "RPT5",
+        "RPT6",
+        "LSI1",
+        "LSI2",
+        "LSI3",
+        "LSI4",
+        "LSI5",
+        "LSI6",
+        "LSI7",
+        "LSI8",
+        "LDI1",
+        "LDI2",
+        "LDI3",
+        "LDI4",
+        "LDI5",
+        "LDI6",
+        "LDI7",
+        "LDI8",
+        "LAF1",
+        "LAF2",
+        "LAF3",
+        "LAF4",
+        "LAF5",
+        "LAF6",
+        "LIF1",
+        "LIF2",
+        "LIF3",
+        "LIF4",
+        "LIF5",
+        "LIF6",
+        "LPP1",
+        "LPP2",
+        "LPP3",
+        "LPP4",
+        "LPP5",
+        "LPP6",
+        "LPP7",
+        "LPP8",
+        "LIP1",
+        "LIP2",
+        "LIP3",
+        "LIP4",
+        "LIP5",
+        "LIP6",
+        "LIP7",
+        "LIP8",
+        "LAT1",
+        "LAT2",
+        "LAT3",
+        "LAT4",
+        "LAT5",
+        "LAT6",
+        "LST1",
+        "LST2",
+        "LST3",
+        "LST4",
+        "LST5",
+        "LST6",
+        "LST7",
+        "LST8",
+        "LPT1",
+        "LPT2",
+        "LPT3",
+        "LPT4",
+        "LBT1",
+        "LBT2",
+        "LBT3",
+        "LBT4"
+    ],
+    "clin_onset_event_id": null,
+    "clinonset_win": null,
+    "delta_vectors_shape": [
+        136,
+        136,
+        1375
+    ],
+    "events": [
+        [
+            0,
+            0,
+            10001
+        ],
+        [
+            0,
+            0,
+            10016
+        ],
+        [
+            0,
+            0,
+            10012
+        ],
+        [
+            470,
+            0,
+            10004
+        ],
+        [
+            470,
+            0,
+            10014
+        ],
+        [
+            494,
+            0,
+            10005
+        ],
+        [
+            494,
+            0,
+            10019
+        ],
+        [
+            502,
+            0,
+            10006
+        ],
+        [
+            502,
+            0,
+            10018
+        ],
+        [
+            510,
+            0,
+            10007
+        ],
+        [
+            510,
+            0,
+            10024
+        ],
+        [
+            525,
+            0,
+            10008
+        ],
+        [
+            525,
+            0,
+            10023
+        ],
+        [
+            526,
+            0,
+            10020
+        ],
+        [
+            542,
+            0,
+            10009
+        ],
+        [
+            542,
+            0,
+            10017
+        ],
+        [
+            550,
+            0,
+            10010
+        ],
+        [
+            550,
+            0,
+            10013
+        ],
+        [
+            654,
+            0,
+            10011
+        ],
+        [
+            654,
+            0,
+            10021
+        ],
+        [
+            878,
+            0,
+            10002
+        ],
+        [
+            878,
+            0,
+            10022
+        ],
+        [
+            1262,
+            0,
+            10003
+        ],
+        [
+            1262,
+            0,
+            10015
+        ]
+    ],
+    "events_id": {
+        "+0.000000": 10001,
+        "+110.000000": 10002,
+        "+158.000000": 10003,
+        "+59.000000": 10004,
+        "+62.000000": 10005,
+        "+63.000000": 10006,
+        "+64.000000": 10007,
+        "+66.000000": 10008,
+        "+68.000000": 10009,
+        "+69.000000": 10010,
+        "+82.000000": 10011,
+        "A1+A2 OFF": 10012,
+        "RDI, RSI, RPP, RIP M": 10013,
+        "SZ EVENT #(PB SZ)": 10014,
+        "Schedule": 10015,
+        "Segment: REC START REC EEG": 10016,
+        "Z BUILDING FAST ACTI": 10017,
+        "Z FAST ACTIVITY STAR": 10018,
+        "Z HIGH AMP POLYSP RS": 10019,
+        "Z RPP FAST": 10020,
+        "Z SPIKING STARTS BRO": 10021,
+        "Z STOPPING": 10022,
+        "z flings arms, fumbl": 10023,
+        "z limb movements sta": 10024
+    },
+    "length_recording": 172017,
+    "model_params": {
+        "method_to_use": "pinv",
+        "numcores": 20,
+        "perturbtype": "C",
+        "radius": 1.5,
+        "sfreq": 1000.0,
+        "stepsize": 125,
+        "tempdir": "/home/adam2392/hdd/derivatives/fragility/average/jh108/sub-jh108_ses-seizure_task-monitor_acq-ecog_run-06_proc-fragility_average_ieeg-tempdir",
+        "winsize": 250
+    },
+    "numwins": 1375,
+    "offsetwin": null,
+    "onsetwin": 470,
+    "output_fpath": "/home/adam2392/hdd/derivatives/fragility/average/jh108/sub-jh108_ses-presurgery_task-ictal_acq-ecog_run-06_proc-fragility_average_ieeg.json",
+    "perturbation_matrix_shape": [
+        136,
+        1375
+    ],
+    "reference": "average",
+    "sfreq": 1000.0,
+    "state_matrix_shape": [
+        136,
+        136,
+        1375
+    ],
+    "sz_offset_event_id": null,
+    "sz_onset_event_id": 10004
+}

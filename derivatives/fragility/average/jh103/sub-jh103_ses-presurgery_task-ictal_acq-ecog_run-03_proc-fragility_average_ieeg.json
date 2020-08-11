@@ -1,0 +1,371 @@
+{
+    "ch_names": [
+        "ABT1",
+        "ABT2",
+        "ABT3",
+        "ABT4",
+        "MBT1",
+        "MBT2",
+        "MBT3",
+        "MBT4",
+        "PBT3",
+        "PBT4",
+        "RAD1",
+        "RAD2",
+        "RAD3",
+        "RAD4",
+        "RAD5",
+        "RAD6",
+        "RAD7",
+        "PBT1",
+        "PBT2",
+        "RHD1",
+        "RHD2",
+        "RHD3",
+        "RHD4",
+        "RHD5",
+        "RHD6",
+        "RHD7",
+        "RHD8",
+        "RHD9",
+        "RTG1",
+        "RTG2",
+        "RTG3",
+        "RTG4",
+        "RTG5",
+        "RTG6",
+        "RTG7",
+        "RTG8",
+        "RTG9",
+        "RTG10",
+        "RTG11",
+        "RTG12",
+        "RTG13",
+        "RTG14",
+        "RTG15",
+        "RTG16",
+        "RTG17",
+        "RTG19",
+        "RTG20",
+        "RTG23",
+        "RTG24",
+        "RTG25",
+        "RTG27",
+        "RTG28",
+        "RTG29",
+        "RTG30",
+        "RTG31",
+        "RTG32",
+        "RTG33",
+        "RTG34",
+        "RTG35",
+        "RTG36",
+        "RTG37",
+        "RTG38",
+        "RTG39",
+        "RTG40",
+        "RTG41",
+        "RTG42",
+        "RTG43",
+        "RTG44",
+        "RTG45",
+        "RTG46",
+        "RTG47",
+        "RTG48",
+        "RTG49",
+        "RTG50",
+        "RTG51",
+        "RTG52",
+        "RTG53",
+        "RTG54",
+        "RTG55",
+        "RTG56",
+        "RTG57",
+        "RTG58",
+        "RTG59",
+        "RTG60",
+        "RTG61",
+        "RTG62",
+        "RTG63",
+        "RTG64"
+    ],
+    "clin_onset_event_id": null,
+    "clinonset_win": null,
+    "delta_vectors_shape": [
+        88,
+        88,
+        1648
+    ],
+    "events": [
+        [
+            0,
+            0,
+            10001
+        ],
+        [
+            0,
+            0,
+            10024
+        ],
+        [
+            0,
+            0,
+            10020
+        ],
+        [
+            438,
+            0,
+            10010
+        ],
+        [
+            438,
+            0,
+            10032
+        ],
+        [
+            478,
+            0,
+            10011
+        ],
+        [
+            478,
+            0,
+            10022
+        ],
+        [
+            493,
+            0,
+            10012
+        ],
+        [
+            493,
+            0,
+            10038
+        ],
+        [
+            542,
+            0,
+            10013
+        ],
+        [
+            542,
+            0,
+            10034
+        ],
+        [
+            557,
+            0,
+            10014
+        ],
+        [
+            557,
+            0,
+            10025
+        ],
+        [
+            637,
+            0,
+            10015
+        ],
+        [
+            637,
+            0,
+            10040
+        ],
+        [
+            645,
+            0,
+            10016
+        ],
+        [
+            645,
+            0,
+            10033
+        ],
+        [
+            646,
+            0,
+            10039
+        ],
+        [
+            661,
+            0,
+            10017
+        ],
+        [
+            661,
+            0,
+            10026
+        ],
+        [
+            685,
+            0,
+            10018
+        ],
+        [
+            685,
+            0,
+            10023
+        ],
+        [
+            709,
+            0,
+            10019
+        ],
+        [
+            709,
+            0,
+            10021
+        ],
+        [
+            862,
+            0,
+            10002
+        ],
+        [
+            862,
+            0,
+            10035
+        ],
+        [
+            917,
+            0,
+            10003
+        ],
+        [
+            917,
+            0,
+            10029
+        ],
+        [
+            950,
+            0,
+            10004
+        ],
+        [
+            950,
+            0,
+            10030
+        ],
+        [
+            1014,
+            0,
+            10005
+        ],
+        [
+            1014,
+            0,
+            10031
+        ],
+        [
+            1094,
+            0,
+            10006
+        ],
+        [
+            1094,
+            0,
+            10036
+        ],
+        [
+            1292,
+            0,
+            10007
+        ],
+        [
+            1292,
+            0,
+            10027
+        ],
+        [
+            1445,
+            0,
+            10008
+        ],
+        [
+            1445,
+            0,
+            10028
+        ],
+        [
+            1462,
+            0,
+            10009
+        ],
+        [
+            1462,
+            0,
+            10037
+        ]
+    ],
+    "events_id": {
+        "+0.000000": 10001,
+        "+108.000000": 10002,
+        "+115.000000": 10003,
+        "+119.000000": 10004,
+        "+127.000000": 10005,
+        "+137.000000": 10006,
+        "+162.000000": 10007,
+        "+181.000000": 10008,
+        "+183.000000": 10009,
+        "+55.000000": 10010,
+        "+60.000000": 10011,
+        "+62.000000": 10012,
+        "+68.000000": 10013,
+        "+70.000000": 10014,
+        "+80.000000": 10015,
+        "+81.000000": 10016,
+        "+83.000000": 10017,
+        "+86.000000": 10018,
+        "+89.000000": 10019,
+        "A1+A2 OFF": 10020,
+        "MARK ON": 10021,
+        "SZ EVENT # (PB SZ)": 10022,
+        "Schedule": 10023,
+        "Segment: REC START REC EEG": 10024,
+        "Z BLINKING": 10025,
+        "Z CONTINUES EATING": 10026,
+        "Z DEVOLUTION": 10027,
+        "Z ELECTROGRAPHIC END": 10028,
+        "Z FORCED HEAD TURN T": 10029,
+        "Z GENERALIZES": 10030,
+        "Z GTC MOVEMENTS": 10031,
+        "Z HIGH VOLT SEMIRHY": 10032,
+        "Z ICTAL BUILD": 10033,
+        "Z ICTAL BUILD RTG 39": 10034,
+        "Z LOOKING UP TO THE": 10035,
+        "Z OXYGEN MASK PLACED": 10036,
+        "Z POST ICTAL DEPRESS": 10037,
+        "Z RHY ALPHA RHD 5, R": 10038,
+        "Z SPREAD ABT, MBT, R": 10039,
+        "Z SPREAD RTG SCATTER": 10040
+    },
+    "length_recording": 206172,
+    "model_params": {
+        "method_to_use": "pinv",
+        "numcores": 20,
+        "perturbtype": "C",
+        "radius": 1.5,
+        "sfreq": 1000.0,
+        "stepsize": 125,
+        "tempdir": "/home/adam2392/hdd/derivatives/fragility/average/jh103/sub-jh103_ses-seizure_task-monitor_acq-ecog_run-03_proc-fragility_average_ieeg-tempdir",
+        "winsize": 250
+    },
+    "numwins": 1648,
+    "offsetwin": 1445,
+    "onsetwin": 478,
+    "output_fpath": "/home/adam2392/hdd/derivatives/fragility/average/jh103/sub-jh103_ses-presurgery_task-ictal_acq-ecog_run-03_proc-fragility_average_ieeg.json",
+    "perturbation_matrix_shape": [
+        88,
+        1648
+    ],
+    "reference": "average",
+    "sfreq": 1000.0,
+    "state_matrix_shape": [
+        88,
+        88,
+        1648
+    ],
+    "sz_offset_event_id": 10008,
+    "sz_onset_event_id": 10011
+}

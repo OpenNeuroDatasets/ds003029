@@ -1,0 +1,220 @@
+{
+    "ch_names": [
+        "U'2",
+        "U'7",
+        "U'8",
+        "T'1",
+        "T'2",
+        "T'3",
+        "T'4",
+        "T'5",
+        "T'6",
+        "T'7",
+        "T'8",
+        "X'1",
+        "U'9",
+        "X'2",
+        "X'11",
+        "X'12",
+        "X'13",
+        "X'14",
+        "X'15",
+        "S'1",
+        "S'2",
+        "S'3",
+        "S'4",
+        "S'7",
+        "S'8",
+        "R'1",
+        "R'2",
+        "R'8",
+        "R'9",
+        "Q'2",
+        "Q'3",
+        "Q'4",
+        "Q'7",
+        "Q'8",
+        "O'1",
+        "O'2",
+        "O'3",
+        "O'7",
+        "O'8",
+        "O'10",
+        "O'11",
+        "O'12",
+        "O'13",
+        "Y'1",
+        "Y'2",
+        "Y'3",
+        "Y'4",
+        "Y'7",
+        "Y'8",
+        "Y'9",
+        "Y'10",
+        "Y'11",
+        "Y'12",
+        "Y'13",
+        "Y'14",
+        "Y'15",
+        "Z'2",
+        "Z'9",
+        "Z'10",
+        "Z'11",
+        "Z'12",
+        "Z'13",
+        "Z'14"
+    ],
+    "clin_onset_event_id": null,
+    "clinonset_win": null,
+    "delta_vectors_shape": [
+        63,
+        63,
+        3359
+    ],
+    "events": [
+        [
+            0,
+            0,
+            10001
+        ],
+        [
+            0,
+            0,
+            10015
+        ],
+        [
+            0,
+            0,
+            10010
+        ],
+        [
+            959,
+            0,
+            10002
+        ],
+        [
+            959,
+            0,
+            10014
+        ],
+        [
+            969,
+            0,
+            10003
+        ],
+        [
+            969,
+            0,
+            10011
+        ],
+        [
+            998,
+            0,
+            10004
+        ],
+        [
+            998,
+            0,
+            10018
+        ],
+        [
+            1043,
+            0,
+            10005
+        ],
+        [
+            1043,
+            0,
+            10016
+        ],
+        [
+            1072,
+            0,
+            10006
+        ],
+        [
+            1072,
+            0,
+            10017
+        ],
+        [
+            1106,
+            0,
+            10007
+        ],
+        [
+            1106,
+            0,
+            10019
+        ],
+        [
+            1185,
+            0,
+            10008
+        ],
+        [
+            1185,
+            0,
+            10013
+        ],
+        [
+            1360,
+            0,
+            10009
+        ],
+        [
+            1360,
+            0,
+            10012
+        ]
+    ],
+    "events_id": {
+        "+0.000000": 10001,
+        "+120.175000": 10002,
+        "+121.369000": 10003,
+        "+125.044000": 10004,
+        "+130.661000": 10005,
+        "+134.285000": 10006,
+        "+138.515000": 10007,
+        "+148.413000": 10008,
+        "+170.182000": 10009,
+        "A1+A2 OFF": 10010,
+        "EEG onset T'1 ?": 10011,
+        "END": 10012,
+        "GTC": 10013,
+        "SZ 6PG": 10014,
+        "Segment: REC START Tech-Bi EEG": 10015,
+        "face tonic": 10016,
+        "head right": 10017,
+        "right arm": 10018,
+        "right clonic": 10019
+    },
+    "length_recording": 420122,
+    "model_params": {
+        "method_to_use": "pinv",
+        "numcores": 20,
+        "perturbtype": "C",
+        "radius": 1.5,
+        "sfreq": 1000.0,
+        "stepsize": 125,
+        "tempdir": "/home/adam2392/hdd/derivatives/fragility/average/la07/sub-la07_ses-seizure_task-monitor_acq-seeg_run-01_proc-fragility_average_ieeg-tempdir",
+        "winsize": 250
+    },
+    "numwins": 3359,
+    "offsetwin": 1360,
+    "onsetwin": 969,
+    "output_fpath": "/home/adam2392/hdd/derivatives/fragility/average/la07/sub-la07_ses-presurgery_task-ictal_acq-seeg_run-01_proc-fragility_average_ieeg.json",
+    "perturbation_matrix_shape": [
+        63,
+        3359
+    ],
+    "reference": "average",
+    "sfreq": 1000.0,
+    "state_matrix_shape": [
+        63,
+        63,
+        3359
+    ],
+    "sz_offset_event_id": 10009,
+    "sz_onset_event_id": 10003
+}

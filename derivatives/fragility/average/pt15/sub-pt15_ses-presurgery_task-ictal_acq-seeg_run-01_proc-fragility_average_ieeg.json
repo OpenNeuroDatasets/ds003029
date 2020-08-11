@@ -1,0 +1,216 @@
+{
+    "ch_names": [
+        "G3",
+        "G4",
+        "G5",
+        "G6",
+        "G7",
+        "G8",
+        "G11",
+        "G12",
+        "G15",
+        "G16",
+        "G19",
+        "G20",
+        "G21",
+        "G22",
+        "G23",
+        "G24",
+        "G27",
+        "G28",
+        "G29",
+        "G13",
+        "G14",
+        "G30",
+        "G31",
+        "G32",
+        "TT1",
+        "TT2",
+        "TT3",
+        "TT4",
+        "TT6",
+        "AST1",
+        "AST2",
+        "AST3",
+        "AST4",
+        "MST1",
+        "MST2",
+        "MST3",
+        "MST4",
+        "PST1",
+        "PST2",
+        "PPST1",
+        "PPST2",
+        "PPST3",
+        "PPST4",
+        "TO1",
+        "TO2",
+        "TO3",
+        "TO4",
+        "TO5",
+        "TO6",
+        "TP1",
+        "TP2",
+        "TP3",
+        "TP4",
+        "TP5",
+        "TP6",
+        "OF1",
+        "OF3",
+        "OF4",
+        "LIF1",
+        "LIF2",
+        "LIF3",
+        "LIF4",
+        "LIF5",
+        "LIF6",
+        "LSF1",
+        "LSF2",
+        "LSF3",
+        "LSF4",
+        "LSF5",
+        "LSF6",
+        "LSF7"
+    ],
+    "clin_onset_event_id": null,
+    "clinonset_win": null,
+    "delta_vectors_shape": [
+        71,
+        71,
+        5119
+    ],
+    "events": [
+        [
+            0,
+            0,
+            10001
+        ],
+        [
+            0,
+            0,
+            10015
+        ],
+        [
+            0,
+            0,
+            10009
+        ],
+        [
+            854,
+            0,
+            10002
+        ],
+        [
+            854,
+            0,
+            10017
+        ],
+        [
+            862,
+            0,
+            10003
+        ],
+        [
+            862,
+            0,
+            10010
+        ],
+        [
+            1205,
+            0,
+            10004
+        ],
+        [
+            1205,
+            0,
+            10013
+        ],
+        [
+            1235,
+            0,
+            10005
+        ],
+        [
+            1235,
+            0,
+            10016
+        ],
+        [
+            1237,
+            0,
+            10006
+        ],
+        [
+            1237,
+            0,
+            10014
+        ],
+        [
+            2151,
+            0,
+            10007
+        ],
+        [
+            2151,
+            0,
+            10011
+        ],
+        [
+            5108,
+            0,
+            10008
+        ],
+        [
+            5108,
+            0,
+            10012
+        ]
+    ],
+    "events_id": {
+        "+0.000000": 10001,
+        "+107.017000": 10002,
+        "+107.965000": 10003,
+        "+150.957000": 10004,
+        "+154.741000": 10005,
+        "+155.161000": 10006,
+        "+269.178000": 10007,
+        "+638.832000": 10008,
+        "A1+A2 OFF": 10009,
+        "Check": 10010,
+        "OFFSET": 10011,
+        "Offset": 10012,
+        "Onset": 10013,
+        "PST2, TT1": 10014,
+        "Segment: REC START Meyeroff E": 10015,
+        "Seizure #1": 10016,
+        "attenuation": 10017
+    },
+    "length_recording": 640026,
+    "model_params": {
+        "method_to_use": "pinv",
+        "numcores": 20,
+        "perturbtype": "C",
+        "radius": 1.5,
+        "sfreq": 1000.0,
+        "stepsize": 125,
+        "tempdir": "/home/adam2392/hdd/derivatives/fragility/average/pt15/sub-pt15_ses-seizure_task-monitor_acq-seeg_run-01_proc-fragility_average_ieeg-tempdir",
+        "winsize": 250
+    },
+    "numwins": 5119,
+    "offsetwin": null,
+    "onsetwin": null,
+    "output_fpath": "/home/adam2392/hdd/derivatives/fragility/average/pt15/sub-pt15_ses-presurgery_task-ictal_acq-seeg_run-01_proc-fragility_average_ieeg.json",
+    "perturbation_matrix_shape": [
+        71,
+        5119
+    ],
+    "reference": "average",
+    "sfreq": 1000.0,
+    "state_matrix_shape": [
+        71,
+        71,
+        5119
+    ],
+    "sz_offset_event_id": null,
+    "sz_onset_event_id": null
+}

@@ -1,0 +1,254 @@
+{
+    "ch_names": [
+        "I'1",
+        "I'2",
+        "I'4",
+        "I'5",
+        "I'6",
+        "I'7",
+        "I'8",
+        "C'1",
+        "C'2",
+        "C'3",
+        "C'4",
+        "C'8",
+        "C'9",
+        "A1",
+        "A2",
+        "A3",
+        "A8",
+        "A9",
+        "A10",
+        "I1",
+        "I2",
+        "I3",
+        "I4",
+        "I5",
+        "I6",
+        "T1",
+        "T2",
+        "T3",
+        "T4",
+        "T5",
+        "T6",
+        "T7",
+        "O1",
+        "O2",
+        "O3",
+        "O4",
+        "O5",
+        "O6",
+        "O7",
+        "O8",
+        "E1",
+        "E2",
+        "E3",
+        "E4",
+        "E5",
+        "E6",
+        "E7",
+        "B2",
+        "B3",
+        "B4",
+        "B5",
+        "B9",
+        "B10",
+        "U1",
+        "U2",
+        "U3",
+        "U4",
+        "U5",
+        "U6",
+        "U7",
+        "U8"
+    ],
+    "clin_onset_event_id": null,
+    "clinonset_win": null,
+    "delta_vectors_shape": [
+        61,
+        61,
+        2943
+    ],
+    "events": [
+        [
+            0,
+            0,
+            10001
+        ],
+        [
+            0,
+            0,
+            10024
+        ],
+        [
+            0,
+            0,
+            10013
+        ],
+        [
+            956,
+            0,
+            10002
+        ],
+        [
+            956,
+            0,
+            10023
+        ],
+        [
+            958,
+            0,
+            10003
+        ],
+        [
+            958,
+            0,
+            10015
+        ],
+        [
+            959,
+            0,
+            10004
+        ],
+        [
+            959,
+            0,
+            10014
+        ],
+        [
+            1220,
+            0,
+            10005
+        ],
+        [
+            1220,
+            0,
+            10017
+        ],
+        [
+            1311,
+            0,
+            10006
+        ],
+        [
+            1311,
+            0,
+            10016
+        ],
+        [
+            1352,
+            0,
+            10007
+        ],
+        [
+            1352,
+            0,
+            10018
+        ],
+        [
+            1400,
+            0,
+            10008
+        ],
+        [
+            1400,
+            0,
+            10022
+        ],
+        [
+            1434,
+            0,
+            10009
+        ],
+        [
+            1434,
+            0,
+            10019
+        ],
+        [
+            1524,
+            0,
+            10010
+        ],
+        [
+            1524,
+            0,
+            10021
+        ],
+        [
+            1556,
+            0,
+            10011
+        ],
+        [
+            1556,
+            0,
+            10020
+        ],
+        [
+            1636,
+            0,
+            10012
+        ],
+        [
+            1636,
+            0,
+            10025
+        ]
+    ],
+    "events_id": {
+        "+0.000000": 10001,
+        "+119.823000": 10002,
+        "+119.893000": 10003,
+        "+120.135000": 10004,
+        "+152.850000": 10005,
+        "+164.190000": 10006,
+        "+169.260000": 10007,
+        "+175.340000": 10008,
+        "+179.510000": 10009,
+        "+190.830000": 10010,
+        "+194.770000": 10011,
+        "+204.737000": 10012,
+        "A1+A2 OFF": 10013,
+        "B/E+A sync": 10014,
+        "EEG Onset: B Mes": 10015,
+        "Feels \"awful\"": 10016,
+        "Following command": 10017,
+        "I am scared\"": 10018,
+        "Mouth automotor": 10019,
+        "R hand automotor": 10020,
+        "Repeating well": 10021,
+        "Right Fingers tingly": 10022,
+        "SZ 13P": 10023,
+        "Segment: REC START Tech-Bi EE": 10024,
+        "end": 10025
+    },
+    "length_recording": 368076,
+    "model_params": {
+        "method_to_use": "pinv",
+        "numcores": 20,
+        "perturbtype": "C",
+        "radius": 1.5,
+        "sfreq": 1000.0,
+        "stepsize": 125,
+        "tempdir": "/home/adam2392/hdd/derivatives/fragility/average/nl15/sub-nl15_ses-seizure_task-monitor_acq-seeg_run-01_proc-fragility_average_ieeg-tempdir",
+        "winsize": 250
+    },
+    "numwins": 2943,
+    "offsetwin": 1636,
+    "onsetwin": 958,
+    "output_fpath": "/home/adam2392/hdd/derivatives/fragility/average/nl15/sub-nl15_ses-presurgery_task-ictal_acq-seeg_run-01_proc-fragility_average_ieeg.json",
+    "perturbation_matrix_shape": [
+        61,
+        2943
+    ],
+    "reference": "average",
+    "sfreq": 1000.0,
+    "state_matrix_shape": [
+        61,
+        61,
+        2943
+    ],
+    "sz_offset_event_id": 10012,
+    "sz_onset_event_id": 10003
+}

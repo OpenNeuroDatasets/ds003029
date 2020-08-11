@@ -1,19 +1,6 @@
 Fragility Multi-Center Retrospective Study
 ------------------------------------------
 
-<!-- MarkdownTOC -->
-
-- Data Availability
-- Sourcedata
-- Derivatives
-- Events and Descriptions
-- Imaging Data
-- Seizure Electrographic and Clinical Onset Annotations
-- Seizure Onset Zone Annotations
-
-<!-- /MarkdownTOC -->
-
-
 iEEG and EEG data from 5 centers is organized here, with a total of 100 subjects. Sessions consist of 'seizures', and 'interictal' data. Acquisitions include ECoG and SEEG. Each run specifies a different snapshot of EEG data from that specific subject's session. For seizure sessions, this means that each run is a EEG snapshot around a different seizure event.
 
 For additional clinical metadata about each subject, refer to the clinical Excel table.
@@ -29,7 +16,6 @@ All data, except for Cleveland Clinic was approved by their centers to be de-ide
 Amber Sours, MPH
 Research Supervisor | Epilepsy Center 
 Cleveland Clinic  |  9500 Euclid Ave. S3-399 |  Cleveland, OH 44195 
-(216) 444-8638
 
 You will need to sign a data use agreement (DUA). 
 

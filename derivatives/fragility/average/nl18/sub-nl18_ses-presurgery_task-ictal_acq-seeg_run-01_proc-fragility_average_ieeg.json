@@ -1,0 +1,258 @@
+{
+    "ch_names": [
+        "C1",
+        "C2",
+        "C3",
+        "C4",
+        "C5",
+        "C11",
+        "C12",
+        "C13",
+        "F1",
+        "F2",
+        "F3",
+        "F4",
+        "F5",
+        "F6",
+        "F7",
+        "C10",
+        "F8",
+        "F9",
+        "F10",
+        "F11",
+        "F12",
+        "U1",
+        "U2",
+        "U3",
+        "U8",
+        "U9",
+        "U10",
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B6",
+        "B7",
+        "B10",
+        "B11",
+        "B12",
+        "B13",
+        "A1",
+        "A2",
+        "A3",
+        "A4",
+        "A5",
+        "A8",
+        "A9",
+        "A10",
+        "A11",
+        "A12",
+        "I1",
+        "I2",
+        "I3",
+        "I4",
+        "I5",
+        "I6",
+        "I7",
+        "I8",
+        "T1",
+        "T2",
+        "T3",
+        "T4",
+        "T5",
+        "T6",
+        "T7",
+        "J1",
+        "J2",
+        "J3",
+        "J4",
+        "J5",
+        "J6",
+        "J7",
+        "J8",
+        "J9",
+        "J12",
+        "J13",
+        "J14",
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5",
+        "S6",
+        "S7",
+        "S8",
+        "R1",
+        "R2",
+        "R3",
+        "R4",
+        "R5",
+        "R6",
+        "R7",
+        "Q1",
+        "Q2",
+        "Q3",
+        "Q4",
+        "Q5",
+        "Q6",
+        "X1",
+        "X2",
+        "X3",
+        "X10",
+        "X11",
+        "X12"
+    ],
+    "clin_onset_event_id": null,
+    "clinonset_win": null,
+    "delta_vectors_shape": [
+        101,
+        101,
+        3359
+    ],
+    "events": [
+        [
+            0,
+            0,
+            10004
+        ],
+        [
+            0,
+            0,
+            10017
+        ],
+        [
+            0,
+            0,
+            10013
+        ],
+        [
+            501,
+            0,
+            10007
+        ],
+        [
+            501,
+            0,
+            10014
+        ],
+        [
+            514,
+            0,
+            10008
+        ],
+        [
+            514,
+            0,
+            10015
+        ],
+        [
+            621,
+            0,
+            10009
+        ],
+        [
+            621,
+            0,
+            10001
+        ],
+        [
+            647,
+            0,
+            10010
+        ],
+        [
+            647,
+            0,
+            10003
+        ],
+        [
+            693,
+            0,
+            10011
+        ],
+        [
+            693,
+            0,
+            10019
+        ],
+        [
+            764,
+            0,
+            10012
+        ],
+        [
+            764,
+            0,
+            10002
+        ],
+        [
+            903,
+            0,
+            10005
+        ],
+        [
+            903,
+            0,
+            10018
+        ],
+        [
+            961,
+            0,
+            10006
+        ],
+        [
+            961,
+            0,
+            10016
+        ]
+    ],
+    "events_id": {
+        "\"do you ever get nau": 10001,
+        "\"still feeling it\"": 10002,
+        "\"yeah all the time\"": 10003,
+        "+0.000000": 10004,
+        "+113.150000": 10005,
+        "+120.316000": 10006,
+        "+62.861000": 10007,
+        "+64.400000": 10008,
+        "+77.810000": 10009,
+        "+81.050000": 10010,
+        "+86.770000": 10011,
+        "+95.780000": 10012,
+        "A1+A2 OFF": 10013,
+        "No EEG, PT report SZ": 10014,
+        "RN asks if he wants": 10015,
+        "SZ 1A": 10016,
+        "Segment: REC START Tech-Bi EE": 10017,
+        "feeling of facial ti": 10018,
+        "no tingling": 10019
+    },
+    "length_recording": 420024,
+    "model_params": {
+        "method_to_use": "pinv",
+        "numcores": 20,
+        "perturbtype": "C",
+        "radius": 1.5,
+        "sfreq": 1001.001001001001,
+        "stepsize": 125,
+        "tempdir": "/home/adam2392/hdd/derivatives/fragility/average/nl18/sub-nl18_ses-seizure_task-monitor_acq-seeg_run-01_proc-fragility_average_ieeg-tempdir",
+        "winsize": 250
+    },
+    "numwins": 3359,
+    "offsetwin": null,
+    "onsetwin": 501,
+    "output_fpath": "/home/adam2392/hdd/derivatives/fragility/average/nl18/sub-nl18_ses-presurgery_task-ictal_acq-seeg_run-01_proc-fragility_average_ieeg.json",
+    "perturbation_matrix_shape": [
+        101,
+        3359
+    ],
+    "reference": "average",
+    "sfreq": 1001.001001001001,
+    "state_matrix_shape": [
+        101,
+        101,
+        3359
+    ],
+    "sz_offset_event_id": null,
+    "sz_onset_event_id": 10007
+}

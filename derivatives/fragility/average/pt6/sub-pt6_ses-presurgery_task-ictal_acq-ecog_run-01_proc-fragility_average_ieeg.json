@@ -1,0 +1,189 @@
+{
+    "ch_names": [
+        "RFT1",
+        "RFT2",
+        "RFT3",
+        "RFT4",
+        "RFT5",
+        "RFT6",
+        "RALT1",
+        "RALT2",
+        "RALT3",
+        "RALT4",
+        "RAST1",
+        "RAST2",
+        "RAST3",
+        "RAST4",
+        "RPST1",
+        "RPST2",
+        "RPST3",
+        "RPST4",
+        "RPLT1",
+        "RPLT2",
+        "RPLT3",
+        "RALT5",
+        "RALT6",
+        "RPLT4",
+        "RPLT5",
+        "RPLT6",
+        "RAH1",
+        "RAH2",
+        "RAH3",
+        "RAH4",
+        "RPH1",
+        "RPH2",
+        "RPH3",
+        "RPH4",
+        "RA1",
+        "RA2",
+        "RA3",
+        "RA4",
+        "LFT1",
+        "LFT2",
+        "LFT3",
+        "LFT4",
+        "LFT5",
+        "LFT6",
+        "LALT1",
+        "LALT2",
+        "LALT3",
+        "LALT4",
+        "LALT5",
+        "LALT6",
+        "LAST1",
+        "LAST2",
+        "LAST3",
+        "LAST4",
+        "LPST1",
+        "LPST2",
+        "LPST3",
+        "LPST4",
+        "LPLT2",
+        "LPLT3",
+        "LPLT4",
+        "LPLT5",
+        "LPT1",
+        "LPT2",
+        "LPT3",
+        "LPT4",
+        "LPT5",
+        "LPT6",
+        "LAH1",
+        "LAH2",
+        "LAH3",
+        "LAH4",
+        "LPH1",
+        "LPH2",
+        "LPH3",
+        "LPH4",
+        "LA1",
+        "LA2",
+        "LA3",
+        "LA4"
+    ],
+    "clin_onset_event_id": null,
+    "clinonset_win": null,
+    "delta_vectors_shape": [
+        80,
+        80,
+        3032
+    ],
+    "events": [
+        [
+            0,
+            0,
+            10001
+        ],
+        [
+            0,
+            0,
+            10009
+        ],
+        [
+            0,
+            0,
+            10007
+        ],
+        [
+            947,
+            0,
+            10002
+        ],
+        [
+            947,
+            0,
+            10006
+        ],
+        [
+            966,
+            0,
+            10003
+        ],
+        [
+            966,
+            0,
+            10010
+        ],
+        [
+            1335,
+            0,
+            10004
+        ],
+        [
+            1335,
+            0,
+            10008
+        ],
+        [
+            1828,
+            0,
+            10005
+        ],
+        [
+            1828,
+            0,
+            10011
+        ]
+    ],
+    "events_id": {
+        "+0.000000": 10001,
+        "+118.624000": 10002,
+        "+121.162000": 10003,
+        "+167.303000": 10004,
+        "+228.904000": 10005,
+        "1st change": 10006,
+        "A1+A2 OFF": 10007,
+        "GTC": 10008,
+        "Segment: REC START JOHNSON D": 10009,
+        "ictal onset": 10010,
+        "offset": 10011
+    },
+    "length_recording": 379145,
+    "model_params": {
+        "method_to_use": "pinv",
+        "numcores": 20,
+        "perturbtype": "C",
+        "radius": 1.5,
+        "sfreq": 1000.0,
+        "stepsize": 125,
+        "tempdir": "/home/adam2392/hdd/derivatives/fragility/average/pt6/sub-pt6_ses-seizure_task-monitor_acq-ecog_run-01_proc-fragility_average_ieeg-tempdir",
+        "winsize": 250
+    },
+    "numwins": 3032,
+    "offsetwin": 1828,
+    "onsetwin": 966,
+    "output_fpath": "/home/adam2392/hdd/derivatives/fragility/average/pt6/sub-pt6_ses-presurgery_task-ictal_acq-ecog_run-01_proc-fragility_average_ieeg.json",
+    "perturbation_matrix_shape": [
+        80,
+        3032
+    ],
+    "reference": "average",
+    "sfreq": 1000.0,
+    "state_matrix_shape": [
+        80,
+        80,
+        3032
+    ],
+    "sz_offset_event_id": 10005,
+    "sz_onset_event_id": 10003
+}

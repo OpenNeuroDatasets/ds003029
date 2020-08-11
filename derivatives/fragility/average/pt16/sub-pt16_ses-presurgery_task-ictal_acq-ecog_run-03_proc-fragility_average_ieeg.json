@@ -1,0 +1,131 @@
+{
+    "ch_names": [
+        "OF1",
+        "OF2",
+        "OF3",
+        "OF4",
+        "TT1",
+        "TT2",
+        "TT3",
+        "TT4",
+        "TT5",
+        "TT6",
+        "AST3",
+        "AST4",
+        "MST1",
+        "MST2",
+        "MST3",
+        "MST4",
+        "PST1",
+        "PST2",
+        "PST3",
+        "PST4",
+        "G4",
+        "AST1",
+        "AST2",
+        "G5",
+        "G6",
+        "G7",
+        "G8",
+        "G12",
+        "G13",
+        "G14",
+        "G15",
+        "G16",
+        "G18",
+        "G19",
+        "G20",
+        "G21",
+        "G22",
+        "G23",
+        "G24",
+        "G26",
+        "G27",
+        "G28",
+        "G29",
+        "G30",
+        "G31",
+        "G32"
+    ],
+    "clin_onset_event_id": null,
+    "clinonset_win": null,
+    "delta_vectors_shape": [
+        46,
+        46,
+        3612
+    ],
+    "events": [
+        [
+            0,
+            0,
+            10001
+        ],
+        [
+            0,
+            0,
+            10005
+        ],
+        [
+            0,
+            0,
+            10004
+        ],
+        [
+            1125,
+            0,
+            10002
+        ],
+        [
+            1125,
+            0,
+            10007
+        ],
+        [
+            1878,
+            0,
+            10003
+        ],
+        [
+            1878,
+            0,
+            10006
+        ]
+    ],
+    "events_id": {
+        "+0.000000": 10001,
+        "+140.917000": 10002,
+        "+235.241000": 10003,
+        "A1+A2 OFF": 10004,
+        "Segment: REC START SB-REF EEG": 10005,
+        "offset": 10006,
+        "onset": 10007
+    },
+    "length_recording": 451694,
+    "model_params": {
+        "method_to_use": "pinv",
+        "numcores": 20,
+        "perturbtype": "C",
+        "radius": 1.5,
+        "sfreq": 1000.0,
+        "stepsize": 125,
+        "tempdir": "/home/adam2392/hdd/derivatives/fragility/average/pt16/sub-pt16_ses-seizure_task-monitor_acq-ecog_run-03_proc-fragility_average_ieeg-tempdir",
+        "winsize": 250
+    },
+    "numwins": 3612,
+    "offsetwin": 1878,
+    "onsetwin": 1125,
+    "output_fpath": "/home/adam2392/hdd/derivatives/fragility/average/pt16/sub-pt16_ses-presurgery_task-ictal_acq-ecog_run-03_proc-fragility_average_ieeg.json",
+    "perturbation_matrix_shape": [
+        46,
+        3612
+    ],
+    "reference": "average",
+    "sfreq": 1000.0,
+    "state_matrix_shape": [
+        46,
+        46,
+        3612
+    ],
+    "sz_offset_event_id": 10003,
+    "sz_onset_event_id": 10002
+}
