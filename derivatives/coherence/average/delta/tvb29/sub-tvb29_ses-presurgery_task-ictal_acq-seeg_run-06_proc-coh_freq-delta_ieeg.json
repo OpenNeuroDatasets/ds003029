@@ -104,7 +104,6 @@
         "C'12",
         "C'13",
         "C'14",
-        "C'15",
         "O'1",
         "O'2",
         "O'6",
@@ -312,7 +311,7 @@
         "what do you feel? th": 29
     },
     "fmax": 4,
-    "fmin": 1.0,
+    "fmin": 2.0,
     "length_recording": 197026,
     "model_params": {
         "stepsize": 500,
@@ -324,8 +323,8 @@
     "reference": "average",
     "sfreq": 1000.0,
     "spectral_connectivity_matrix_shape": [
-        130,
-        130,
+        129,
+        129,
         390
     ],
     "sz_offset_event_id": 26,

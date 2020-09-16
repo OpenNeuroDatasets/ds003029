@@ -26,9 +26,6 @@
         "X'8",
         "X'9",
         "U'1",
-        "U'2",
-        "U'3",
-        "U'4",
         "U'5",
         "U'6",
         "U'7",
@@ -136,7 +133,7 @@
         "SZ 2PG": 6
     },
     "fmax": 4,
-    "fmin": 1.0,
+    "fmin": 2.0,
     "length_recording": 541000,
     "model_params": {
         "stepsize": 500,
@@ -148,8 +145,8 @@
     "reference": "average",
     "sfreq": 1000.0,
     "spectral_connectivity_matrix_shape": [
-        92,
-        92,
+        89,
+        89,
         1078
     ],
     "sz_offset_event_id": 2,

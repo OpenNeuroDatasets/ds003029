@@ -60,7 +60,7 @@
     },
     "n_wins": 90,
     "output_fname": "sub-umf004_ses-presurgery_task-interictal_acq-seeg_run-01_proc-coh_freq-alpha_ieeg.npz",
-    "output_fpath": "/home/adam2392/hdd/derivatives/coherence/average/umf004/sub-umf004_ses-presurgery_task-interictal_acq-seeg_run-01_proc-coh_freq-alpha_ieeg.npz",
+    "output_fpath": "/home/adam2392/hdd/derivatives/coherence/average/alpha/umf004/sub-umf004_ses-presurgery_task-interictal_acq-seeg_run-01_proc-coh_freq-alpha_ieeg.npz",
     "reference": "average",
     "sfreq": 1000.0,
     "spectral_connectivity_matrix_shape": [

@@ -227,7 +227,7 @@
     },
     "n_wins": 660,
     "output_fname": "sub-pt3_ses-presurgery_task-ictal_acq-ecog_run-01_proc-coh_freq-theta_ieeg.npz",
-    "output_fpath": "/home/adam2392/hdd/derivatives/coherence/average/pt3/sub-pt3_ses-presurgery_task-ictal_acq-ecog_run-01_proc-coh_freq-theta_ieeg.npz",
+    "output_fpath": "/home/adam2392/hdd/derivatives/coherence/average/theta/pt3/sub-pt3_ses-presurgery_task-ictal_acq-ecog_run-01_proc-coh_freq-theta_ieeg.npz",
     "reference": "average",
     "sfreq": 1000.0,
     "spectral_connectivity_matrix_shape": [

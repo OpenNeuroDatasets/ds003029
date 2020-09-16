@@ -26,9 +26,6 @@
         "X'8",
         "X'9",
         "U'1",
-        "U'2",
-        "U'3",
-        "U'4",
         "U'5",
         "U'6",
         "U'7",
@@ -178,8 +175,8 @@
     "reference": "average",
     "sfreq": 1000.0,
     "spectral_connectivity_matrix_shape": [
-        92,
-        92,
+        89,
+        89,
         877
     ],
     "sz_offset_event_id": 9,

@@ -165,7 +165,7 @@
         "unable to say name": 17
     },
     "fmax": 4,
-    "fmin": 0.5,
+    "fmin": 2.0,
     "length_recording": 454894,
     "model_params": {
         "stepsize": 500,
@@ -173,7 +173,7 @@
     },
     "n_wins": 905,
     "output_fname": "sub-pt10_ses-presurgery_task-ictal_acq-ecog_run-01_proc-coh_freq-delta_ieeg.npz",
-    "output_fpath": "/home/adam2392/hdd/derivatives/coherence/average/pt10/sub-pt10_ses-presurgery_task-ictal_acq-ecog_run-01_proc-coh_freq-delta_ieeg.npz",
+    "output_fpath": "/home/adam2392/hdd/derivatives/coherence/average/delta/pt10/sub-pt10_ses-presurgery_task-ictal_acq-ecog_run-01_proc-coh_freq-delta_ieeg.npz",
     "reference": "average",
     "sfreq": 1000.0,
     "spectral_connectivity_matrix_shape": [

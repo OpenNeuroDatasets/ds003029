@@ -315,7 +315,7 @@
         "understands (good vi": 27
     },
     "fmax": 4,
-    "fmin": 0.5,
+    "fmin": 2.0,
     "length_recording": 473052,
     "model_params": {
         "stepsize": 500,
@@ -323,7 +323,7 @@
     },
     "n_wins": 942,
     "output_fname": "sub-la28_ses-presurgery_task-ictal_acq-seeg_run-08_proc-coh_freq-delta_ieeg.npz",
-    "output_fpath": "/home/adam2392/hdd/derivatives/coherence/average/la28/sub-la28_ses-presurgery_task-ictal_acq-seeg_run-08_proc-coh_freq-delta_ieeg.npz",
+    "output_fpath": "/home/adam2392/hdd/derivatives/coherence/average/delta/la28/sub-la28_ses-presurgery_task-ictal_acq-seeg_run-08_proc-coh_freq-delta_ieeg.npz",
     "reference": "average",
     "sfreq": 1000.0,
     "spectral_connectivity_matrix_shape": [

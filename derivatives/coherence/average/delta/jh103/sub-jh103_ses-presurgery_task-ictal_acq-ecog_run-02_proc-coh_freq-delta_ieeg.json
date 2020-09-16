@@ -384,7 +384,7 @@
         "Z WHOLE BODY JERK": 48
     },
     "fmax": 4,
-    "fmin": 0.5,
+    "fmin": 2.0,
     "length_recording": 232116,
     "model_params": {
         "stepsize": 500,
@@ -392,7 +392,7 @@
     },
     "n_wins": 460,
     "output_fname": "sub-jh103_ses-presurgery_task-ictal_acq-ecog_run-02_proc-coh_freq-delta_ieeg.npz",
-    "output_fpath": "/home/adam2392/hdd/derivatives/coherence/average/jh103/sub-jh103_ses-presurgery_task-ictal_acq-ecog_run-02_proc-coh_freq-delta_ieeg.npz",
+    "output_fpath": "/home/adam2392/hdd/derivatives/coherence/average/delta/jh103/sub-jh103_ses-presurgery_task-ictal_acq-ecog_run-02_proc-coh_freq-delta_ieeg.npz",
     "reference": "average",
     "sfreq": 1000.0,
     "spectral_connectivity_matrix_shape": [

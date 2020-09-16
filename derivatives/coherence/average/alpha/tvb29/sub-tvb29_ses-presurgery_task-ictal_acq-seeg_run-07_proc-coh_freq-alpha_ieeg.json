@@ -104,7 +104,6 @@
         "C'12",
         "C'13",
         "C'14",
-        "C'15",
         "O'1",
         "O'2",
         "O'6",
@@ -360,8 +359,8 @@
     "reference": "average",
     "sfreq": 1000.0,
     "spectral_connectivity_matrix_shape": [
-        130,
-        130,
+        129,
+        129,
         1436
     ],
     "sz_offset_event_id": null,

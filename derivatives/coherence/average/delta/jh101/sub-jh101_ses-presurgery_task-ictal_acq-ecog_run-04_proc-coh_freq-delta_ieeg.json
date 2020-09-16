@@ -235,7 +235,7 @@
         "Z POST ICTAL DEPRESS": 20
     },
     "fmax": 4,
-    "fmin": 0.5,
+    "fmin": 2.0,
     "length_recording": 153000,
     "model_params": {
         "stepsize": 500,
@@ -243,7 +243,7 @@
     },
     "n_wins": 302,
     "output_fname": "sub-jh101_ses-presurgery_task-ictal_acq-ecog_run-04_proc-coh_freq-delta_ieeg.npz",
-    "output_fpath": "/home/adam2392/hdd/derivatives/coherence/average/jh101/sub-jh101_ses-presurgery_task-ictal_acq-ecog_run-04_proc-coh_freq-delta_ieeg.npz",
+    "output_fpath": "/home/adam2392/hdd/derivatives/coherence/average/delta/jh101/sub-jh101_ses-presurgery_task-ictal_acq-ecog_run-04_proc-coh_freq-delta_ieeg.npz",
     "reference": "average",
     "sfreq": 1000.0,
     "spectral_connectivity_matrix_shape": [

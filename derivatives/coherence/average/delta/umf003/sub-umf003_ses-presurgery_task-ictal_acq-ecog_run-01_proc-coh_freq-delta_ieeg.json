@@ -90,7 +90,7 @@
         "eeg sz start": 2
     },
     "fmax": 4,
-    "fmin": 0.5,
+    "fmin": 2.0,
     "length_recording": 97104,
     "model_params": {
         "stepsize": 500,
@@ -98,7 +98,7 @@
     },
     "n_wins": 190,
     "output_fname": "sub-umf003_ses-presurgery_task-ictal_acq-ecog_run-01_proc-coh_freq-delta_ieeg.npz",
-    "output_fpath": "/home/adam2392/hdd/derivatives/coherence/average/umf003/sub-umf003_ses-presurgery_task-ictal_acq-ecog_run-01_proc-coh_freq-delta_ieeg.npz",
+    "output_fpath": "/home/adam2392/hdd/derivatives/coherence/average/delta/umf003/sub-umf003_ses-presurgery_task-ictal_acq-ecog_run-01_proc-coh_freq-delta_ieeg.npz",
     "reference": "average",
     "sfreq": 499.7501249375312,
     "spectral_connectivity_matrix_shape": [

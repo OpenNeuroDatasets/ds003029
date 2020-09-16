@@ -363,7 +363,7 @@
     },
     "n_wins": 878,
     "output_fname": "sub-la00_ses-presurgery_task-ictal_acq-seeg_run-01_proc-coh_freq-highgamma_ieeg.npz",
-    "output_fpath": "/home/adam2392/hdd/derivatives/coherence/average/la00/sub-la00_ses-presurgery_task-ictal_acq-seeg_run-01_proc-coh_freq-highgamma_ieeg.npz",
+    "output_fpath": "/home/adam2392/hdd/derivatives/coherence/average/highgamma/la00/sub-la00_ses-presurgery_task-ictal_acq-seeg_run-01_proc-coh_freq-highgamma_ieeg.npz",
     "reference": "average",
     "sfreq": 1000.0,
     "spectral_connectivity_matrix_shape": [

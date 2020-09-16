@@ -42,7 +42,7 @@
         "New Segment/": 1
     },
     "fmax": 4,
-    "fmin": 0.5,
+    "fmin": 2.0,
     "length_recording": 68016,
     "model_params": {
         "stepsize": 500,
@@ -50,7 +50,7 @@
     },
     "n_wins": 132,
     "output_fname": "sub-umf005_ses-presurgery_task-interictal_acq-ecog_run-01_proc-coh_freq-delta_ieeg.npz",
-    "output_fpath": "/home/adam2392/hdd/derivatives/coherence/average/umf005/sub-umf005_ses-presurgery_task-interictal_acq-ecog_run-01_proc-coh_freq-delta_ieeg.npz",
+    "output_fpath": "/home/adam2392/hdd/derivatives/coherence/average/delta/umf005/sub-umf005_ses-presurgery_task-interictal_acq-ecog_run-01_proc-coh_freq-delta_ieeg.npz",
     "reference": "average",
     "sfreq": 1025.6410256410256,
     "spectral_connectivity_matrix_shape": [

@@ -109,7 +109,7 @@
         "REC START Tech-Bi EE": 3
     },
     "fmax": 4,
-    "fmin": 0.5,
+    "fmin": 2.0,
     "length_recording": 361000,
     "model_params": {
         "stepsize": 500,
@@ -117,7 +117,7 @@
     },
     "n_wins": 718,
     "output_fname": "sub-la00_ses-presurgery_task-interictal_acq-seeg_run-01_proc-coh_freq-delta_ieeg.npz",
-    "output_fpath": "/home/adam2392/hdd/derivatives/coherence/average/la00/sub-la00_ses-presurgery_task-interictal_acq-seeg_run-01_proc-coh_freq-delta_ieeg.npz",
+    "output_fpath": "/home/adam2392/hdd/derivatives/coherence/average/delta/la00/sub-la00_ses-presurgery_task-interictal_acq-seeg_run-01_proc-coh_freq-delta_ieeg.npz",
     "reference": "average",
     "sfreq": 1000.0,
     "spectral_connectivity_matrix_shape": [

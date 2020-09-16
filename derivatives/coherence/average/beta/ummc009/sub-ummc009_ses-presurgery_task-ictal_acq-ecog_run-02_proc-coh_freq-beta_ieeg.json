@@ -73,7 +73,7 @@
     },
     "n_wins": 288,
     "output_fname": "sub-ummc009_ses-presurgery_task-ictal_acq-ecog_run-02_proc-coh_freq-beta_ieeg.npz",
-    "output_fpath": "/home/adam2392/hdd/derivatives/coherence/average/ummc009/sub-ummc009_ses-presurgery_task-ictal_acq-ecog_run-02_proc-coh_freq-beta_ieeg.npz",
+    "output_fpath": "/home/adam2392/hdd/derivatives/coherence/average/beta/ummc009/sub-ummc009_ses-presurgery_task-ictal_acq-ecog_run-02_proc-coh_freq-beta_ieeg.npz",
     "reference": "average",
     "sfreq": 1000.0,
     "spectral_connectivity_matrix_shape": [
