@@ -33,5 +33,7 @@
     "Acknowledgements": "Maryland Advanced Research Computing Center (MARCC)",
     "EthicsApprovals": [
         "IRBs at JHH, UMMC, UMF, CC, NIH"
-    ]
+    ],
+    "HowToAcknowledge": "Please cite: https://www.biorxiv.org/content/10.1101/862797v2\n\ndoi: https://doi.org/10.1101/862797",
+    "License": "CC0"
 }
