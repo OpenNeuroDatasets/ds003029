@@ -36,5 +36,8 @@
         "IRBs at JHH, UMMC, UMF, NIH"
     ],
     "HowToAcknowledge": "Please cite: https://www.biorxiv.org/content/10.1101/862797v3\n\ndoi: https://doi.org/10.1101/862797",
-    "License": "CC0"
+    "License": "CC0",
+    "ReferencesAndLinks": [
+        "Adam Li, Chester Huynh, Zachary Fitzgerald, Iahn Cajigas, Damian Brusko, Jonathan Jagid, Angel Claudio, Andres Kanner, Jennifer Hopp, Stephanie Chen, Jennifer Haagensen, Emily Johnson, William Anderson, Nathan Crone, Sara Inati, Kareem Zaghloul, Juan Bulacio, Jorge Gonzalez-Martinez, Sridevi V. Sarma. Neural Fragility as an EEG Marker of the Seizure Onset Zone. bioRxiv 862797; doi: https://doi.org/10.1101/862797"
+    ]
 }
