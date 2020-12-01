@@ -1,11 +1,11 @@
 Fragility Multi-Center Retrospective Study
 ------------------------------------------
 
-iEEG and EEG data from 5 centers is organized here, with a total of 100 subjects. Sessions consist of 'seizures', and 'interictal' data. Acquisitions include ECoG and SEEG. Each run specifies a different snapshot of EEG data from that specific subject's session. For seizure sessions, this means that each run is a EEG snapshot around a different seizure event.
+iEEG and EEG data from 5 centers is organized in our study with a total of 100 subjects. We publish 4 centers' dataset here due to data sharing issues. 
 
-For additional clinical metadata about each subject, refer to the clinical Excel table.
+Acquisitions include ECoG and SEEG. Each run specifies a different snapshot of EEG data from that specific subject's session. For seizure sessions, this means that each run is a EEG snapshot around a different seizure event.
 
-Electrode coordinates were derived from from each subject with available CT images. T1 MRI images were processed with FreeSurfer, and then electrode coordinates were mapped to FreeSurfer space.
+For additional clinical metadata about each subject, refer to the clinical Excel table in the publication.
 
 Data Availability
 -----------------
@@ -19,7 +19,6 @@ Cleveland Clinic  |  9500 Euclid Ave. S3-399 |  Cleveland, OH 44195
 (216) 444-8638
 
 You will need to sign a data use agreement (DUA).
-
 
 Sourcedata
 ----------
