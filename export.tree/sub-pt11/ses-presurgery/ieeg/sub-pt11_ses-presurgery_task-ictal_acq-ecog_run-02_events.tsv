@@ -1,8 +1,0 @@
-onset	duration	trial_type	value	sample
-0.0	0.0	+0.000000	1	0
-0.0	0.0	Segment: REC START Harmon Ref	5	0
-0.0	0.0	A1+A2 OFF	4	0
-75.67	0.0	+75.760000	3	75670
-75.67	0.0	onset	7	75670
-183.54	0.0	+183.718000	2	183540
-183.54	0.0	offset	6	183540
