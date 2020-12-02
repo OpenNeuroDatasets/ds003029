@@ -1,0 +1,8 @@
+onset	duration	trial_type	value	sample
+0.0	0.0	+0.000000	1	0
+0.0	0.0	Segment: REC START EL-Ref EEG	5	0
+0.0	0.0	A1+A2 OFF	4	0
+67.592	0.0	+67.816000	3	135184
+67.592	0.0	onset	7	135184
+199.652	0.0	+199.908000	2	399304
+199.652	0.0	offset	6	399304

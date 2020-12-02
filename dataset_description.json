@@ -1,5 +1,5 @@
 {
-    "Name": "Epilepsy-iEEG-Multicenter-Dataset",
+    "Name": "iEEG-Multicenter-Dataset",
     "BIDSVersion": "1.4.0",
     "DatasetType": "raw",
     "Authors": [

@@ -5,9 +5,8 @@ sub-jh103	n/a	n/a	n/a	F	4.0	6.0	n/a	n/a	1.0	JHH
 sub-jh104	n/a	n/a	n/a	NR	-1.0	-1.0	n/a	n/a	1.0	JHH
 sub-jh105	n/a	n/a	n/a	S	1.0	1.0	n/a	n/a	1.0	JHH
 sub-jh106	n/a	n/a	n/a	NR	-1.0	-1.0	n/a	n/a	1.0	JHH
-sub-jh107	n/a	n/a	n/a	S	1.0	1.0	n/a	n/a	1.0	JHH
 sub-jh108	n/a	n/a	n/a	F	4.0	6.0	n/a	n/a	1.0	JHH
-sub-pt1	30.0	F	R	S	1.0	2.0	n/a	0.0	3.0	NIH
+sub-pt01	30.0	F	R	S	1.0	2.0	n/a	0.0	3.0	NIH
 sub-pt10	44.0	F	R	F	2.0	3.0	n/a	0.0	1.0	NIH
 sub-pt11	31.0	M	R	S	1.0	1.0	n/a	0.0	1.0	NIH
 sub-pt12	43.0	F	R	F	2.0	4.0	n/a	2.0	5.0	NIH
