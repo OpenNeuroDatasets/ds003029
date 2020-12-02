@@ -1,0 +1,18 @@
+{
+    "TaskName": "interictal",
+    "Manufacturer": "n/a",
+    "PowerLineFrequency": 60,
+    "SamplingFrequency": 1000.0,
+    "SoftwareFilters": "n/a",
+    "RecordingDuration": 397.124,
+    "RecordingType": "continuous",
+    "iEEGReference": "n/a",
+    "ECOGChannelCount": 76,
+    "SEEGChannelCount": 0,
+    "EEGChannelCount": 0,
+    "EOGChannelCount": 0,
+    "ECGChannelCount": 0,
+    "EMGChannelCount": 0,
+    "MiscChannelCount": 10,
+    "TriggerChannelCount": 0
+}
