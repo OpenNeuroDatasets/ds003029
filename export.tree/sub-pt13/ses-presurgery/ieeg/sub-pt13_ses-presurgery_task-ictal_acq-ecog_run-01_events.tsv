@@ -1,8 +1,0 @@
-onset	duration	trial_type	value	sample
-0.0	0.0	+0.000000	1	0
-0.0	0.0	Segment: REC START Par-Cac2 E	5	0
-0.0	0.0	A1+A2 OFF	4	0
-68.08	0.0	+68.127000	2	68080
-68.08	0.0	sz onset #18	7	68080
-77.28	0.0	+77.396000	3	77280
-77.28	0.0	offset	6	77280
