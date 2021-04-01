@@ -1,0 +1,10 @@
+onset	duration	trial_type	value	sample
+0.0	0.0	+0.000000	1	0
+0.0	0.0	Segment: REC START Carr-susan	6	0
+0.0	0.0	A1+A2 OFF	5	0
+90.508	0.0	+90.745000	4	90508
+90.508	0.0	eeg onset	7	90508
+112.574	0.0	+112.606000	2	112574
+112.574	0.0	eeg onset	7	112574
+206.074	0.0	+206.194000	3	206074
+206.074	0.0	offset	8	206074
