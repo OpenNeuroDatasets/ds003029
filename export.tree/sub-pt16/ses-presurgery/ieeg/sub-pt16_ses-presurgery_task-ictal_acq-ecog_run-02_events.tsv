@@ -1,8 +1,0 @@
-onset	duration	trial_type	value	sample
-0.0	0.0	+0.000000	1	0
-0.0	0.0	Segment: REC START SB-REF EEG	6	0
-0.0	0.0	A1+A2 OFF	4	0
-92.049	0.0	+92.506000	3	92049
-92.049	0.0	onset	7	92049
-205.727	0.0	+206.226000	2	205727
-205.727	0.0	Offset	5	205727
