@@ -46,6 +46,11 @@ Derivatives include:
 These can be computed by following the following paper:
 [Neural Fragility as an EEG Marker for the Seizure Onset Zone](https://www.biorxiv.org/content/10.1101/862797v3)
 
+Channel locations in (x,y,z) coordinates
+--------------------------------------------------------
+
+Unfortunately, the necessary T1 MRI, and CT scans to estimate these were not collected/processed, and exact channel locations are not available for any subject in this dataset as of 09/05/2023.
+
 Events and Descriptions
 -----------------------------------
 
