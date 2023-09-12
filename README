@@ -30,9 +30,13 @@ Sourcedata
 ----------------
 
 For each subject, there was a raw EDF file, which was converted into the BrainVision format with `mne_bids`.
-Each subject with SEEG implantation, also has an Excel table, called `electrode_layout.xlsx`, which outlines where the clinicians marked each electrode anatomically. Note that there is no rigorous atlas applied, so the main points of interest are: `WM`, `GM`, `VENTRICLE`, `CSF`, and `OUT`, which represent white-matter, gray-matter, ventricle, cerebrospinal fluid and outside the brain. WM, Ventricle, CSF and OUT were removed channels from further analysis. These were labeled in the corresponding BIDS `channels.tsv` sidecar file as `status=bad`.
+
+Each subject with SEEG implantation from Cleveland Clinic, also has an Excel table, called `electrode_layout.xlsx`, which outlines where the clinicians marked each electrode anatomically. Note that there is no rigorous atlas applied, so the main points of interest are: `WM`, `GM`, `VENTRICLE`, `CSF`, and `OUT`, which represent white-matter, gray-matter, ventricle, cerebrospinal fluid and outside the brain. WM, Ventricle, CSF and OUT were removed channels from further analysis. These were labeled in the corresponding BIDS `channels.tsv` sidecar file as `status=bad`.
+
 The dataset uploaded to `openneuro.org` does not contain the `sourcedata` since there was an extra
 anonymization step that occurred when fully converting to BIDS.
+
+
 
 Derivatives
 ----------------
@@ -49,7 +53,7 @@ These can be computed by following the following paper:
 Channel locations in (x,y,z) coordinates
 --------------------------------------------------------
 
-Unfortunately, the necessary T1 MRI, and CT scans to estimate these were not collected/processed, and exact channel locations are not available for any subject in this dataset as of 09/05/2023.
+Unfortunately, the necessary T1 MRI, and CT scans to estimate these were not collected/processed, and exact channel locations are not available for any subject in this dataset as of 09/05/2023. The approximate brain regions of the hypothesized epileptic regions are stated in the metadata and paper.
 
 Events and Descriptions
 -----------------------------------
