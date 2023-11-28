@@ -77,7 +77,7 @@ For various datasets, there are seizures present within the dataset. Generally t
 Clinical onset are just manifestation of the seizures with clinical syndromes. Sometimes the maker may not be present.
 
 Seizure Onset Zone Annotations
-------------------------------
+-----------------------------------------------
 What is actually important in the evaluation of datasets is the clinical annotations of their localization hypotheses of the seizure onset zone.
 
 These generally include:
